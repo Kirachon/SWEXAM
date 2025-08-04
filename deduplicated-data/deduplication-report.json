@@ -1,0 +1,24 @@
+{
+  "summary": {
+    "originalQuestions": 500,
+    "duplicatesFound": 450,
+    "uniqueQuestions": 50,
+    "replacementQuestions": 450,
+    "finalQuestions": 500,
+    "processedAt": "2025-08-04T07:29:59.172Z"
+  },
+  "duplicatesBySet": {
+    "1": 50,
+    "2": 100,
+    "3": 100,
+    "4": 100,
+    "5": 100
+  },
+  "replacementsBySet": {
+    "1": 50,
+    "2": 100,
+    "3": 100,
+    "4": 100,
+    "5": 100
+  }
+}

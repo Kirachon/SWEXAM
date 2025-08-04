@@ -3,17 +3,21 @@
     "totalSets": 5,
     "questionsPerSet": 100,
     "totalQuestions": 500,
-    "createdAt": "2025-08-04T07:11:55.479Z",
-    "version": "2.0",
+    "createdAt": "2025-08-04T07:29:59.172Z",
+    "version": "2.1",
     "qualityReviewed": true,
     "researchBased": true,
-    "verifiedSources": true
+    "deduplicated": true,
+    "verifiedSources": true,
+    "originalQuestions": 50,
+    "duplicatesRemoved": 450,
+    "replacementQuestions": 450
   },
   "examSets": [
     {
       "setId": 1,
       "title": "Social Work Group Practice Exam Set 1",
-      "description": "Comprehensive examination covering social group work concepts, practices, and applications. Set 1 of 5. All questions verified against professional literature.",
+      "description": "Comprehensive examination covering social group work concepts, practices, and applications. Set 1 of 5. All questions verified against professional literature and deduplicated.",
       "questionCount": 100,
       "topics": [
         "Group Development",
@@ -34,18 +38,16 @@
     {
       "setId": 2,
       "title": "Social Work Group Practice Exam Set 2",
-      "description": "Comprehensive examination covering social group work concepts, practices, and applications. Set 2 of 5. All questions verified against professional literature.",
+      "description": "Comprehensive examination covering social group work concepts, practices, and applications. Set 2 of 5. All questions verified against professional literature and deduplicated.",
       "questionCount": 100,
       "topics": [
-        "Practice Models",
+        "Professional Ethics",
+        "Professional Practice",
+        "Group Process",
         "Group Formation",
         "Group Structure",
         "Group Dynamics",
-        "Group Development",
-        "Group Process",
-        "Practice Approaches",
-        "Professional Practice",
-        "Professional Ethics"
+        "Group Development"
       ],
       "difficulty": "mixed",
       "timeLimit": 120,
@@ -55,18 +57,16 @@
     {
       "setId": 3,
       "title": "Social Work Group Practice Exam Set 3",
-      "description": "Comprehensive examination covering social group work concepts, practices, and applications. Set 3 of 5. All questions verified against professional literature.",
+      "description": "Comprehensive examination covering social group work concepts, practices, and applications. Set 3 of 5. All questions verified against professional literature and deduplicated.",
       "questionCount": 100,
       "topics": [
-        "Practice Models",
+        "Professional Ethics",
+        "Professional Practice",
+        "Group Process",
         "Group Formation",
         "Group Structure",
         "Group Dynamics",
-        "Group Development",
-        "Group Process",
-        "Practice Approaches",
-        "Professional Practice",
-        "Professional Ethics"
+        "Group Development"
       ],
       "difficulty": "mixed",
       "timeLimit": 120,
@@ -76,18 +76,16 @@
     {
       "setId": 4,
       "title": "Social Work Group Practice Exam Set 4",
-      "description": "Comprehensive examination covering social group work concepts, practices, and applications. Set 4 of 5. All questions verified against professional literature.",
+      "description": "Comprehensive examination covering social group work concepts, practices, and applications. Set 4 of 5. All questions verified against professional literature and deduplicated.",
       "questionCount": 100,
       "topics": [
-        "Practice Models",
+        "Professional Ethics",
+        "Professional Practice",
+        "Group Process",
         "Group Formation",
         "Group Structure",
         "Group Dynamics",
-        "Group Development",
-        "Group Process",
-        "Practice Approaches",
-        "Professional Practice",
-        "Professional Ethics"
+        "Group Development"
       ],
       "difficulty": "mixed",
       "timeLimit": 120,
@@ -97,18 +95,16 @@
     {
       "setId": 5,
       "title": "Social Work Group Practice Exam Set 5",
-      "description": "Comprehensive examination covering social group work concepts, practices, and applications. Set 5 of 5. All questions verified against professional literature.",
+      "description": "Comprehensive examination covering social group work concepts, practices, and applications. Set 5 of 5. All questions verified against professional literature and deduplicated.",
       "questionCount": 100,
       "topics": [
-        "Practice Models",
+        "Professional Ethics",
+        "Professional Practice",
+        "Group Process",
         "Group Formation",
         "Group Structure",
         "Group Dynamics",
-        "Group Development",
-        "Group Process",
-        "Practice Approaches",
-        "Professional Practice",
-        "Professional Ethics"
+        "Group Development"
       ],
       "difficulty": "mixed",
       "timeLimit": 120,

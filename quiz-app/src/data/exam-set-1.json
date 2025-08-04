@@ -1,7 +1,7 @@
 {
   "setId": 1,
   "title": "Social Work Group Practice Exam Set 1",
-  "description": "Comprehensive examination covering social group work concepts, practices, and applications. Set 1 of 5. All questions verified against professional literature.",
+  "description": "Comprehensive examination covering social group work concepts, practices, and applications. Set 1 of 5. All questions verified against professional literature and deduplicated.",
   "questionCount": 100,
   "topics": [
     "Group Development",
@@ -36,7 +36,9 @@
       "concept": "Group Development Stages",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 1
+      "questionNumber": 1,
+      "originalIndex": 0,
+      "globalIndex": 0
     },
     {
       "id": "quality_app_group_development_stages_2",
@@ -56,7 +58,9 @@
       "concept": "Group Development Stages",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 2
+      "questionNumber": 2,
+      "originalIndex": 1,
+      "globalIndex": 1
     },
     {
       "id": "quality_def_mutual_aid_1",
@@ -76,7 +80,9 @@
       "concept": "Mutual Aid",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 3
+      "questionNumber": 3,
+      "originalIndex": 2,
+      "globalIndex": 2
     },
     {
       "id": "quality_app_mutual_aid_2",
@@ -96,7 +102,9 @@
       "concept": "Mutual Aid",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 4
+      "questionNumber": 4,
+      "originalIndex": 3,
+      "globalIndex": 3
     },
     {
       "id": "quality_def_group_cohesion_1",
@@ -116,7 +124,9 @@
       "concept": "Group Cohesion",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 5
+      "questionNumber": 5,
+      "originalIndex": 4,
+      "globalIndex": 4
     },
     {
       "id": "quality_app_group_cohesion_2",
@@ -136,7 +146,9 @@
       "concept": "Group Cohesion",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 6
+      "questionNumber": 6,
+      "originalIndex": 5,
+      "globalIndex": 5
     },
     {
       "id": "quality_def_empowerment_approach_1",
@@ -156,7 +168,9 @@
       "concept": "Empowerment Approach",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 7
+      "questionNumber": 7,
+      "originalIndex": 6,
+      "globalIndex": 6
     },
     {
       "id": "quality_app_empowerment_approach_2",
@@ -176,7 +190,9 @@
       "concept": "Empowerment Approach",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 8
+      "questionNumber": 8,
+      "originalIndex": 7,
+      "globalIndex": 7
     },
     {
       "id": "quality_def_strengths_perspective_1",
@@ -196,7 +212,9 @@
       "concept": "Strengths Perspective",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 9
+      "questionNumber": 9,
+      "originalIndex": 8,
+      "globalIndex": 8
     },
     {
       "id": "quality_app_strengths_perspective_2",
@@ -216,7 +234,9 @@
       "concept": "Strengths Perspective",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 10
+      "questionNumber": 10,
+      "originalIndex": 9,
+      "globalIndex": 9
     },
     {
       "id": "quality_def_group_norms_1",
@@ -236,7 +256,9 @@
       "concept": "Group Norms",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 11
+      "questionNumber": 11,
+      "originalIndex": 10,
+      "globalIndex": 10
     },
     {
       "id": "quality_scenario_group_norms_3",
@@ -256,7 +278,9 @@
       "concept": "Group Norms",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 12
+      "questionNumber": 12,
+      "originalIndex": 11,
+      "globalIndex": 11
     },
     {
       "id": "quality_def_social_goals_model_1",
@@ -276,7 +300,9 @@
       "concept": "Social Goals Model",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 13
+      "questionNumber": 13,
+      "originalIndex": 12,
+      "globalIndex": 12
     },
     {
       "id": "quality_comp_social_goals_model_4",
@@ -296,7 +322,9 @@
       "concept": "Social Goals Model",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 14
+      "questionNumber": 14,
+      "originalIndex": 13,
+      "globalIndex": 13
     },
     {
       "id": "quality_def_remedial_model_1",
@@ -316,7 +344,9 @@
       "concept": "Remedial Model",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 15
+      "questionNumber": 15,
+      "originalIndex": 14,
+      "globalIndex": 14
     },
     {
       "id": "quality_def_reciprocal_model_1",
@@ -336,7 +366,9 @@
       "concept": "Reciprocal Model",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 16
+      "questionNumber": 16,
+      "originalIndex": 15,
+      "globalIndex": 15
     },
     {
       "id": "quality_def_group_composition_1",
@@ -356,7 +388,9 @@
       "concept": "Group Composition",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 17
+      "questionNumber": 17,
+      "originalIndex": 16,
+      "globalIndex": 16
     },
     {
       "id": "quality_def_pregroup_planning_1",
@@ -376,7 +410,9 @@
       "concept": "Pregroup Planning",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 18
+      "questionNumber": 18,
+      "originalIndex": 17,
+      "globalIndex": 17
     },
     {
       "id": "quality_def_group_contract_1",
@@ -396,7 +432,9 @@
       "concept": "Group Contract",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 19
+      "questionNumber": 19,
+      "originalIndex": 18,
+      "globalIndex": 18
     },
     {
       "id": "quality_def_scapegoating_1",
@@ -416,7 +454,9 @@
       "concept": "Scapegoating",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 20
+      "questionNumber": 20,
+      "originalIndex": 19,
+      "globalIndex": 19
     },
     {
       "id": "quality_scenario_scapegoating_3",
@@ -436,7 +476,9 @@
       "concept": "Scapegoating",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 21
+      "questionNumber": 21,
+      "originalIndex": 20,
+      "globalIndex": 20
     },
     {
       "id": "quality_def_group_roles_1",
@@ -456,7 +498,9 @@
       "concept": "Group Roles",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 22
+      "questionNumber": 22,
+      "originalIndex": 21,
+      "globalIndex": 21
     },
     {
       "id": "quality_def_parallel_process_1",
@@ -476,7 +520,9 @@
       "concept": "Parallel Process",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 23
+      "questionNumber": 23,
+      "originalIndex": 22,
+      "globalIndex": 22
     },
     {
       "id": "quality_def_group_termination_1",
@@ -496,7 +542,9 @@
       "concept": "Group Termination",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 24
+      "questionNumber": 24,
+      "originalIndex": 23,
+      "globalIndex": 23
     },
     {
       "id": "quality_scenario_group_termination_3",
@@ -516,7 +564,9 @@
       "concept": "Group Termination",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 25
+      "questionNumber": 25,
+      "originalIndex": 24,
+      "globalIndex": 24
     },
     {
       "id": "quality_def_cultural_competence_1",
@@ -536,7 +586,9 @@
       "concept": "Cultural Competence",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 26
+      "questionNumber": 26,
+      "originalIndex": 25,
+      "globalIndex": 25
     },
     {
       "id": "quality_def_confidentiality_in_groups_1",
@@ -556,7 +608,9 @@
       "concept": "Confidentiality in Groups",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 27
+      "questionNumber": 27,
+      "originalIndex": 26,
+      "globalIndex": 26
     },
     {
       "id": "quality_def_dual_relationships_1",
@@ -576,7 +630,9 @@
       "concept": "Dual Relationships",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 28
+      "questionNumber": 28,
+      "originalIndex": 27,
+      "globalIndex": 27
     },
     {
       "id": "quality_def_group_evaluation_1",
@@ -596,7 +652,9 @@
       "concept": "Group Evaluation",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 29
+      "questionNumber": 29,
+      "originalIndex": 28,
+      "globalIndex": 28
     },
     {
       "id": "quality_def_group_development_stages_1_dup29",
@@ -616,27 +674,9 @@
       "concept": "Group Development Stages",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 30
-    },
-    {
-      "id": "quality_app_group_development_stages_2_dup30",
-      "type": "application",
-      "question": "A social worker notices that group members are experiencing conflict and disagreement about group goals. This most likely indicates the group is in which stage?",
-      "options": {
-        "A": "Avoid addressing the issue to prevent potential conflict or discomfort.",
-        "B": "Focus primarily on individual problems rather than group dynamics.",
-        "C": "The storming stage, and facilitate discussion to work through conflicts constructively.",
-        "D": "Take direct control of the situation and make decisions for the group."
-      },
-      "correctAnswer": "C",
-      "explanation": "The correct approach reflects the principles of Group Development Stages: The predictable phases groups experience: forming (initial coming together), storming (conflict and tension), norming (establishing rules), performing (productive work), and adjourning (ending). This application is consistent with Tuckman's Model of Group Development.",
-      "source": "Tuckman's Model of Group Development",
-      "difficulty": "hard",
-      "topic": "Group Development",
-      "concept": "Group Development Stages",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 31
+      "questionNumber": 30,
+      "originalIndex": 29,
+      "globalIndex": 29
     },
     {
       "id": "quality_def_mutual_aid_1_dup31",
@@ -656,27 +696,9 @@
       "concept": "Mutual Aid",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 32
-    },
-    {
-      "id": "quality_app_mutual_aid_2_dup32",
-      "type": "application",
-      "question": "When group members begin sharing personal experiences and offering support to each other, the social worker should:",
-      "options": {
-        "A": "Focus primarily on individual problems rather than group dynamics.",
-        "B": "Take direct control of the situation and make decisions for the group.",
-        "C": "Avoid addressing the issue to prevent potential conflict or discomfort.",
-        "D": "Encourage and facilitate this natural helping process while maintaining appropriate boundaries."
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct approach reflects the principles of Mutual Aid: A process where group members help each other by sharing experiences, providing support, and offering different perspectives on common problems and challenges. This application is consistent with Schwartz & Shulman Group Work Theory.",
-      "source": "Schwartz & Shulman Group Work Theory",
-      "difficulty": "hard",
-      "topic": "Group Process",
-      "concept": "Mutual Aid",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 33
+      "questionNumber": 31,
+      "originalIndex": 31,
+      "globalIndex": 31
     },
     {
       "id": "quality_def_group_cohesion_1_dup33",
@@ -696,27 +718,9 @@
       "concept": "Group Cohesion",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 34
-    },
-    {
-      "id": "quality_app_group_cohesion_2_dup34",
-      "type": "application",
-      "question": "To build stronger unity among group members, a social worker should:",
-      "options": {
-        "A": "Avoid addressing the issue to prevent potential conflict or discomfort.",
-        "B": "Take direct control of the situation and make decisions for the group.",
-        "C": "Focus primarily on individual problems rather than group dynamics.",
-        "D": "Facilitate activities that promote shared experiences and common goals among members."
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct approach reflects the principles of Group Cohesion: The degree of unity, solidarity, and positive feelings among group members that contributes to the group's ability to work together effectively toward common goals. This application is consistent with Social Work Group Practice Literature.",
-      "source": "Social Work Group Practice Literature",
-      "difficulty": "hard",
-      "topic": "Group Dynamics",
-      "concept": "Group Cohesion",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 35
+      "questionNumber": 32,
+      "originalIndex": 33,
+      "globalIndex": 33
     },
     {
       "id": "quality_def_empowerment_approach_1_dup35",
@@ -736,27 +740,9 @@
       "concept": "Empowerment Approach",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 36
-    },
-    {
-      "id": "quality_app_empowerment_approach_2_dup36",
-      "type": "application",
-      "question": "When using an empowerment approach with a community action group, the social worker's primary role is to:",
-      "options": {
-        "A": "Avoid addressing the issue to prevent potential conflict or discomfort.",
-        "B": "Take direct control of the situation and make decisions for the group.",
-        "C": "Focus primarily on individual problems rather than group dynamics.",
-        "D": "Help members identify their own strengths and develop skills for collective action."
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct approach reflects the principles of Empowerment Approach: A practice method that helps individuals and groups develop the capacity to take control of their circumstances and achieve their own goals through collective action. This application is consistent with Empowerment Theory in Social Work.",
-      "source": "Empowerment Theory in Social Work",
-      "difficulty": "hard",
-      "topic": "Practice Approaches",
-      "concept": "Empowerment Approach",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 37
+      "questionNumber": 33,
+      "originalIndex": 35,
+      "globalIndex": 35
     },
     {
       "id": "quality_def_strengths_perspective_1_dup37",
@@ -776,27 +762,9 @@
       "concept": "Strengths Perspective",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 38
-    },
-    {
-      "id": "quality_app_strengths_perspective_2_dup38",
-      "type": "application",
-      "question": "A social worker applying the strengths perspective in group work would focus on:",
-      "options": {
-        "A": "Take direct control of the situation and make decisions for the group.",
-        "B": "Avoid addressing the issue to prevent potential conflict or discomfort.",
-        "C": "Identifying and building upon the existing capabilities and resources of group members.",
-        "D": "Focus primarily on individual problems rather than group dynamics."
-      },
-      "correctAnswer": "C",
-      "explanation": "The correct approach reflects the principles of Strengths Perspective: A practice approach that focuses on identifying and building upon the inherent strengths, resources, and capabilities of individuals and groups rather than deficits. This application is consistent with Strengths-Based Social Work Practice.",
-      "source": "Strengths-Based Social Work Practice",
-      "difficulty": "hard",
-      "topic": "Practice Approaches",
-      "concept": "Strengths Perspective",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 39
+      "questionNumber": 34,
+      "originalIndex": 37,
+      "globalIndex": 37
     },
     {
       "id": "quality_def_group_norms_1_dup39",
@@ -816,27 +784,9 @@
       "concept": "Group Norms",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 40
-    },
-    {
-      "id": "quality_scenario_group_norms_3_dup40",
-      "type": "scenario",
-      "question": "In a support group, one member consistently arrives late and interrupts others. The social worker should address this by:",
-      "options": {
-        "A": "Focus on individual counseling rather than addressing the group dynamic.",
-        "B": "Address the behavior directly with the group, exploring how it affects group functioning and establishing clear expectations.",
-        "C": "Remove the problematic member from the group immediately.",
-        "D": "Ignore the behavior and hope it resolves itself naturally over time."
-      },
-      "correctAnswer": "B",
-      "explanation": "This response aligns with best practices for Group Norms. Shared expectations and informal rules that guide behavior within the group and help establish acceptable standards of conduct and interaction. The approach is supported by Group Dynamics Theory.",
-      "source": "Group Dynamics Theory",
-      "difficulty": "hard",
-      "topic": "Group Structure",
-      "concept": "Group Norms",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 41
+      "questionNumber": 35,
+      "originalIndex": 39,
+      "globalIndex": 39
     },
     {
       "id": "quality_def_social_goals_model_1_dup41",
@@ -856,7 +806,9 @@
       "concept": "Social Goals Model",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 42
+      "questionNumber": 36,
+      "originalIndex": 41,
+      "globalIndex": 41
     },
     {
       "id": "quality_comp_social_goals_model_4_dup42",
@@ -876,7 +828,9 @@
       "concept": "Social Goals Model",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 43
+      "questionNumber": 37,
+      "originalIndex": 42,
+      "globalIndex": 42
     },
     {
       "id": "quality_def_remedial_model_1_dup43",
@@ -896,7 +850,9 @@
       "concept": "Remedial Model",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 44
+      "questionNumber": 38,
+      "originalIndex": 43,
+      "globalIndex": 43
     },
     {
       "id": "quality_def_reciprocal_model_1_dup44",
@@ -916,7 +872,9 @@
       "concept": "Reciprocal Model",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 45
+      "questionNumber": 39,
+      "originalIndex": 44,
+      "globalIndex": 44
     },
     {
       "id": "quality_def_group_composition_1_dup45",
@@ -936,7 +894,9 @@
       "concept": "Group Composition",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 46
+      "questionNumber": 40,
+      "originalIndex": 45,
+      "globalIndex": 45
     },
     {
       "id": "quality_def_pregroup_planning_1_dup46",
@@ -956,7 +916,9 @@
       "concept": "Pregroup Planning",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 47
+      "questionNumber": 41,
+      "originalIndex": 46,
+      "globalIndex": 46
     },
     {
       "id": "quality_def_group_contract_1_dup47",
@@ -976,7 +938,9 @@
       "concept": "Group Contract",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 48
+      "questionNumber": 42,
+      "originalIndex": 47,
+      "globalIndex": 47
     },
     {
       "id": "quality_def_scapegoating_1_dup48",
@@ -996,27 +960,9 @@
       "concept": "Scapegoating",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 49
-    },
-    {
-      "id": "quality_scenario_scapegoating_3_dup49",
-      "type": "scenario",
-      "question": "When the group begins blaming one member for all their problems, the social worker should:",
-      "options": {
-        "A": "Remove the problematic member from the group immediately.",
-        "B": "Redirect the group's attention to underlying issues and help members take responsibility for their own contributions.",
-        "C": "Ignore the behavior and hope it resolves itself naturally over time.",
-        "D": "Focus on individual counseling rather than addressing the group dynamic."
-      },
-      "correctAnswer": "B",
-      "explanation": "This response aligns with best practices for Scapegoating. A group dynamic where members collectively blame or target one individual for group problems, often as a way to avoid addressing underlying issues. The approach is supported by Group Process and Dynamics Literature.",
-      "source": "Group Process and Dynamics Literature",
-      "difficulty": "hard",
-      "topic": "Group Dynamics",
-      "concept": "Scapegoating",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 50
+      "questionNumber": 43,
+      "originalIndex": 48,
+      "globalIndex": 48
     },
     {
       "id": "quality_def_group_roles_1_dup50",
@@ -1036,7 +982,9 @@
       "concept": "Group Roles",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 51
+      "questionNumber": 44,
+      "originalIndex": 50,
+      "globalIndex": 50
     },
     {
       "id": "quality_def_parallel_process_1_dup51",
@@ -1056,7 +1004,9 @@
       "concept": "Parallel Process",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 52
+      "questionNumber": 45,
+      "originalIndex": 51,
+      "globalIndex": 51
     },
     {
       "id": "quality_def_group_termination_1_dup52",
@@ -1076,27 +1026,9 @@
       "concept": "Group Termination",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 53
-    },
-    {
-      "id": "quality_scenario_group_termination_3_dup53",
-      "type": "scenario",
-      "question": "As a therapy group approaches its final sessions, members express anxiety about ending. The social worker should:",
-      "options": {
-        "A": "Remove the problematic member from the group immediately.",
-        "B": "Acknowledge their feelings, review progress made, and help them develop plans for maintaining gains after the group ends.",
-        "C": "Focus on individual counseling rather than addressing the group dynamic.",
-        "D": "Ignore the behavior and hope it resolves itself naturally over time."
-      },
-      "correctAnswer": "B",
-      "explanation": "This response aligns with best practices for Group Termination. The planned ending phase of group work that involves reviewing progress, processing feelings about ending, and planning for continued growth. The approach is supported by Group Work Practice Standards.",
-      "source": "Group Work Practice Standards",
-      "difficulty": "hard",
-      "topic": "Group Development",
-      "concept": "Group Termination",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 54
+      "questionNumber": 46,
+      "originalIndex": 52,
+      "globalIndex": 52
     },
     {
       "id": "quality_def_cultural_competence_1_dup54",
@@ -1116,7 +1048,9 @@
       "concept": "Cultural Competence",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 55
+      "questionNumber": 47,
+      "originalIndex": 54,
+      "globalIndex": 54
     },
     {
       "id": "quality_def_confidentiality_in_groups_1_dup55",
@@ -1136,7 +1070,9 @@
       "concept": "Confidentiality in Groups",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 56
+      "questionNumber": 48,
+      "originalIndex": 55,
+      "globalIndex": 55
     },
     {
       "id": "quality_def_dual_relationships_1_dup56",
@@ -1156,7 +1092,9 @@
       "concept": "Dual Relationships",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 57
+      "questionNumber": 49,
+      "originalIndex": 56,
+      "globalIndex": 56
     },
     {
       "id": "quality_def_group_evaluation_1_dup57",
@@ -1176,116 +1114,40 @@
       "concept": "Group Evaluation",
       "verified": true,
       "examSetId": 1,
-      "questionNumber": 58
+      "questionNumber": 50,
+      "originalIndex": 57,
+      "globalIndex": 57
     },
     {
-      "id": "quality_def_group_development_stages_1_dup58",
+      "id": "dedup_def_group_cohesion_1000",
       "type": "definition",
-      "question": "How would you define group development stages in social group work practice?",
-      "options": {
-        "A": "A technique primarily used in individual counseling rather than group work.",
-        "B": "An administrative process for documenting group activities and outcomes.",
-        "C": "The predictable phases groups experience: forming (initial coming together), storming (conflict and tension), norming (establishing rules), performing (productive work), and adjourning (ending).",
-        "D": "A policy framework for organizing community-based services."
-      },
-      "correctAnswer": "C",
-      "explanation": "Group Development Stages is defined as: The predictable phases groups experience: forming (initial coming together), storming (conflict and tension), norming (establishing rules), performing (productive work), and adjourning (ending). This concept is fundamental to effective social work group practice and is based on Tuckman's Model of Group Development.",
-      "source": "Tuckman's Model of Group Development",
-      "difficulty": "medium",
-      "topic": "Group Development",
-      "concept": "Group Development Stages",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 59
-    },
-    {
-      "id": "quality_app_group_development_stages_2_dup59",
-      "type": "application",
-      "question": "A social worker notices that group members are experiencing conflict and disagreement about group goals. This most likely indicates the group is in which stage?",
-      "options": {
-        "A": "Avoid addressing the issue to prevent potential conflict or discomfort.",
-        "B": "Focus primarily on individual problems rather than group dynamics.",
-        "C": "The storming stage, and facilitate discussion to work through conflicts constructively.",
-        "D": "Take direct control of the situation and make decisions for the group."
-      },
-      "correctAnswer": "C",
-      "explanation": "The correct approach reflects the principles of Group Development Stages: The predictable phases groups experience: forming (initial coming together), storming (conflict and tension), norming (establishing rules), performing (productive work), and adjourning (ending). This application is consistent with Tuckman's Model of Group Development.",
-      "source": "Tuckman's Model of Group Development",
-      "difficulty": "hard",
-      "topic": "Group Development",
-      "concept": "Group Development Stages",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 60
-    },
-    {
-      "id": "quality_def_mutual_aid_1_dup60",
-      "type": "definition",
-      "question": "How would you define mutual aid in social group work practice?",
-      "options": {
-        "A": "A technique primarily used in individual counseling rather than group work.",
-        "B": "A research approach for evaluating program effectiveness and impact.",
-        "C": "A policy framework for organizing community-based services.",
-        "D": "A process where group members help each other by sharing experiences, providing support, and offering different perspectives on common problems and challenges."
-      },
-      "correctAnswer": "D",
-      "explanation": "Mutual Aid is defined as: A process where group members help each other by sharing experiences, providing support, and offering different perspectives on common problems and challenges. This concept is fundamental to effective social work group practice and is based on Schwartz & Shulman Group Work Theory.",
-      "source": "Schwartz & Shulman Group Work Theory",
-      "difficulty": "medium",
-      "topic": "Group Process",
-      "concept": "Mutual Aid",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 61
-    },
-    {
-      "id": "quality_app_mutual_aid_2_dup61",
-      "type": "application",
-      "question": "When group members begin sharing personal experiences and offering support to each other, the social worker should:",
-      "options": {
-        "A": "Focus primarily on individual problems rather than group dynamics.",
-        "B": "Take direct control of the situation and make decisions for the group.",
-        "C": "Avoid addressing the issue to prevent potential conflict or discomfort.",
-        "D": "Encourage and facilitate this natural helping process while maintaining appropriate boundaries."
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct approach reflects the principles of Mutual Aid: A process where group members help each other by sharing experiences, providing support, and offering different perspectives on common problems and challenges. This application is consistent with Schwartz & Shulman Group Work Theory.",
-      "source": "Schwartz & Shulman Group Work Theory",
-      "difficulty": "hard",
-      "topic": "Group Process",
-      "concept": "Mutual Aid",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 62
-    },
-    {
-      "id": "quality_def_group_cohesion_1_dup62",
-      "type": "definition",
-      "question": "How would you define group cohesion in social group work practice?",
+      "question": "What is group cohesion in social group work practice?",
       "options": {
         "A": "A policy framework for organizing community-based services.",
-        "B": "A research approach for evaluating program effectiveness and impact.",
-        "C": "A supervisory method for training new social work practitioners.",
-        "D": "The degree of unity, solidarity, and positive feelings among group members that contributes to the group's ability to work together effectively toward common goals."
+        "B": "A case management strategy for coordinating multiple service providers.",
+        "C": "The degree of unity, solidarity, and positive feelings among group members that contributes to the group's ability to work together effectively toward common goals.",
+        "D": "A research approach for evaluating program effectiveness and impact."
       },
-      "correctAnswer": "D",
+      "correctAnswer": "C",
       "explanation": "Group Cohesion is defined as: The degree of unity, solidarity, and positive feelings among group members that contributes to the group's ability to work together effectively toward common goals. This concept is fundamental to effective social work group practice and is based on Social Work Group Practice Literature.",
       "source": "Social Work Group Practice Literature",
       "difficulty": "medium",
       "topic": "Group Dynamics",
       "concept": "Group Cohesion",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.160Z",
       "examSetId": 1,
-      "questionNumber": 63
+      "questionNumber": 51
     },
     {
-      "id": "quality_app_group_cohesion_2_dup63",
+      "id": "dedup_app_group_cohesion_1001",
       "type": "application",
       "question": "To build stronger unity among group members, a social worker should:",
       "options": {
-        "A": "Avoid addressing the issue to prevent potential conflict or discomfort.",
-        "B": "Take direct control of the situation and make decisions for the group.",
-        "C": "Focus primarily on individual problems rather than group dynamics.",
+        "A": "Take direct control of the situation and make decisions for the group.",
+        "B": "Focus primarily on individual problems rather than group dynamics.",
+        "C": "Avoid addressing the issue to prevent potential conflict or discomfort.",
         "D": "Facilitate activities that promote shared experiences and common goals among members."
       },
       "correctAnswer": "D",
@@ -1295,118 +1157,86 @@
       "topic": "Group Dynamics",
       "concept": "Group Cohesion",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.161Z",
       "examSetId": 1,
-      "questionNumber": 64
+      "questionNumber": 52
     },
     {
-      "id": "quality_def_empowerment_approach_1_dup64",
+      "id": "dedup_def_mutual_aid_process_1002",
       "type": "definition",
-      "question": "How would you define empowerment approach in social group work practice?",
+      "question": "In social work group practice, mutual aid process refers to:",
       "options": {
-        "A": "A practice method that helps individuals and groups develop the capacity to take control of their circumstances and achieve their own goals through collective action.",
-        "B": "A supervisory method for training new social work practitioners.",
-        "C": "A case management strategy for coordinating multiple service providers.",
-        "D": "A research approach for evaluating program effectiveness and impact."
+        "A": "A research approach for evaluating program effectiveness and impact.",
+        "B": "An administrative process for documenting group activities and outcomes.",
+        "C": "A technique primarily used in individual counseling rather than group work.",
+        "D": "A fundamental group work principle where members help each other by sharing experiences, providing support, and offering different perspectives on common problems."
       },
-      "correctAnswer": "A",
-      "explanation": "Empowerment Approach is defined as: A practice method that helps individuals and groups develop the capacity to take control of their circumstances and achieve their own goals through collective action. This concept is fundamental to effective social work group practice and is based on Empowerment Theory in Social Work.",
-      "source": "Empowerment Theory in Social Work",
+      "correctAnswer": "D",
+      "explanation": "Mutual Aid Process is defined as: A fundamental group work principle where members help each other by sharing experiences, providing support, and offering different perspectives on common problems. This concept is fundamental to effective social work group practice and is based on Schwartz & Shulman Group Work Theory.",
+      "source": "Schwartz & Shulman Group Work Theory",
       "difficulty": "medium",
-      "topic": "Practice Approaches",
-      "concept": "Empowerment Approach",
+      "topic": "Group Process",
+      "concept": "Mutual Aid Process",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.161Z",
       "examSetId": 1,
-      "questionNumber": 65
+      "questionNumber": 53
     },
     {
-      "id": "quality_app_empowerment_approach_2_dup65",
+      "id": "dedup_app_mutual_aid_process_1003",
       "type": "application",
-      "question": "When using an empowerment approach with a community action group, the social worker's primary role is to:",
+      "question": "When group members begin sharing personal experiences and offering support to each other, the social worker should:",
       "options": {
         "A": "Avoid addressing the issue to prevent potential conflict or discomfort.",
         "B": "Take direct control of the situation and make decisions for the group.",
-        "C": "Focus primarily on individual problems rather than group dynamics.",
-        "D": "Help members identify their own strengths and develop skills for collective action."
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct approach reflects the principles of Empowerment Approach: A practice method that helps individuals and groups develop the capacity to take control of their circumstances and achieve their own goals through collective action. This application is consistent with Empowerment Theory in Social Work.",
-      "source": "Empowerment Theory in Social Work",
-      "difficulty": "hard",
-      "topic": "Practice Approaches",
-      "concept": "Empowerment Approach",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 66
-    },
-    {
-      "id": "quality_def_strengths_perspective_1_dup66",
-      "type": "definition",
-      "question": "How would you define strengths perspective in social group work practice?",
-      "options": {
-        "A": "A technique primarily used in individual counseling rather than group work.",
-        "B": "A case management strategy for coordinating multiple service providers.",
-        "C": "A practice approach that focuses on identifying and building upon the inherent strengths, resources, and capabilities of individuals and groups rather than deficits.",
-        "D": "A policy framework for organizing community-based services."
-      },
-      "correctAnswer": "C",
-      "explanation": "Strengths Perspective is defined as: A practice approach that focuses on identifying and building upon the inherent strengths, resources, and capabilities of individuals and groups rather than deficits. This concept is fundamental to effective social work group practice and is based on Strengths-Based Social Work Practice.",
-      "source": "Strengths-Based Social Work Practice",
-      "difficulty": "medium",
-      "topic": "Practice Approaches",
-      "concept": "Strengths Perspective",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 67
-    },
-    {
-      "id": "quality_app_strengths_perspective_2_dup67",
-      "type": "application",
-      "question": "A social worker applying the strengths perspective in group work would focus on:",
-      "options": {
-        "A": "Take direct control of the situation and make decisions for the group.",
-        "B": "Avoid addressing the issue to prevent potential conflict or discomfort.",
-        "C": "Identifying and building upon the existing capabilities and resources of group members.",
+        "C": "Encourage and facilitate this natural helping process while maintaining appropriate boundaries.",
         "D": "Focus primarily on individual problems rather than group dynamics."
       },
       "correctAnswer": "C",
-      "explanation": "The correct approach reflects the principles of Strengths Perspective: A practice approach that focuses on identifying and building upon the inherent strengths, resources, and capabilities of individuals and groups rather than deficits. This application is consistent with Strengths-Based Social Work Practice.",
-      "source": "Strengths-Based Social Work Practice",
+      "explanation": "The correct approach reflects the principles of Mutual Aid Process: A fundamental group work principle where members help each other by sharing experiences, providing support, and offering different perspectives on common problems. This application is consistent with Schwartz & Shulman Group Work Theory.",
+      "source": "Schwartz & Shulman Group Work Theory",
       "difficulty": "hard",
-      "topic": "Practice Approaches",
-      "concept": "Strengths Perspective",
+      "topic": "Group Process",
+      "concept": "Mutual Aid Process",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.161Z",
       "examSetId": 1,
-      "questionNumber": 68
+      "questionNumber": 54
     },
     {
-      "id": "quality_def_group_norms_1_dup68",
+      "id": "dedup_def_group_norms_1004",
       "type": "definition",
-      "question": "How would you define group norms in social group work practice?",
+      "question": "What is group norms in social group work practice?",
       "options": {
-        "A": "Shared expectations and informal rules that guide behavior within the group and help establish acceptable standards of conduct and interaction.",
-        "B": "A technique primarily used in individual counseling rather than group work.",
-        "C": "A case management strategy for coordinating multiple service providers.",
-        "D": "An administrative process for documenting group activities and outcomes."
+        "A": "A research approach for evaluating program effectiveness and impact.",
+        "B": "A case management strategy for coordinating multiple service providers.",
+        "C": "Shared expectations and informal rules that guide behavior within the group and help establish acceptable standards of conduct and interaction.",
+        "D": "A technique primarily used in individual counseling rather than group work."
       },
-      "correctAnswer": "A",
+      "correctAnswer": "C",
       "explanation": "Group Norms is defined as: Shared expectations and informal rules that guide behavior within the group and help establish acceptable standards of conduct and interaction. This concept is fundamental to effective social work group practice and is based on Group Dynamics Theory.",
       "source": "Group Dynamics Theory",
       "difficulty": "medium",
       "topic": "Group Structure",
       "concept": "Group Norms",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.161Z",
       "examSetId": 1,
-      "questionNumber": 69
+      "questionNumber": 55
     },
     {
-      "id": "quality_scenario_group_norms_3_dup69",
+      "id": "dedup_scenario_group_norms_1006",
       "type": "scenario",
       "question": "In a support group, one member consistently arrives late and interrupts others. The social worker should address this by:",
       "options": {
-        "A": "Focus on individual counseling rather than addressing the group dynamic.",
+        "A": "Ignore the behavior and hope it resolves itself naturally over time.",
         "B": "Address the behavior directly with the group, exploring how it affects group functioning and establishing clear expectations.",
         "C": "Remove the problematic member from the group immediately.",
-        "D": "Ignore the behavior and hope it resolves itself naturally over time."
+        "D": "Focus on individual counseling rather than addressing the group dynamic."
       },
       "correctAnswer": "B",
       "explanation": "This response aligns with best practices for Group Norms. Shared expectations and informal rules that guide behavior within the group and help establish acceptable standards of conduct and interaction. The approach is supported by Group Dynamics Theory.",
@@ -1415,138 +1245,42 @@
       "topic": "Group Structure",
       "concept": "Group Norms",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.161Z",
       "examSetId": 1,
-      "questionNumber": 70
+      "questionNumber": 56
     },
     {
-      "id": "quality_def_social_goals_model_1_dup70",
+      "id": "dedup_def_pregroup_planning_1006",
       "type": "definition",
-      "question": "How would you define social goals model in social group work practice?",
+      "question": "In social work group practice, pregroup planning refers to:",
       "options": {
-        "A": "A supervisory method for training new social work practitioners.",
-        "B": "A research approach for evaluating program effectiveness and impact.",
-        "C": "A case management strategy for coordinating multiple service providers.",
-        "D": "A group work approach that emphasizes social action, community change, and addressing social problems through collective group efforts and advocacy."
-      },
-      "correctAnswer": "D",
-      "explanation": "Social Goals Model is defined as: A group work approach that emphasizes social action, community change, and addressing social problems through collective group efforts and advocacy. This concept is fundamental to effective social work group practice and is based on Papell & Rothman Group Work Models.",
-      "source": "Papell & Rothman Group Work Models",
-      "difficulty": "medium",
-      "topic": "Practice Models",
-      "concept": "Social Goals Model",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 71
-    },
-    {
-      "id": "quality_comp_social_goals_model_4_dup71",
-      "type": "comparison",
-      "question": "How would you define the primary difference between the social goals model and the remedial model in group work?",
-      "options": {
-        "A": "The social goals model focuses on social change and community action, while the remedial model focuses on individual problem-solving.",
-        "B": "The social goals model is used only with children, while the remedial model is used only with adults.",
-        "C": "The social goals model requires professional training, while the remedial model can be used by volunteers.",
-        "D": "The social goals model is short-term, while the remedial model is always long-term."
-      },
-      "correctAnswer": "A",
-      "explanation": "The social goals model emphasizes social action and community change through collective group efforts, while the remedial model focuses on helping individuals with specific problems through therapeutic group experiences. This distinction is fundamental to understanding different approaches in group work practice.",
-      "source": "Papell & Rothman Group Work Models",
-      "difficulty": "hard",
-      "topic": "Practice Models",
-      "concept": "Social Goals Model",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 72
-    },
-    {
-      "id": "quality_def_remedial_model_1_dup72",
-      "type": "definition",
-      "question": "How would you define remedial model in social group work practice?",
-      "options": {
-        "A": "A group work approach focused on helping individuals with specific problems or dysfunctions through therapeutic group experiences and professional intervention.",
-        "B": "An administrative process for documenting group activities and outcomes.",
-        "C": "A policy framework for organizing community-based services.",
-        "D": "A research approach for evaluating program effectiveness and impact."
-      },
-      "correctAnswer": "A",
-      "explanation": "Remedial Model is defined as: A group work approach focused on helping individuals with specific problems or dysfunctions through therapeutic group experiences and professional intervention. This concept is fundamental to effective social work group practice and is based on Papell & Rothman Group Work Models.",
-      "source": "Papell & Rothman Group Work Models",
-      "difficulty": "medium",
-      "topic": "Practice Models",
-      "concept": "Remedial Model",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 73
-    },
-    {
-      "id": "quality_def_reciprocal_model_1_dup73",
-      "type": "definition",
-      "question": "How would you define reciprocal model in social group work practice?",
-      "options": {
-        "A": "A group work approach that emphasizes mutual aid and the natural helping capacity of group members to support each other in achieving common goals.",
-        "B": "A supervisory method for training new social work practitioners.",
+        "A": "A technique primarily used in individual counseling rather than group work.",
+        "B": "The systematic preparation phase involving needs assessment, goal setting, member recruitment, and logistical arrangements before the group begins meeting.",
         "C": "A research approach for evaluating program effectiveness and impact.",
-        "D": "A technique primarily used in individual counseling rather than group work."
-      },
-      "correctAnswer": "A",
-      "explanation": "Reciprocal Model is defined as: A group work approach that emphasizes mutual aid and the natural helping capacity of group members to support each other in achieving common goals. This concept is fundamental to effective social work group practice and is based on Papell & Rothman Group Work Models.",
-      "source": "Papell & Rothman Group Work Models",
-      "difficulty": "medium",
-      "topic": "Practice Models",
-      "concept": "Reciprocal Model",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 74
-    },
-    {
-      "id": "quality_def_group_composition_1_dup74",
-      "type": "definition",
-      "question": "How would you define group composition in social group work practice?",
-      "options": {
-        "A": "The careful selection and arrangement of group members based on factors such as demographics, needs, personalities, and goals to optimize group effectiveness.",
-        "B": "A research approach for evaluating program effectiveness and impact.",
-        "C": "An administrative process for documenting group activities and outcomes.",
         "D": "A policy framework for organizing community-based services."
       },
-      "correctAnswer": "A",
-      "explanation": "Group Composition is defined as: The careful selection and arrangement of group members based on factors such as demographics, needs, personalities, and goals to optimize group effectiveness. This concept is fundamental to effective social work group practice and is based on Group Work Practice Principles.",
-      "source": "Group Work Practice Principles",
-      "difficulty": "medium",
-      "topic": "Group Formation",
-      "concept": "Group Composition",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 75
-    },
-    {
-      "id": "quality_def_pregroup_planning_1_dup75",
-      "type": "definition",
-      "question": "How would you define pregroup planning in social group work practice?",
-      "options": {
-        "A": "A case management strategy for coordinating multiple service providers.",
-        "B": "A technique primarily used in individual counseling rather than group work.",
-        "C": "A policy framework for organizing community-based services.",
-        "D": "The systematic preparation phase involving needs assessment, goal setting, member recruitment, and logistical arrangements before the group begins meeting."
-      },
-      "correctAnswer": "D",
+      "correctAnswer": "B",
       "explanation": "Pregroup Planning is defined as: The systematic preparation phase involving needs assessment, goal setting, member recruitment, and logistical arrangements before the group begins meeting. This concept is fundamental to effective social work group practice and is based on Group Work Practice Standards.",
       "source": "Group Work Practice Standards",
       "difficulty": "medium",
       "topic": "Group Formation",
       "concept": "Pregroup Planning",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.161Z",
       "examSetId": 1,
-      "questionNumber": 76
+      "questionNumber": 57
     },
     {
-      "id": "quality_def_group_contract_1_dup76",
+      "id": "dedup_def_group_contract_1007",
       "type": "definition",
-      "question": "How would you define group contract in social group work practice?",
+      "question": "According to social work literature, group contract is:",
       "options": {
-        "A": "A research approach for evaluating program effectiveness and impact.",
-        "B": "An administrative process for documenting group activities and outcomes.",
+        "A": "A case management strategy for coordinating multiple service providers.",
+        "B": "A research approach for evaluating program effectiveness and impact.",
         "C": "A formal or informal agreement between group members and the facilitator that outlines goals, expectations, rules, and responsibilities for participation.",
-        "D": "A case management strategy for coordinating multiple service providers."
+        "D": "A supervisory method for training new social work practitioners."
       },
       "correctAnswer": "C",
       "explanation": "Group Contract is defined as: A formal or informal agreement between group members and the facilitator that outlines goals, expectations, rules, and responsibilities for participation. This concept is fundamental to effective social work group practice and is based on Social Work Group Practice.",
@@ -1555,157 +1289,195 @@
       "topic": "Group Structure",
       "concept": "Group Contract",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.161Z",
       "examSetId": 1,
-      "questionNumber": 77
+      "questionNumber": 58
     },
     {
-      "id": "quality_def_scapegoating_1_dup77",
+      "id": "dedup_def_scapegoating_1008",
       "type": "definition",
-      "question": "How would you define scapegoating in social group work practice?",
+      "question": "What is scapegoating in social group work practice?",
       "options": {
-        "A": "A group dynamic where members collectively blame or target one individual for group problems, often as a way to avoid addressing underlying issues.",
-        "B": "A policy framework for organizing community-based services.",
+        "A": "A supervisory method for training new social work practitioners.",
+        "B": "A group dynamic where members collectively blame or target one individual for group problems, often as a way to avoid addressing underlying issues.",
         "C": "An administrative process for documenting group activities and outcomes.",
-        "D": "A supervisory method for training new social work practitioners."
+        "D": "A case management strategy for coordinating multiple service providers."
       },
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": "Scapegoating is defined as: A group dynamic where members collectively blame or target one individual for group problems, often as a way to avoid addressing underlying issues. This concept is fundamental to effective social work group practice and is based on Group Process and Dynamics Literature.",
       "source": "Group Process and Dynamics Literature",
       "difficulty": "medium",
       "topic": "Group Dynamics",
       "concept": "Scapegoating",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.161Z",
       "examSetId": 1,
-      "questionNumber": 78
+      "questionNumber": 59
     },
     {
-      "id": "quality_scenario_scapegoating_3_dup78",
-      "type": "scenario",
+      "id": "dedup_app_scapegoating_1009",
+      "type": "application",
       "question": "When the group begins blaming one member for all their problems, the social worker should:",
       "options": {
-        "A": "Remove the problematic member from the group immediately.",
-        "B": "Redirect the group's attention to underlying issues and help members take responsibility for their own contributions.",
-        "C": "Ignore the behavior and hope it resolves itself naturally over time.",
-        "D": "Focus on individual counseling rather than addressing the group dynamic."
+        "A": "Focus primarily on individual problems rather than group dynamics.",
+        "B": "Avoid addressing the issue to prevent potential conflict or discomfort.",
+        "C": "Redirect the group's attention to underlying issues and help members take responsibility for their own contributions.",
+        "D": "Take direct control of the situation and make decisions for the group."
       },
-      "correctAnswer": "B",
-      "explanation": "This response aligns with best practices for Scapegoating. A group dynamic where members collectively blame or target one individual for group problems, often as a way to avoid addressing underlying issues. The approach is supported by Group Process and Dynamics Literature.",
+      "correctAnswer": "C",
+      "explanation": "The correct approach reflects the principles of Scapegoating: A group dynamic where members collectively blame or target one individual for group problems, often as a way to avoid addressing underlying issues. This application is consistent with Group Process and Dynamics Literature.",
       "source": "Group Process and Dynamics Literature",
       "difficulty": "hard",
       "topic": "Group Dynamics",
       "concept": "Scapegoating",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.161Z",
       "examSetId": 1,
-      "questionNumber": 79
+      "questionNumber": 60
     },
     {
-      "id": "quality_def_group_roles_1_dup79",
+      "id": "dedup_def_group_roles_1010",
       "type": "definition",
-      "question": "How would you define group roles in social group work practice?",
+      "question": "In social work group practice, group roles refers to:",
       "options": {
         "A": "A research approach for evaluating program effectiveness and impact.",
-        "B": "A supervisory method for training new social work practitioners.",
-        "C": "The various functions and positions that members assume within the group, including task roles (focused on goals) and maintenance roles (focused on relationships).",
-        "D": "A case management strategy for coordinating multiple service providers."
+        "B": "A policy framework for organizing community-based services.",
+        "C": "An administrative process for documenting group activities and outcomes.",
+        "D": "The various functions and positions that members assume within the group, including task roles (focused on goals) and maintenance roles (focused on relationships)."
       },
-      "correctAnswer": "C",
+      "correctAnswer": "D",
       "explanation": "Group Roles is defined as: The various functions and positions that members assume within the group, including task roles (focused on goals) and maintenance roles (focused on relationships). This concept is fundamental to effective social work group practice and is based on Group Dynamics Theory.",
       "source": "Group Dynamics Theory",
       "difficulty": "medium",
       "topic": "Group Structure",
       "concept": "Group Roles",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.161Z",
       "examSetId": 1,
-      "questionNumber": 80
+      "questionNumber": 61
     },
     {
-      "id": "quality_def_parallel_process_1_dup80",
+      "id": "dedup_def_parallel_process_1011",
       "type": "definition",
-      "question": "How would you define parallel process in social group work practice?",
+      "question": "According to social work literature, parallel process is:",
       "options": {
-        "A": "A supervisory method for training new social work practitioners.",
-        "B": "A technique primarily used in individual counseling rather than group work.",
-        "C": "A policy framework for organizing community-based services.",
-        "D": "When dynamics occurring in the group are unconsciously replicated in other relationships, such as between the group worker and supervisor."
+        "A": "A policy framework for organizing community-based services.",
+        "B": "When dynamics occurring in the group are unconsciously replicated in other relationships, such as between the group worker and supervisor.",
+        "C": "A technique primarily used in individual counseling rather than group work.",
+        "D": "A case management strategy for coordinating multiple service providers."
       },
-      "correctAnswer": "D",
+      "correctAnswer": "B",
       "explanation": "Parallel Process is defined as: When dynamics occurring in the group are unconsciously replicated in other relationships, such as between the group worker and supervisor. This concept is fundamental to effective social work group practice and is based on Psychodynamic Group Work Theory.",
       "source": "Psychodynamic Group Work Theory",
       "difficulty": "medium",
       "topic": "Group Process",
       "concept": "Parallel Process",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.161Z",
       "examSetId": 1,
-      "questionNumber": 81
+      "questionNumber": 62
     },
     {
-      "id": "quality_def_group_termination_1_dup81",
+      "id": "dedup_def_group_termination_1012",
       "type": "definition",
-      "question": "How would you define group termination in social group work practice?",
+      "question": "What is group termination in social group work practice?",
       "options": {
-        "A": "A policy framework for organizing community-based services.",
-        "B": "A research approach for evaluating program effectiveness and impact.",
-        "C": "The planned ending phase of group work that involves reviewing progress, processing feelings about ending, and planning for continued growth.",
-        "D": "A case management strategy for coordinating multiple service providers."
+        "A": "A technique primarily used in individual counseling rather than group work.",
+        "B": "A policy framework for organizing community-based services.",
+        "C": "A research approach for evaluating program effectiveness and impact.",
+        "D": "The planned ending phase of group work that involves reviewing progress, processing feelings about ending, and planning for continued growth."
       },
-      "correctAnswer": "C",
+      "correctAnswer": "D",
       "explanation": "Group Termination is defined as: The planned ending phase of group work that involves reviewing progress, processing feelings about ending, and planning for continued growth. This concept is fundamental to effective social work group practice and is based on Group Work Practice Standards.",
       "source": "Group Work Practice Standards",
       "difficulty": "medium",
       "topic": "Group Development",
       "concept": "Group Termination",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.161Z",
       "examSetId": 1,
-      "questionNumber": 82
+      "questionNumber": 63
     },
     {
-      "id": "quality_scenario_group_termination_3_dup82",
-      "type": "scenario",
+      "id": "dedup_app_group_termination_1013",
+      "type": "application",
       "question": "As a therapy group approaches its final sessions, members express anxiety about ending. The social worker should:",
       "options": {
-        "A": "Remove the problematic member from the group immediately.",
-        "B": "Acknowledge their feelings, review progress made, and help them develop plans for maintaining gains after the group ends.",
-        "C": "Focus on individual counseling rather than addressing the group dynamic.",
-        "D": "Ignore the behavior and hope it resolves itself naturally over time."
+        "A": "Acknowledge their feelings, review progress made, and help them develop plans for maintaining gains after the group ends.",
+        "B": "Focus primarily on individual problems rather than group dynamics.",
+        "C": "Avoid addressing the issue to prevent potential conflict or discomfort.",
+        "D": "Take direct control of the situation and make decisions for the group."
       },
-      "correctAnswer": "B",
-      "explanation": "This response aligns with best practices for Group Termination. The planned ending phase of group work that involves reviewing progress, processing feelings about ending, and planning for continued growth. The approach is supported by Group Work Practice Standards.",
+      "correctAnswer": "A",
+      "explanation": "The correct approach reflects the principles of Group Termination: The planned ending phase of group work that involves reviewing progress, processing feelings about ending, and planning for continued growth. This application is consistent with Group Work Practice Standards.",
       "source": "Group Work Practice Standards",
       "difficulty": "hard",
       "topic": "Group Development",
       "concept": "Group Termination",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.161Z",
       "examSetId": 1,
-      "questionNumber": 83
+      "questionNumber": 64
     },
     {
-      "id": "quality_def_cultural_competence_1_dup83",
+      "id": "dedup_def_cultural_competence_in_groups_1014",
       "type": "definition",
-      "question": "How would you define cultural competence in social group work practice?",
+      "question": "In social work group practice, cultural competence in groups refers to:",
       "options": {
-        "A": "The ability to work effectively with individuals and groups from diverse cultural backgrounds by understanding and respecting cultural differences.",
-        "B": "An administrative process for documenting group activities and outcomes.",
-        "C": "A technique primarily used in individual counseling rather than group work.",
-        "D": "A research approach for evaluating program effectiveness and impact."
+        "A": "A case management strategy for coordinating multiple service providers.",
+        "B": "The ability to work effectively with group members from diverse cultural backgrounds by understanding and respecting cultural differences and their impact on group dynamics.",
+        "C": "An administrative process for documenting group activities and outcomes.",
+        "D": "A technique primarily used in individual counseling rather than group work."
       },
-      "correctAnswer": "A",
-      "explanation": "Cultural Competence is defined as: The ability to work effectively with individuals and groups from diverse cultural backgrounds by understanding and respecting cultural differences. This concept is fundamental to effective social work group practice and is based on NASW Cultural Competence Standards.",
+      "correctAnswer": "B",
+      "explanation": "Cultural Competence in Groups is defined as: The ability to work effectively with group members from diverse cultural backgrounds by understanding and respecting cultural differences and their impact on group dynamics. This concept is fundamental to effective social work group practice and is based on NASW Cultural Competence Standards.",
       "source": "NASW Cultural Competence Standards",
       "difficulty": "medium",
       "topic": "Professional Practice",
-      "concept": "Cultural Competence",
+      "concept": "Cultural Competence in Groups",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.161Z",
       "examSetId": 1,
-      "questionNumber": 84
+      "questionNumber": 65
     },
     {
-      "id": "quality_def_confidentiality_in_groups_1_dup84",
-      "type": "definition",
-      "question": "How would you define confidentiality in groups in social group work practice?",
+      "id": "dedup_scenario_cultural_competence_in_groups_1016",
+      "type": "scenario",
+      "question": "When facilitating a diverse group, a social worker notices cultural tensions affecting participation. The best approach is to:",
       "options": {
-        "A": "An administrative process for documenting group activities and outcomes.",
+        "A": "Focus on individual counseling rather than addressing the group dynamic.",
+        "B": "Ignore the behavior and hope it resolves itself naturally over time.",
+        "C": "Acknowledge the cultural differences openly and facilitate discussion about how diversity can strengthen the group.",
+        "D": "Remove the problematic member from the group immediately."
+      },
+      "correctAnswer": "C",
+      "explanation": "This response aligns with best practices for Cultural Competence in Groups. The ability to work effectively with group members from diverse cultural backgrounds by understanding and respecting cultural differences and their impact on group dynamics. The approach is supported by NASW Cultural Competence Standards.",
+      "source": "NASW Cultural Competence Standards",
+      "difficulty": "hard",
+      "topic": "Professional Practice",
+      "concept": "Cultural Competence in Groups",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.161Z",
+      "examSetId": 1,
+      "questionNumber": 66
+    },
+    {
+      "id": "dedup_def_confidentiality_in_groups_1016",
+      "type": "definition",
+      "question": "What is confidentiality in groups in social group work practice?",
+      "options": {
+        "A": "A supervisory method for training new social work practitioners.",
         "B": "The ethical principle requiring group members to keep private information shared within the group, with specific guidelines for mandatory reporting situations.",
-        "C": "A supervisory method for training new social work practitioners.",
+        "C": "A technique primarily used in individual counseling rather than group work.",
         "D": "A policy framework for organizing community-based services."
       },
       "correctAnswer": "B",
@@ -1715,38 +1487,42 @@
       "topic": "Professional Ethics",
       "concept": "Confidentiality in Groups",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.161Z",
       "examSetId": 1,
-      "questionNumber": 85
+      "questionNumber": 67
     },
     {
-      "id": "quality_def_dual_relationships_1_dup85",
+      "id": "dedup_def_dual_relationships_in_groups_1017",
       "type": "definition",
-      "question": "How would you define dual relationships in social group work practice?",
+      "question": "How is dual relationships in groups best defined in the context of social work with groups?",
       "options": {
-        "A": "A research approach for evaluating program effectiveness and impact.",
-        "B": "A policy framework for organizing community-based services.",
-        "C": "A case management strategy for coordinating multiple service providers.",
-        "D": "Situations where a social worker has multiple roles with a group member, which can create conflicts of interest and ethical dilemmas requiring careful management."
+        "A": "A technique primarily used in individual counseling rather than group work.",
+        "B": "Situations where a social worker has multiple roles with a group member, which can create conflicts of interest and ethical dilemmas requiring careful management.",
+        "C": "An administrative process for documenting group activities and outcomes.",
+        "D": "A policy framework for organizing community-based services."
       },
-      "correctAnswer": "D",
-      "explanation": "Dual Relationships is defined as: Situations where a social worker has multiple roles with a group member, which can create conflicts of interest and ethical dilemmas requiring careful management. This concept is fundamental to effective social work group practice and is based on NASW Code of Ethics.",
+      "correctAnswer": "B",
+      "explanation": "Dual Relationships in Groups is defined as: Situations where a social worker has multiple roles with a group member, which can create conflicts of interest and ethical dilemmas requiring careful management. This concept is fundamental to effective social work group practice and is based on NASW Code of Ethics.",
       "source": "NASW Code of Ethics",
       "difficulty": "medium",
       "topic": "Professional Ethics",
-      "concept": "Dual Relationships",
+      "concept": "Dual Relationships in Groups",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.161Z",
       "examSetId": 1,
-      "questionNumber": 86
+      "questionNumber": 68
     },
     {
-      "id": "quality_def_group_evaluation_1_dup86",
+      "id": "dedup_def_group_evaluation_1018",
       "type": "definition",
-      "question": "How would you define group evaluation in social group work practice?",
+      "question": "In social work group practice, group evaluation refers to:",
       "options": {
-        "A": "An administrative process for documenting group activities and outcomes.",
+        "A": "A technique primarily used in individual counseling rather than group work.",
         "B": "The systematic assessment of group effectiveness, member progress, and goal achievement using both quantitative and qualitative measures.",
         "C": "A case management strategy for coordinating multiple service providers.",
-        "D": "A supervisory method for training new social work practitioners."
+        "D": "An administrative process for documenting group activities and outcomes."
       },
       "correctAnswer": "B",
       "explanation": "Group Evaluation is defined as: The systematic assessment of group effectiveness, member progress, and goal achievement using both quantitative and qualitative measures. This concept is fundamental to effective social work group practice and is based on Social Work Practice Evaluation.",
@@ -1755,218 +1531,526 @@
       "topic": "Professional Practice",
       "concept": "Group Evaluation",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.161Z",
+      "examSetId": 1,
+      "questionNumber": 69
+    },
+    {
+      "id": "dedup_def_resistance_in_groups_1019",
+      "type": "definition",
+      "question": "According to social work literature, resistance in groups is:",
+      "options": {
+        "A": "A research approach for evaluating program effectiveness and impact.",
+        "B": "Member behaviors that oppose or hinder group progress, often stemming from fear, past experiences, or conflicting goals that require skillful intervention.",
+        "C": "An administrative process for documenting group activities and outcomes.",
+        "D": "A policy framework for organizing community-based services."
+      },
+      "correctAnswer": "B",
+      "explanation": "Resistance in Groups is defined as: Member behaviors that oppose or hinder group progress, often stemming from fear, past experiences, or conflicting goals that require skillful intervention. This concept is fundamental to effective social work group practice and is based on Group Work Practice Literature.",
+      "source": "Group Work Practice Literature",
+      "difficulty": "medium",
+      "topic": "Group Process",
+      "concept": "Resistance in Groups",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
+      "examSetId": 1,
+      "questionNumber": 70
+    },
+    {
+      "id": "dedup_scenario_resistance_in_groups_1021",
+      "type": "scenario",
+      "question": "When a group member consistently challenges the facilitator and disrupts group activities, the social worker should:",
+      "options": {
+        "A": "Ignore the behavior and hope it resolves itself naturally over time.",
+        "B": "Explore the underlying reasons for the resistance and work with the member to address their concerns constructively.",
+        "C": "Focus on individual counseling rather than addressing the group dynamic.",
+        "D": "Remove the problematic member from the group immediately."
+      },
+      "correctAnswer": "B",
+      "explanation": "This response aligns with best practices for Resistance in Groups. Member behaviors that oppose or hinder group progress, often stemming from fear, past experiences, or conflicting goals that require skillful intervention. The approach is supported by Group Work Practice Literature.",
+      "source": "Group Work Practice Literature",
+      "difficulty": "hard",
+      "topic": "Group Process",
+      "concept": "Resistance in Groups",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
+      "examSetId": 1,
+      "questionNumber": 71
+    },
+    {
+      "id": "dedup_def_group_composition_1021",
+      "type": "definition",
+      "question": "How is group composition best defined in the context of social work with groups?",
+      "options": {
+        "A": "A supervisory method for training new social work practitioners.",
+        "B": "A technique primarily used in individual counseling rather than group work.",
+        "C": "An administrative process for documenting group activities and outcomes.",
+        "D": "The careful selection and arrangement of group members based on factors such as demographics, needs, personalities, and goals to optimize group effectiveness."
+      },
+      "correctAnswer": "D",
+      "explanation": "Group Composition is defined as: The careful selection and arrangement of group members based on factors such as demographics, needs, personalities, and goals to optimize group effectiveness. This concept is fundamental to effective social work group practice and is based on Group Work Practice Principles.",
+      "source": "Group Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Group Formation",
+      "concept": "Group Composition",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
+      "examSetId": 1,
+      "questionNumber": 72
+    },
+    {
+      "id": "dedup_def_therapeutic_factors_1022",
+      "type": "definition",
+      "question": "In social work group practice, therapeutic factors refers to:",
+      "options": {
+        "A": "The healing elements present in group work including universality, hope, altruism, interpersonal learning, and corrective emotional experiences.",
+        "B": "A case management strategy for coordinating multiple service providers.",
+        "C": "An administrative process for documenting group activities and outcomes.",
+        "D": "A supervisory method for training new social work practitioners."
+      },
+      "correctAnswer": "A",
+      "explanation": "Therapeutic Factors is defined as: The healing elements present in group work including universality, hope, altruism, interpersonal learning, and corrective emotional experiences. This concept is fundamental to effective social work group practice and is based on Yalom Group Therapy Theory.",
+      "source": "Yalom Group Therapy Theory",
+      "difficulty": "medium",
+      "topic": "Group Process",
+      "concept": "Therapeutic Factors",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
+      "examSetId": 1,
+      "questionNumber": 73
+    },
+    {
+      "id": "dedup_def_group_leadership_styles_1023",
+      "type": "definition",
+      "question": "According to social work literature, group leadership styles is:",
+      "options": {
+        "A": "Different approaches to facilitating groups including democratic, autocratic, and laissez-faire styles, each appropriate for different group purposes and contexts.",
+        "B": "A case management strategy for coordinating multiple service providers.",
+        "C": "A policy framework for organizing community-based services.",
+        "D": "A research approach for evaluating program effectiveness and impact."
+      },
+      "correctAnswer": "A",
+      "explanation": "Group Leadership Styles is defined as: Different approaches to facilitating groups including democratic, autocratic, and laissez-faire styles, each appropriate for different group purposes and contexts. This concept is fundamental to effective social work group practice and is based on Group Leadership Literature.",
+      "source": "Group Leadership Literature",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "Group Leadership Styles",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
+      "examSetId": 1,
+      "questionNumber": 74
+    },
+    {
+      "id": "dedup_def_conflict_resolution_in_groups_1024",
+      "type": "definition",
+      "question": "What is conflict resolution in groups in social group work practice?",
+      "options": {
+        "A": "Strategies and techniques for addressing disagreements and tensions within groups in ways that promote understanding and strengthen group functioning.",
+        "B": "An administrative process for documenting group activities and outcomes.",
+        "C": "A research approach for evaluating program effectiveness and impact.",
+        "D": "A technique primarily used in individual counseling rather than group work."
+      },
+      "correctAnswer": "A",
+      "explanation": "Conflict Resolution in Groups is defined as: Strategies and techniques for addressing disagreements and tensions within groups in ways that promote understanding and strengthen group functioning. This concept is fundamental to effective social work group practice and is based on Conflict Resolution Theory.",
+      "source": "Conflict Resolution Theory",
+      "difficulty": "medium",
+      "topic": "Group Process",
+      "concept": "Conflict Resolution in Groups",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
+      "examSetId": 1,
+      "questionNumber": 75
+    },
+    {
+      "id": "dedup_def_group_size_considerations_1025",
+      "type": "definition",
+      "question": "How is group size considerations best defined in the context of social work with groups?",
+      "options": {
+        "A": "An administrative process for documenting group activities and outcomes.",
+        "B": "The impact of group size on dynamics, participation, and effectiveness, with optimal sizes varying based on group purpose and member characteristics.",
+        "C": "A policy framework for organizing community-based services.",
+        "D": "A technique primarily used in individual counseling rather than group work."
+      },
+      "correctAnswer": "B",
+      "explanation": "Group Size Considerations is defined as: The impact of group size on dynamics, participation, and effectiveness, with optimal sizes varying based on group purpose and member characteristics. This concept is fundamental to effective social work group practice and is based on Group Work Practice Standards.",
+      "source": "Group Work Practice Standards",
+      "difficulty": "medium",
+      "topic": "Group Formation",
+      "concept": "Group Size Considerations",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
+      "examSetId": 1,
+      "questionNumber": 76
+    },
+    {
+      "id": "dedup_def_open_vs_closed_groups_1026",
+      "type": "definition",
+      "question": "In social work group practice, open vs closed groups refers to:",
+      "options": {
+        "A": "The distinction between groups that allow new members to join throughout (open) versus those with fixed membership (closed), each with different advantages and challenges.",
+        "B": "A supervisory method for training new social work practitioners.",
+        "C": "A policy framework for organizing community-based services.",
+        "D": "A case management strategy for coordinating multiple service providers."
+      },
+      "correctAnswer": "A",
+      "explanation": "Open vs Closed Groups is defined as: The distinction between groups that allow new members to join throughout (open) versus those with fixed membership (closed), each with different advantages and challenges. This concept is fundamental to effective social work group practice and is based on Group Work Practice Literature.",
+      "source": "Group Work Practice Literature",
+      "difficulty": "medium",
+      "topic": "Group Structure",
+      "concept": "Open vs Closed Groups",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
+      "examSetId": 1,
+      "questionNumber": 77
+    },
+    {
+      "id": "dedup_def_parallel_process_1027",
+      "type": "definition",
+      "question": "According to social work literature, parallel process is:",
+      "options": {
+        "A": "A technique primarily used in individual counseling rather than group work.",
+        "B": "A policy framework for organizing community-based services.",
+        "C": "When dynamics occurring in the group are unconsciously replicated in other relationships, such as between the group worker and supervisor.",
+        "D": "An administrative process for documenting group activities and outcomes."
+      },
+      "correctAnswer": "C",
+      "explanation": "Parallel Process is defined as: When dynamics occurring in the group are unconsciously replicated in other relationships, such as between the group worker and supervisor. This concept is fundamental to effective social work group practice and is based on Psychodynamic Group Work Theory.",
+      "source": "Psychodynamic Group Work Theory",
+      "difficulty": "medium",
+      "topic": "Group Process",
+      "concept": "Parallel Process",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
+      "examSetId": 1,
+      "questionNumber": 78
+    },
+    {
+      "id": "dedup_def_group_termination_1028",
+      "type": "definition",
+      "question": "What is group termination in social group work practice?",
+      "options": {
+        "A": "A technique primarily used in individual counseling rather than group work.",
+        "B": "A case management strategy for coordinating multiple service providers.",
+        "C": "A research approach for evaluating program effectiveness and impact.",
+        "D": "The planned ending phase of group work that involves reviewing progress, processing feelings about ending, and planning for continued growth."
+      },
+      "correctAnswer": "D",
+      "explanation": "Group Termination is defined as: The planned ending phase of group work that involves reviewing progress, processing feelings about ending, and planning for continued growth. This concept is fundamental to effective social work group practice and is based on Group Work Practice Standards.",
+      "source": "Group Work Practice Standards",
+      "difficulty": "medium",
+      "topic": "Group Development",
+      "concept": "Group Termination",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
+      "examSetId": 1,
+      "questionNumber": 79
+    },
+    {
+      "id": "dedup_def_cultural_competence_in_groups_1029",
+      "type": "definition",
+      "question": "How is cultural competence in groups best defined in the context of social work with groups?",
+      "options": {
+        "A": "An administrative process for documenting group activities and outcomes.",
+        "B": "A technique primarily used in individual counseling rather than group work.",
+        "C": "The ability to work effectively with group members from diverse cultural backgrounds by understanding and respecting cultural differences and their impact on group dynamics.",
+        "D": "A research approach for evaluating program effectiveness and impact."
+      },
+      "correctAnswer": "C",
+      "explanation": "Cultural Competence in Groups is defined as: The ability to work effectively with group members from diverse cultural backgrounds by understanding and respecting cultural differences and their impact on group dynamics. This concept is fundamental to effective social work group practice and is based on NASW Cultural Competence Standards.",
+      "source": "NASW Cultural Competence Standards",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "Cultural Competence in Groups",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
+      "examSetId": 1,
+      "questionNumber": 80
+    },
+    {
+      "id": "dedup_def_confidentiality_in_groups_1030",
+      "type": "definition",
+      "question": "In social work group practice, confidentiality in groups refers to:",
+      "options": {
+        "A": "A policy framework for organizing community-based services.",
+        "B": "A technique primarily used in individual counseling rather than group work.",
+        "C": "A research approach for evaluating program effectiveness and impact.",
+        "D": "The ethical principle requiring group members to keep private information shared within the group, with specific guidelines for mandatory reporting situations."
+      },
+      "correctAnswer": "D",
+      "explanation": "Confidentiality in Groups is defined as: The ethical principle requiring group members to keep private information shared within the group, with specific guidelines for mandatory reporting situations. This concept is fundamental to effective social work group practice and is based on NASW Code of Ethics.",
+      "source": "NASW Code of Ethics",
+      "difficulty": "medium",
+      "topic": "Professional Ethics",
+      "concept": "Confidentiality in Groups",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
+      "examSetId": 1,
+      "questionNumber": 81
+    },
+    {
+      "id": "dedup_def_dual_relationships_in_groups_1031",
+      "type": "definition",
+      "question": "According to social work literature, dual relationships in groups is:",
+      "options": {
+        "A": "An administrative process for documenting group activities and outcomes.",
+        "B": "Situations where a social worker has multiple roles with a group member, which can create conflicts of interest and ethical dilemmas requiring careful management.",
+        "C": "A research approach for evaluating program effectiveness and impact.",
+        "D": "A case management strategy for coordinating multiple service providers."
+      },
+      "correctAnswer": "B",
+      "explanation": "Dual Relationships in Groups is defined as: Situations where a social worker has multiple roles with a group member, which can create conflicts of interest and ethical dilemmas requiring careful management. This concept is fundamental to effective social work group practice and is based on NASW Code of Ethics.",
+      "source": "NASW Code of Ethics",
+      "difficulty": "medium",
+      "topic": "Professional Ethics",
+      "concept": "Dual Relationships in Groups",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
+      "examSetId": 1,
+      "questionNumber": 82
+    },
+    {
+      "id": "dedup_def_group_evaluation_1032",
+      "type": "definition",
+      "question": "What is group evaluation in social group work practice?",
+      "options": {
+        "A": "A policy framework for organizing community-based services.",
+        "B": "An administrative process for documenting group activities and outcomes.",
+        "C": "The systematic assessment of group effectiveness, member progress, and goal achievement using both quantitative and qualitative measures.",
+        "D": "A case management strategy for coordinating multiple service providers."
+      },
+      "correctAnswer": "C",
+      "explanation": "Group Evaluation is defined as: The systematic assessment of group effectiveness, member progress, and goal achievement using both quantitative and qualitative measures. This concept is fundamental to effective social work group practice and is based on Social Work Practice Evaluation.",
+      "source": "Social Work Practice Evaluation",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "Group Evaluation",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
+      "examSetId": 1,
+      "questionNumber": 83
+    },
+    {
+      "id": "dedup_def_resistance_in_groups_1033",
+      "type": "definition",
+      "question": "How is resistance in groups best defined in the context of social work with groups?",
+      "options": {
+        "A": "A policy framework for organizing community-based services.",
+        "B": "Member behaviors that oppose or hinder group progress, often stemming from fear, past experiences, or conflicting goals that require skillful intervention.",
+        "C": "An administrative process for documenting group activities and outcomes.",
+        "D": "A supervisory method for training new social work practitioners."
+      },
+      "correctAnswer": "B",
+      "explanation": "Resistance in Groups is defined as: Member behaviors that oppose or hinder group progress, often stemming from fear, past experiences, or conflicting goals that require skillful intervention. This concept is fundamental to effective social work group practice and is based on Group Work Practice Literature.",
+      "source": "Group Work Practice Literature",
+      "difficulty": "medium",
+      "topic": "Group Process",
+      "concept": "Resistance in Groups",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
+      "examSetId": 1,
+      "questionNumber": 84
+    },
+    {
+      "id": "dedup_def_group_composition_1034",
+      "type": "definition",
+      "question": "In social work group practice, group composition refers to:",
+      "options": {
+        "A": "A research approach for evaluating program effectiveness and impact.",
+        "B": "The careful selection and arrangement of group members based on factors such as demographics, needs, personalities, and goals to optimize group effectiveness.",
+        "C": "An administrative process for documenting group activities and outcomes.",
+        "D": "A supervisory method for training new social work practitioners."
+      },
+      "correctAnswer": "B",
+      "explanation": "Group Composition is defined as: The careful selection and arrangement of group members based on factors such as demographics, needs, personalities, and goals to optimize group effectiveness. This concept is fundamental to effective social work group practice and is based on Group Work Practice Principles.",
+      "source": "Group Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Group Formation",
+      "concept": "Group Composition",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
+      "examSetId": 1,
+      "questionNumber": 85
+    },
+    {
+      "id": "dedup_def_therapeutic_factors_1035",
+      "type": "definition",
+      "question": "According to social work literature, therapeutic factors is:",
+      "options": {
+        "A": "An administrative process for documenting group activities and outcomes.",
+        "B": "The healing elements present in group work including universality, hope, altruism, interpersonal learning, and corrective emotional experiences.",
+        "C": "A technique primarily used in individual counseling rather than group work.",
+        "D": "A policy framework for organizing community-based services."
+      },
+      "correctAnswer": "B",
+      "explanation": "Therapeutic Factors is defined as: The healing elements present in group work including universality, hope, altruism, interpersonal learning, and corrective emotional experiences. This concept is fundamental to effective social work group practice and is based on Yalom Group Therapy Theory.",
+      "source": "Yalom Group Therapy Theory",
+      "difficulty": "medium",
+      "topic": "Group Process",
+      "concept": "Therapeutic Factors",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
+      "examSetId": 1,
+      "questionNumber": 86
+    },
+    {
+      "id": "dedup_def_group_leadership_styles_1036",
+      "type": "definition",
+      "question": "What is group leadership styles in social group work practice?",
+      "options": {
+        "A": "A technique primarily used in individual counseling rather than group work.",
+        "B": "A supervisory method for training new social work practitioners.",
+        "C": "A policy framework for organizing community-based services.",
+        "D": "Different approaches to facilitating groups including democratic, autocratic, and laissez-faire styles, each appropriate for different group purposes and contexts."
+      },
+      "correctAnswer": "D",
+      "explanation": "Group Leadership Styles is defined as: Different approaches to facilitating groups including democratic, autocratic, and laissez-faire styles, each appropriate for different group purposes and contexts. This concept is fundamental to effective social work group practice and is based on Group Leadership Literature.",
+      "source": "Group Leadership Literature",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "Group Leadership Styles",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
       "examSetId": 1,
       "questionNumber": 87
     },
     {
-      "id": "quality_def_group_development_stages_1_dup29_dup87",
+      "id": "dedup_def_conflict_resolution_in_groups_1037",
       "type": "definition",
-      "question": "How would you define group development stages in social group work practice?",
+      "question": "How is conflict resolution in groups best defined in the context of social work with groups?",
       "options": {
-        "A": "A technique primarily used in individual counseling rather than group work.",
-        "B": "An administrative process for documenting group activities and outcomes.",
-        "C": "The predictable phases groups experience: forming (initial coming together), storming (conflict and tension), norming (establishing rules), performing (productive work), and adjourning (ending).",
-        "D": "A policy framework for organizing community-based services."
+        "A": "Strategies and techniques for addressing disagreements and tensions within groups in ways that promote understanding and strengthen group functioning.",
+        "B": "A supervisory method for training new social work practitioners.",
+        "C": "A research approach for evaluating program effectiveness and impact.",
+        "D": "An administrative process for documenting group activities and outcomes."
       },
-      "correctAnswer": "C",
-      "explanation": "Group Development Stages is defined as: The predictable phases groups experience: forming (initial coming together), storming (conflict and tension), norming (establishing rules), performing (productive work), and adjourning (ending). This concept is fundamental to effective social work group practice and is based on Tuckman's Model of Group Development.",
-      "source": "Tuckman's Model of Group Development",
+      "correctAnswer": "A",
+      "explanation": "Conflict Resolution in Groups is defined as: Strategies and techniques for addressing disagreements and tensions within groups in ways that promote understanding and strengthen group functioning. This concept is fundamental to effective social work group practice and is based on Conflict Resolution Theory.",
+      "source": "Conflict Resolution Theory",
       "difficulty": "medium",
-      "topic": "Group Development",
-      "concept": "Group Development Stages",
+      "topic": "Group Process",
+      "concept": "Conflict Resolution in Groups",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
       "examSetId": 1,
       "questionNumber": 88
     },
     {
-      "id": "quality_app_group_development_stages_2_dup30_dup88",
-      "type": "application",
-      "question": "A social worker notices that group members are experiencing conflict and disagreement about group goals. This most likely indicates the group is in which stage?",
+      "id": "dedup_def_group_size_considerations_1038",
+      "type": "definition",
+      "question": "In social work group practice, group size considerations refers to:",
       "options": {
-        "A": "Avoid addressing the issue to prevent potential conflict or discomfort.",
-        "B": "Focus primarily on individual problems rather than group dynamics.",
-        "C": "The storming stage, and facilitate discussion to work through conflicts constructively.",
-        "D": "Take direct control of the situation and make decisions for the group."
+        "A": "The impact of group size on dynamics, participation, and effectiveness, with optimal sizes varying based on group purpose and member characteristics.",
+        "B": "A supervisory method for training new social work practitioners.",
+        "C": "A policy framework for organizing community-based services.",
+        "D": "An administrative process for documenting group activities and outcomes."
       },
-      "correctAnswer": "C",
-      "explanation": "The correct approach reflects the principles of Group Development Stages: The predictable phases groups experience: forming (initial coming together), storming (conflict and tension), norming (establishing rules), performing (productive work), and adjourning (ending). This application is consistent with Tuckman's Model of Group Development.",
-      "source": "Tuckman's Model of Group Development",
-      "difficulty": "hard",
-      "topic": "Group Development",
-      "concept": "Group Development Stages",
+      "correctAnswer": "A",
+      "explanation": "Group Size Considerations is defined as: The impact of group size on dynamics, participation, and effectiveness, with optimal sizes varying based on group purpose and member characteristics. This concept is fundamental to effective social work group practice and is based on Group Work Practice Standards.",
+      "source": "Group Work Practice Standards",
+      "difficulty": "medium",
+      "topic": "Group Formation",
+      "concept": "Group Size Considerations",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
       "examSetId": 1,
       "questionNumber": 89
     },
     {
-      "id": "quality_def_mutual_aid_1_dup31_dup89",
+      "id": "dedup_def_open_vs_closed_groups_1039",
       "type": "definition",
-      "question": "How would you define mutual aid in social group work practice?",
+      "question": "According to social work literature, open vs closed groups is:",
       "options": {
         "A": "A technique primarily used in individual counseling rather than group work.",
-        "B": "A research approach for evaluating program effectiveness and impact.",
-        "C": "A policy framework for organizing community-based services.",
-        "D": "A process where group members help each other by sharing experiences, providing support, and offering different perspectives on common problems and challenges."
+        "B": "A supervisory method for training new social work practitioners.",
+        "C": "An administrative process for documenting group activities and outcomes.",
+        "D": "The distinction between groups that allow new members to join throughout (open) versus those with fixed membership (closed), each with different advantages and challenges."
       },
       "correctAnswer": "D",
-      "explanation": "Mutual Aid is defined as: A process where group members help each other by sharing experiences, providing support, and offering different perspectives on common problems and challenges. This concept is fundamental to effective social work group practice and is based on Schwartz & Shulman Group Work Theory.",
-      "source": "Schwartz & Shulman Group Work Theory",
+      "explanation": "Open vs Closed Groups is defined as: The distinction between groups that allow new members to join throughout (open) versus those with fixed membership (closed), each with different advantages and challenges. This concept is fundamental to effective social work group practice and is based on Group Work Practice Literature.",
+      "source": "Group Work Practice Literature",
       "difficulty": "medium",
-      "topic": "Group Process",
-      "concept": "Mutual Aid",
+      "topic": "Group Structure",
+      "concept": "Open vs Closed Groups",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
       "examSetId": 1,
       "questionNumber": 90
     },
     {
-      "id": "quality_app_mutual_aid_2_dup32_dup90",
-      "type": "application",
-      "question": "When group members begin sharing personal experiences and offering support to each other, the social worker should:",
-      "options": {
-        "A": "Focus primarily on individual problems rather than group dynamics.",
-        "B": "Take direct control of the situation and make decisions for the group.",
-        "C": "Avoid addressing the issue to prevent potential conflict or discomfort.",
-        "D": "Encourage and facilitate this natural helping process while maintaining appropriate boundaries."
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct approach reflects the principles of Mutual Aid: A process where group members help each other by sharing experiences, providing support, and offering different perspectives on common problems and challenges. This application is consistent with Schwartz & Shulman Group Work Theory.",
-      "source": "Schwartz & Shulman Group Work Theory",
-      "difficulty": "hard",
-      "topic": "Group Process",
-      "concept": "Mutual Aid",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 91
-    },
-    {
-      "id": "quality_def_group_cohesion_1_dup33_dup91",
+      "id": "dedup_def_group_cohesion_1040",
       "type": "definition",
-      "question": "How would you define group cohesion in social group work practice?",
+      "question": "What is group cohesion in social group work practice?",
       "options": {
-        "A": "A policy framework for organizing community-based services.",
-        "B": "A research approach for evaluating program effectiveness and impact.",
-        "C": "A supervisory method for training new social work practitioners.",
-        "D": "The degree of unity, solidarity, and positive feelings among group members that contributes to the group's ability to work together effectively toward common goals."
+        "A": "A research approach for evaluating program effectiveness and impact.",
+        "B": "A supervisory method for training new social work practitioners.",
+        "C": "The degree of unity, solidarity, and positive feelings among group members that contributes to the group's ability to work together effectively toward common goals.",
+        "D": "A policy framework for organizing community-based services."
       },
-      "correctAnswer": "D",
+      "correctAnswer": "C",
       "explanation": "Group Cohesion is defined as: The degree of unity, solidarity, and positive feelings among group members that contributes to the group's ability to work together effectively toward common goals. This concept is fundamental to effective social work group practice and is based on Social Work Group Practice Literature.",
       "source": "Social Work Group Practice Literature",
       "difficulty": "medium",
       "topic": "Group Dynamics",
       "concept": "Group Cohesion",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
+      "examSetId": 1,
+      "questionNumber": 91
+    },
+    {
+      "id": "dedup_def_mutual_aid_process_1041",
+      "type": "definition",
+      "question": "How is mutual aid process best defined in the context of social work with groups?",
+      "options": {
+        "A": "A research approach for evaluating program effectiveness and impact.",
+        "B": "A policy framework for organizing community-based services.",
+        "C": "A technique primarily used in individual counseling rather than group work.",
+        "D": "A fundamental group work principle where members help each other by sharing experiences, providing support, and offering different perspectives on common problems."
+      },
+      "correctAnswer": "D",
+      "explanation": "Mutual Aid Process is defined as: A fundamental group work principle where members help each other by sharing experiences, providing support, and offering different perspectives on common problems. This concept is fundamental to effective social work group practice and is based on Schwartz & Shulman Group Work Theory.",
+      "source": "Schwartz & Shulman Group Work Theory",
+      "difficulty": "medium",
+      "topic": "Group Process",
+      "concept": "Mutual Aid Process",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
       "examSetId": 1,
       "questionNumber": 92
     },
     {
-      "id": "quality_app_group_cohesion_2_dup34_dup92",
-      "type": "application",
-      "question": "To build stronger unity among group members, a social worker should:",
-      "options": {
-        "A": "Avoid addressing the issue to prevent potential conflict or discomfort.",
-        "B": "Take direct control of the situation and make decisions for the group.",
-        "C": "Focus primarily on individual problems rather than group dynamics.",
-        "D": "Facilitate activities that promote shared experiences and common goals among members."
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct approach reflects the principles of Group Cohesion: The degree of unity, solidarity, and positive feelings among group members that contributes to the group's ability to work together effectively toward common goals. This application is consistent with Social Work Group Practice Literature.",
-      "source": "Social Work Group Practice Literature",
-      "difficulty": "hard",
-      "topic": "Group Dynamics",
-      "concept": "Group Cohesion",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 93
-    },
-    {
-      "id": "quality_def_empowerment_approach_1_dup35_dup93",
+      "id": "dedup_def_group_norms_1042",
       "type": "definition",
-      "question": "How would you define empowerment approach in social group work practice?",
-      "options": {
-        "A": "A practice method that helps individuals and groups develop the capacity to take control of their circumstances and achieve their own goals through collective action.",
-        "B": "A supervisory method for training new social work practitioners.",
-        "C": "A case management strategy for coordinating multiple service providers.",
-        "D": "A research approach for evaluating program effectiveness and impact."
-      },
-      "correctAnswer": "A",
-      "explanation": "Empowerment Approach is defined as: A practice method that helps individuals and groups develop the capacity to take control of their circumstances and achieve their own goals through collective action. This concept is fundamental to effective social work group practice and is based on Empowerment Theory in Social Work.",
-      "source": "Empowerment Theory in Social Work",
-      "difficulty": "medium",
-      "topic": "Practice Approaches",
-      "concept": "Empowerment Approach",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 94
-    },
-    {
-      "id": "quality_app_empowerment_approach_2_dup36_dup94",
-      "type": "application",
-      "question": "When using an empowerment approach with a community action group, the social worker's primary role is to:",
-      "options": {
-        "A": "Avoid addressing the issue to prevent potential conflict or discomfort.",
-        "B": "Take direct control of the situation and make decisions for the group.",
-        "C": "Focus primarily on individual problems rather than group dynamics.",
-        "D": "Help members identify their own strengths and develop skills for collective action."
-      },
-      "correctAnswer": "D",
-      "explanation": "The correct approach reflects the principles of Empowerment Approach: A practice method that helps individuals and groups develop the capacity to take control of their circumstances and achieve their own goals through collective action. This application is consistent with Empowerment Theory in Social Work.",
-      "source": "Empowerment Theory in Social Work",
-      "difficulty": "hard",
-      "topic": "Practice Approaches",
-      "concept": "Empowerment Approach",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 95
-    },
-    {
-      "id": "quality_def_strengths_perspective_1_dup37_dup95",
-      "type": "definition",
-      "question": "How would you define strengths perspective in social group work practice?",
-      "options": {
-        "A": "A technique primarily used in individual counseling rather than group work.",
-        "B": "A case management strategy for coordinating multiple service providers.",
-        "C": "A practice approach that focuses on identifying and building upon the inherent strengths, resources, and capabilities of individuals and groups rather than deficits.",
-        "D": "A policy framework for organizing community-based services."
-      },
-      "correctAnswer": "C",
-      "explanation": "Strengths Perspective is defined as: A practice approach that focuses on identifying and building upon the inherent strengths, resources, and capabilities of individuals and groups rather than deficits. This concept is fundamental to effective social work group practice and is based on Strengths-Based Social Work Practice.",
-      "source": "Strengths-Based Social Work Practice",
-      "difficulty": "medium",
-      "topic": "Practice Approaches",
-      "concept": "Strengths Perspective",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 96
-    },
-    {
-      "id": "quality_app_strengths_perspective_2_dup38_dup96",
-      "type": "application",
-      "question": "A social worker applying the strengths perspective in group work would focus on:",
-      "options": {
-        "A": "Take direct control of the situation and make decisions for the group.",
-        "B": "Avoid addressing the issue to prevent potential conflict or discomfort.",
-        "C": "Identifying and building upon the existing capabilities and resources of group members.",
-        "D": "Focus primarily on individual problems rather than group dynamics."
-      },
-      "correctAnswer": "C",
-      "explanation": "The correct approach reflects the principles of Strengths Perspective: A practice approach that focuses on identifying and building upon the inherent strengths, resources, and capabilities of individuals and groups rather than deficits. This application is consistent with Strengths-Based Social Work Practice.",
-      "source": "Strengths-Based Social Work Practice",
-      "difficulty": "hard",
-      "topic": "Practice Approaches",
-      "concept": "Strengths Perspective",
-      "verified": true,
-      "examSetId": 1,
-      "questionNumber": 97
-    },
-    {
-      "id": "quality_def_group_norms_1_dup39_dup97",
-      "type": "definition",
-      "question": "How would you define group norms in social group work practice?",
+      "question": "In social work group practice, group norms refers to:",
       "options": {
         "A": "Shared expectations and informal rules that guide behavior within the group and help establish acceptable standards of conduct and interaction.",
-        "B": "A technique primarily used in individual counseling rather than group work.",
-        "C": "A case management strategy for coordinating multiple service providers.",
-        "D": "An administrative process for documenting group activities and outcomes."
+        "B": "A research approach for evaluating program effectiveness and impact.",
+        "C": "A supervisory method for training new social work practitioners.",
+        "D": "A case management strategy for coordinating multiple service providers."
       },
       "correctAnswer": "A",
       "explanation": "Group Norms is defined as: Shared expectations and informal rules that guide behavior within the group and help establish acceptable standards of conduct and interaction. This concept is fundamental to effective social work group practice and is based on Group Dynamics Theory.",
@@ -1975,55 +2059,174 @@
       "topic": "Group Structure",
       "concept": "Group Norms",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
+      "examSetId": 1,
+      "questionNumber": 93
+    },
+    {
+      "id": "dedup_def_pregroup_planning_1043",
+      "type": "definition",
+      "question": "According to social work literature, pregroup planning is:",
+      "options": {
+        "A": "A research approach for evaluating program effectiveness and impact.",
+        "B": "A supervisory method for training new social work practitioners.",
+        "C": "The systematic preparation phase involving needs assessment, goal setting, member recruitment, and logistical arrangements before the group begins meeting.",
+        "D": "An administrative process for documenting group activities and outcomes."
+      },
+      "correctAnswer": "C",
+      "explanation": "Pregroup Planning is defined as: The systematic preparation phase involving needs assessment, goal setting, member recruitment, and logistical arrangements before the group begins meeting. This concept is fundamental to effective social work group practice and is based on Group Work Practice Standards.",
+      "source": "Group Work Practice Standards",
+      "difficulty": "medium",
+      "topic": "Group Formation",
+      "concept": "Pregroup Planning",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
+      "examSetId": 1,
+      "questionNumber": 94
+    },
+    {
+      "id": "dedup_def_group_contract_1044",
+      "type": "definition",
+      "question": "What is group contract in social group work practice?",
+      "options": {
+        "A": "A policy framework for organizing community-based services.",
+        "B": "A formal or informal agreement between group members and the facilitator that outlines goals, expectations, rules, and responsibilities for participation.",
+        "C": "A supervisory method for training new social work practitioners.",
+        "D": "An administrative process for documenting group activities and outcomes."
+      },
+      "correctAnswer": "B",
+      "explanation": "Group Contract is defined as: A formal or informal agreement between group members and the facilitator that outlines goals, expectations, rules, and responsibilities for participation. This concept is fundamental to effective social work group practice and is based on Social Work Group Practice.",
+      "source": "Social Work Group Practice",
+      "difficulty": "medium",
+      "topic": "Group Structure",
+      "concept": "Group Contract",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
+      "examSetId": 1,
+      "questionNumber": 95
+    },
+    {
+      "id": "dedup_def_scapegoating_1045",
+      "type": "definition",
+      "question": "How is scapegoating best defined in the context of social work with groups?",
+      "options": {
+        "A": "A case management strategy for coordinating multiple service providers.",
+        "B": "An administrative process for documenting group activities and outcomes.",
+        "C": "A group dynamic where members collectively blame or target one individual for group problems, often as a way to avoid addressing underlying issues.",
+        "D": "A technique primarily used in individual counseling rather than group work."
+      },
+      "correctAnswer": "C",
+      "explanation": "Scapegoating is defined as: A group dynamic where members collectively blame or target one individual for group problems, often as a way to avoid addressing underlying issues. This concept is fundamental to effective social work group practice and is based on Group Process and Dynamics Literature.",
+      "source": "Group Process and Dynamics Literature",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Scapegoating",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
+      "examSetId": 1,
+      "questionNumber": 96
+    },
+    {
+      "id": "dedup_def_group_roles_1046",
+      "type": "definition",
+      "question": "In social work group practice, group roles refers to:",
+      "options": {
+        "A": "The various functions and positions that members assume within the group, including task roles (focused on goals) and maintenance roles (focused on relationships).",
+        "B": "A policy framework for organizing community-based services.",
+        "C": "An administrative process for documenting group activities and outcomes.",
+        "D": "A supervisory method for training new social work practitioners."
+      },
+      "correctAnswer": "A",
+      "explanation": "Group Roles is defined as: The various functions and positions that members assume within the group, including task roles (focused on goals) and maintenance roles (focused on relationships). This concept is fundamental to effective social work group practice and is based on Group Dynamics Theory.",
+      "source": "Group Dynamics Theory",
+      "difficulty": "medium",
+      "topic": "Group Structure",
+      "concept": "Group Roles",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
+      "examSetId": 1,
+      "questionNumber": 97
+    },
+    {
+      "id": "dedup_def_parallel_process_1047",
+      "type": "definition",
+      "question": "According to social work literature, parallel process is:",
+      "options": {
+        "A": "A supervisory method for training new social work practitioners.",
+        "B": "A policy framework for organizing community-based services.",
+        "C": "When dynamics occurring in the group are unconsciously replicated in other relationships, such as between the group worker and supervisor.",
+        "D": "A research approach for evaluating program effectiveness and impact."
+      },
+      "correctAnswer": "C",
+      "explanation": "Parallel Process is defined as: When dynamics occurring in the group are unconsciously replicated in other relationships, such as between the group worker and supervisor. This concept is fundamental to effective social work group practice and is based on Psychodynamic Group Work Theory.",
+      "source": "Psychodynamic Group Work Theory",
+      "difficulty": "medium",
+      "topic": "Group Process",
+      "concept": "Parallel Process",
+      "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
       "examSetId": 1,
       "questionNumber": 98
     },
     {
-      "id": "quality_scenario_group_norms_3_dup40_dup98",
-      "type": "scenario",
-      "question": "In a support group, one member consistently arrives late and interrupts others. The social worker should address this by:",
+      "id": "dedup_def_group_termination_1048",
+      "type": "definition",
+      "question": "What is group termination in social group work practice?",
       "options": {
-        "A": "Focus on individual counseling rather than addressing the group dynamic.",
-        "B": "Address the behavior directly with the group, exploring how it affects group functioning and establishing clear expectations.",
-        "C": "Remove the problematic member from the group immediately.",
-        "D": "Ignore the behavior and hope it resolves itself naturally over time."
+        "A": "A policy framework for organizing community-based services.",
+        "B": "A research approach for evaluating program effectiveness and impact.",
+        "C": "A case management strategy for coordinating multiple service providers.",
+        "D": "The planned ending phase of group work that involves reviewing progress, processing feelings about ending, and planning for continued growth."
       },
-      "correctAnswer": "B",
-      "explanation": "This response aligns with best practices for Group Norms. Shared expectations and informal rules that guide behavior within the group and help establish acceptable standards of conduct and interaction. The approach is supported by Group Dynamics Theory.",
-      "source": "Group Dynamics Theory",
-      "difficulty": "hard",
-      "topic": "Group Structure",
-      "concept": "Group Norms",
+      "correctAnswer": "D",
+      "explanation": "Group Termination is defined as: The planned ending phase of group work that involves reviewing progress, processing feelings about ending, and planning for continued growth. This concept is fundamental to effective social work group practice and is based on Group Work Practice Standards.",
+      "source": "Group Work Practice Standards",
+      "difficulty": "medium",
+      "topic": "Group Development",
+      "concept": "Group Termination",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
       "examSetId": 1,
       "questionNumber": 99
     },
     {
-      "id": "quality_def_social_goals_model_1_dup41_dup99",
+      "id": "dedup_def_cultural_competence_in_groups_1049",
       "type": "definition",
-      "question": "How would you define social goals model in social group work practice?",
+      "question": "How is cultural competence in groups best defined in the context of social work with groups?",
       "options": {
-        "A": "A supervisory method for training new social work practitioners.",
-        "B": "A research approach for evaluating program effectiveness and impact.",
-        "C": "A case management strategy for coordinating multiple service providers.",
-        "D": "A group work approach that emphasizes social action, community change, and addressing social problems through collective group efforts and advocacy."
+        "A": "A research approach for evaluating program effectiveness and impact.",
+        "B": "A technique primarily used in individual counseling rather than group work.",
+        "C": "The ability to work effectively with group members from diverse cultural backgrounds by understanding and respecting cultural differences and their impact on group dynamics.",
+        "D": "A supervisory method for training new social work practitioners."
       },
-      "correctAnswer": "D",
-      "explanation": "Social Goals Model is defined as: A group work approach that emphasizes social action, community change, and addressing social problems through collective group efforts and advocacy. This concept is fundamental to effective social work group practice and is based on Papell & Rothman Group Work Models.",
-      "source": "Papell & Rothman Group Work Models",
+      "correctAnswer": "C",
+      "explanation": "Cultural Competence in Groups is defined as: The ability to work effectively with group members from diverse cultural backgrounds by understanding and respecting cultural differences and their impact on group dynamics. This concept is fundamental to effective social work group practice and is based on NASW Cultural Competence Standards.",
+      "source": "NASW Cultural Competence Standards",
       "difficulty": "medium",
-      "topic": "Practice Models",
-      "concept": "Social Goals Model",
+      "topic": "Professional Practice",
+      "concept": "Cultural Competence in Groups",
       "verified": true,
+      "generated": true,
+      "generatedAt": "2025-08-04T07:29:59.162Z",
       "examSetId": 1,
       "questionNumber": 100
     }
   ],
   "metadata": {
-    "createdAt": "2025-08-04T07:11:55.473Z",
-    "version": "2.0",
+    "createdAt": "2025-08-04T07:29:59.163Z",
+    "version": "2.1",
     "source": "Research-Verified Social Work Group Practice Materials",
     "qualityReviewed": true,
-    "researchBased": true
+    "researchBased": true,
+    "deduplicated": true,
+    "originalQuestions": 50,
+    "replacementQuestions": 50
   }
 }
