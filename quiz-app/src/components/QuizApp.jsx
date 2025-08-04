@@ -187,29 +187,35 @@ const QuizApp = () => {
 
       <main className="app-main">
         {currentView === 'selector' && (
-          <ExamSetSelector
-            examSets={examSets}
-            onSelectExamSet={handleExamSetSelect}
-          />
+          <div className="animate-fadeInUp">
+            <ExamSetSelector
+              examSets={examSets}
+              onSelectExamSet={handleExamSetSelect}
+            />
+          </div>
         )}
 
         {currentView === 'quiz' && currentExamData && (
-          <QuizInterface
-            examData={currentExamData}
-            quizState={quizState}
-            onUpdateQuizState={updateQuizState}
-            onQuizComplete={handleQuizComplete}
-            onBackToSelector={handleBackToSelector}
-          />
+          <div className="animate-fadeInScale">
+            <QuizInterface
+              examData={currentExamData}
+              quizState={quizState}
+              onUpdateQuizState={updateQuizState}
+              onQuizComplete={handleQuizComplete}
+              onBackToSelector={handleBackToSelector}
+            />
+          </div>
         )}
 
         {currentView === 'results' && currentExamData && (
-          <ResultsDisplay
-            examData={currentExamData}
-            quizState={quizState}
-            onRestartExam={handleRestartExam}
-            onBackToSelector={handleBackToSelector}
-          />
+          <div className="animate-fadeInUp">
+            <ResultsDisplay
+              examData={currentExamData}
+              quizState={quizState}
+              onRestartExam={handleRestartExam}
+              onBackToSelector={handleBackToSelector}
+            />
+          </div>
         )}
       </main>
 
