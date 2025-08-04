@@ -1,0 +1,972 @@
+{
+  "summary": {
+    "totalQuestions": 1000,
+    "duplicates": 16982,
+    "qualityIssues": 0,
+    "highQualityQuestions": 1000,
+    "reviewedAt": "2025-08-04T07:07:43.964Z"
+  },
+  "duplicates": [
+    {
+      "type": "exact",
+      "original": {
+        "id": "practice_group leadership_31",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for group leadership?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering group leadership",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective group leadership requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "group leadership",
+        "examSetId": 1,
+        "questionNumber": 11,
+        "originalExamSet": 1,
+        "originalIndex": 10,
+        "globalIndex": 10
+      },
+      "duplicate": {
+        "id": "practice_group leadership_30",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for group leadership?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering group leadership",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective group leadership requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "group leadership",
+        "examSetId": 1,
+        "questionNumber": 13,
+        "originalExamSet": 1,
+        "originalIndex": 12,
+        "globalIndex": 12
+      },
+      "similarity": 1
+    },
+    {
+      "type": "exact",
+      "original": {
+        "id": "practice_group leadership_31",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for group leadership?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering group leadership",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective group leadership requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "group leadership",
+        "examSetId": 1,
+        "questionNumber": 11,
+        "originalExamSet": 1,
+        "originalIndex": 10,
+        "globalIndex": 10
+      },
+      "duplicate": {
+        "id": "practice_group leadership_61",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for group leadership?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering group leadership",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective group leadership requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "group leadership",
+        "examSetId": 1,
+        "questionNumber": 14,
+        "originalExamSet": 1,
+        "originalIndex": 13,
+        "globalIndex": 13
+      },
+      "similarity": 1
+    },
+    {
+      "type": "exact",
+      "original": {
+        "id": "practice_group leadership_31",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for group leadership?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering group leadership",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective group leadership requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "group leadership",
+        "examSetId": 1,
+        "questionNumber": 11,
+        "originalExamSet": 1,
+        "originalIndex": 10,
+        "globalIndex": 10
+      },
+      "duplicate": {
+        "id": "practice_group leadership_44",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for group leadership?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering group leadership",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective group leadership requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "group leadership",
+        "examSetId": 1,
+        "questionNumber": 17,
+        "originalExamSet": 1,
+        "originalIndex": 16,
+        "globalIndex": 16
+      },
+      "similarity": 1
+    },
+    {
+      "type": "exact",
+      "original": {
+        "id": "practice_group evaluation_1",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for group evaluation?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering group evaluation",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective group evaluation requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "group evaluation",
+        "examSetId": 1,
+        "questionNumber": 16,
+        "originalExamSet": 1,
+        "originalIndex": 15,
+        "globalIndex": 15
+      },
+      "duplicate": {
+        "id": "practice_group evaluation_104",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for group evaluation?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering group evaluation",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective group evaluation requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "group evaluation",
+        "examSetId": 1,
+        "questionNumber": 18,
+        "originalExamSet": 1,
+        "originalIndex": 17,
+        "globalIndex": 17
+      },
+      "similarity": 1
+    },
+    {
+      "type": "exact",
+      "original": {
+        "id": "practice_group leadership_31",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for group leadership?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering group leadership",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective group leadership requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "group leadership",
+        "examSetId": 1,
+        "questionNumber": 11,
+        "originalExamSet": 1,
+        "originalIndex": 10,
+        "globalIndex": 10
+      },
+      "duplicate": {
+        "id": "practice_group leadership_8",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for group leadership?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering group leadership",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective group leadership requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "group leadership",
+        "examSetId": 1,
+        "questionNumber": 19,
+        "originalExamSet": 1,
+        "originalIndex": 18,
+        "globalIndex": 18
+      },
+      "similarity": 1
+    },
+    {
+      "type": "exact",
+      "original": {
+        "id": "app_82",
+        "type": "application",
+        "question": "When would a social worker most appropriately apply the concept of undefined?",
+        "options": {
+          "A": "When undefined",
+          "B": "When attending staff meetings",
+          "C": "When writing administrative reports",
+          "D": "When conducting individual therapy sessions"
+        },
+        "correctAnswer": "A",
+        "explanation": "undefined is most appropriately applied undefined. This application demonstrates understanding of when and how to use this concept effectively.",
+        "source": "Practice Application",
+        "difficulty": "medium",
+        "topic": "Application",
+        "examSetId": 1,
+        "questionNumber": 49,
+        "originalExamSet": 1,
+        "originalIndex": 48,
+        "globalIndex": 48
+      },
+      "duplicate": {
+        "id": "app_80",
+        "type": "application",
+        "question": "When would a social worker most appropriately apply the concept of undefined?",
+        "options": {
+          "A": "When conducting individual therapy sessions",
+          "B": "When attending staff meetings",
+          "C": "When writing administrative reports",
+          "D": "When undefined"
+        },
+        "correctAnswer": "D",
+        "explanation": "undefined is most appropriately applied undefined. This application demonstrates understanding of when and how to use this concept effectively.",
+        "source": "Practice Application",
+        "difficulty": "medium",
+        "topic": "Application",
+        "examSetId": 1,
+        "questionNumber": 50,
+        "originalExamSet": 1,
+        "originalIndex": 49,
+        "globalIndex": 49
+      },
+      "similarity": 1
+    },
+    {
+      "type": "exact",
+      "original": {
+        "id": "app_82",
+        "type": "application",
+        "question": "When would a social worker most appropriately apply the concept of undefined?",
+        "options": {
+          "A": "When undefined",
+          "B": "When attending staff meetings",
+          "C": "When writing administrative reports",
+          "D": "When conducting individual therapy sessions"
+        },
+        "correctAnswer": "A",
+        "explanation": "undefined is most appropriately applied undefined. This application demonstrates understanding of when and how to use this concept effectively.",
+        "source": "Practice Application",
+        "difficulty": "medium",
+        "topic": "Application",
+        "examSetId": 1,
+        "questionNumber": 49,
+        "originalExamSet": 1,
+        "originalIndex": 48,
+        "globalIndex": 48
+      },
+      "duplicate": {
+        "id": "app_81",
+        "type": "application",
+        "question": "When would a social worker most appropriately apply the concept of undefined?",
+        "options": {
+          "A": "When attending staff meetings",
+          "B": "When undefined",
+          "C": "When conducting individual therapy sessions",
+          "D": "When writing administrative reports"
+        },
+        "correctAnswer": "B",
+        "explanation": "undefined is most appropriately applied undefined. This application demonstrates understanding of when and how to use this concept effectively.",
+        "source": "Practice Application",
+        "difficulty": "medium",
+        "topic": "Application",
+        "examSetId": 1,
+        "questionNumber": 51,
+        "originalExamSet": 1,
+        "originalIndex": 50,
+        "globalIndex": 50
+      },
+      "similarity": 1
+    },
+    {
+      "type": "exact",
+      "original": {
+        "id": "def_40_v0_var2",
+        "type": "definition",
+        "question": "How would you best describe \"Vinter And Galinsky\" to a colleague?",
+        "options": {
+          "A": "those that meet because of external.",
+          "B": "two or more people with a common interest, interacting.",
+          "C": "two kinds of groups in the.",
+          "D": "a method of social work which helps individuals enhance their."
+        },
+        "correctAnswer": "C",
+        "explanation": "Vinter And Galinsky is defined as two kinds of groups in the. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology. This understanding is consistent across social work practice contexts.",
+        "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+        "difficulty": "medium",
+        "topic": "General Social Work",
+        "concept": "Vinter And Galinsky",
+        "examSetId": 1,
+        "questionNumber": 9,
+        "originalExamSet": 1,
+        "originalIndex": 8,
+        "globalIndex": 8
+      },
+      "duplicate": {
+        "id": "def_40_v2_var2",
+        "type": "definition",
+        "question": "How would you best describe \"Vinter And Galinsky\" to a colleague?",
+        "options": {
+          "A": "those that meet because of external.",
+          "B": "two kinds of groups in the.",
+          "C": "a method of social work which helps individuals enhance their.",
+          "D": "two or more people with a common interest, interacting."
+        },
+        "correctAnswer": "B",
+        "explanation": "Vinter And Galinsky is defined as two kinds of groups in the. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology. This understanding is consistent across social work practice contexts.",
+        "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+        "difficulty": "medium",
+        "topic": "General Social Work",
+        "concept": "Vinter And Galinsky",
+        "examSetId": 2,
+        "questionNumber": 6,
+        "originalExamSet": 2,
+        "originalIndex": 5,
+        "globalIndex": 105
+      },
+      "similarity": 1
+    },
+    {
+      "type": "exact",
+      "original": {
+        "id": "def_19_v1_var2",
+        "type": "definition",
+        "question": "How would you best describe \"Different Social Agency Settings Are Helped By A W\" to a colleague?",
+        "options": {
+          "A": "two or more people with a common interest, interacting.",
+          "B": "a method of social work which helps individuals enhance their.",
+          "C": "those that meet because of external.",
+          "D": "helped by a worker who."
+        },
+        "correctAnswer": "D",
+        "explanation": "Different Social Agency Settings Are Helped By A W is defined as helped by a worker who. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology. This understanding is consistent across social work practice contexts.",
+        "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+        "difficulty": "medium",
+        "topic": "General Social Work",
+        "concept": "Different Social Agency Settings Are Helped By A W",
+        "examSetId": 2,
+        "questionNumber": 4,
+        "originalExamSet": 2,
+        "originalIndex": 3,
+        "globalIndex": 103
+      },
+      "duplicate": {
+        "id": "def_19_v0_var2",
+        "type": "definition",
+        "question": "How would you best describe \"Different Social Agency Settings Are Helped By A W\" to a colleague?",
+        "options": {
+          "A": "a method of social work which helps individuals enhance their.",
+          "B": "helped by a worker who.",
+          "C": "those that meet because of external.",
+          "D": "two or more people with a common interest, interacting."
+        },
+        "correctAnswer": "B",
+        "explanation": "Different Social Agency Settings Are Helped By A W is defined as helped by a worker who. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology. This understanding is consistent across social work practice contexts.",
+        "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+        "difficulty": "medium",
+        "topic": "General Social Work",
+        "concept": "Different Social Agency Settings Are Helped By A W",
+        "examSetId": 2,
+        "questionNumber": 7,
+        "originalExamSet": 2,
+        "originalIndex": 6,
+        "globalIndex": 106
+      },
+      "similarity": 1
+    },
+    {
+      "type": "exact",
+      "original": {
+        "id": "def_22_v1_var2",
+        "type": "definition",
+        "question": "How would you best describe \"Elements Of The Different Concepts Are The Indiv\" to a colleague?",
+        "options": {
+          "A": "the Individual who is.",
+          "B": "a method of social work which helps individuals enhance their.",
+          "C": "two or more people with a common interest, interacting.",
+          "D": "those that meet because of external."
+        },
+        "correctAnswer": "A",
+        "explanation": "Elements Of The Different Concepts Are The Indiv is defined as the Individual who is. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology. This understanding is consistent across social work practice contexts.",
+        "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+        "difficulty": "medium",
+        "topic": "General Social Work",
+        "concept": "Elements Of The Different Concepts Are The Indiv",
+        "examSetId": 1,
+        "questionNumber": 4,
+        "originalExamSet": 1,
+        "originalIndex": 3,
+        "globalIndex": 3
+      },
+      "duplicate": {
+        "id": "def_22_v2_var2",
+        "type": "definition",
+        "question": "How would you best describe \"Elements Of The Different Concepts Are The Indiv\" to a colleague?",
+        "options": {
+          "A": "the Individual who is.",
+          "B": "a method of social work which helps individuals enhance their.",
+          "C": "two or more people with a common interest, interacting.",
+          "D": "those that meet because of external."
+        },
+        "correctAnswer": "A",
+        "explanation": "Elements Of The Different Concepts Are The Indiv is defined as the Individual who is. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology. This understanding is consistent across social work practice contexts.",
+        "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+        "difficulty": "medium",
+        "topic": "General Social Work",
+        "concept": "Elements Of The Different Concepts Are The Indiv",
+        "examSetId": 2,
+        "questionNumber": 10,
+        "originalExamSet": 2,
+        "originalIndex": 9,
+        "globalIndex": 109
+      },
+      "similarity": 1
+    },
+    {
+      "type": "exact",
+      "original": {
+        "id": "practice_group leadership_31",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for group leadership?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering group leadership",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective group leadership requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "group leadership",
+        "examSetId": 1,
+        "questionNumber": 11,
+        "originalExamSet": 1,
+        "originalIndex": 10,
+        "globalIndex": 10
+      },
+      "duplicate": {
+        "id": "practice_group leadership_73",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for group leadership?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering group leadership",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective group leadership requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "group leadership",
+        "examSetId": 2,
+        "questionNumber": 11,
+        "originalExamSet": 2,
+        "originalIndex": 10,
+        "globalIndex": 110
+      },
+      "similarity": 1
+    },
+    {
+      "type": "exact",
+      "original": {
+        "id": "practice_group leadership_31",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for group leadership?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering group leadership",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective group leadership requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "group leadership",
+        "examSetId": 1,
+        "questionNumber": 11,
+        "originalExamSet": 1,
+        "originalIndex": 10,
+        "globalIndex": 10
+      },
+      "duplicate": {
+        "id": "practice_group leadership_112",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for group leadership?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering group leadership",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective group leadership requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "group leadership",
+        "examSetId": 2,
+        "questionNumber": 12,
+        "originalExamSet": 2,
+        "originalIndex": 11,
+        "globalIndex": 111
+      },
+      "similarity": 1
+    },
+    {
+      "type": "exact",
+      "original": {
+        "id": "practice_member engagement_88",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for member engagement?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering member engagement",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective member engagement requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "member engagement",
+        "examSetId": 1,
+        "questionNumber": 12,
+        "originalExamSet": 1,
+        "originalIndex": 11,
+        "globalIndex": 11
+      },
+      "duplicate": {
+        "id": "practice_member engagement_96",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for member engagement?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering member engagement",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective member engagement requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "member engagement",
+        "examSetId": 2,
+        "questionNumber": 13,
+        "originalExamSet": 2,
+        "originalIndex": 12,
+        "globalIndex": 112
+      },
+      "similarity": 1
+    },
+    {
+      "type": "exact",
+      "original": {
+        "id": "practice_group leadership_31",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for group leadership?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering group leadership",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective group leadership requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "group leadership",
+        "examSetId": 1,
+        "questionNumber": 11,
+        "originalExamSet": 1,
+        "originalIndex": 10,
+        "globalIndex": 10
+      },
+      "duplicate": {
+        "id": "practice_group leadership_3",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for group leadership?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering group leadership",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective group leadership requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "group leadership",
+        "examSetId": 2,
+        "questionNumber": 15,
+        "originalExamSet": 2,
+        "originalIndex": 14,
+        "globalIndex": 114
+      },
+      "similarity": 1
+    },
+    {
+      "type": "exact",
+      "original": {
+        "id": "practice_group leadership_31",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for group leadership?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering group leadership",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective group leadership requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "group leadership",
+        "examSetId": 1,
+        "questionNumber": 11,
+        "originalExamSet": 1,
+        "originalIndex": 10,
+        "globalIndex": 10
+      },
+      "duplicate": {
+        "id": "practice_group leadership_10",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for group leadership?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering group leadership",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective group leadership requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "group leadership",
+        "examSetId": 2,
+        "questionNumber": 16,
+        "originalExamSet": 2,
+        "originalIndex": 15,
+        "globalIndex": 115
+      },
+      "similarity": 1
+    },
+    {
+      "type": "exact",
+      "original": {
+        "id": "practice_cultural competence_44",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for cultural competence?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering cultural competence",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective cultural competence requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "cultural competence",
+        "examSetId": 1,
+        "questionNumber": 15,
+        "originalExamSet": 1,
+        "originalIndex": 14,
+        "globalIndex": 14
+      },
+      "duplicate": {
+        "id": "practice_cultural competence_120",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for cultural competence?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering cultural competence",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective cultural competence requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "cultural competence",
+        "examSetId": 2,
+        "questionNumber": 17,
+        "originalExamSet": 2,
+        "originalIndex": 16,
+        "globalIndex": 116
+      },
+      "similarity": 1
+    },
+    {
+      "type": "exact",
+      "original": {
+        "id": "practice_member engagement_88",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for member engagement?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering member engagement",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective member engagement requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "member engagement",
+        "examSetId": 1,
+        "questionNumber": 12,
+        "originalExamSet": 1,
+        "originalIndex": 11,
+        "globalIndex": 11
+      },
+      "duplicate": {
+        "id": "practice_member engagement_48",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for member engagement?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering member engagement",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective member engagement requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "member engagement",
+        "examSetId": 2,
+        "questionNumber": 18,
+        "originalExamSet": 2,
+        "originalIndex": 17,
+        "globalIndex": 117
+      },
+      "similarity": 1
+    },
+    {
+      "type": "exact",
+      "original": {
+        "id": "practice_cultural competence_44",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for cultural competence?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering cultural competence",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective cultural competence requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "cultural competence",
+        "examSetId": 1,
+        "questionNumber": 15,
+        "originalExamSet": 1,
+        "originalIndex": 14,
+        "globalIndex": 14
+      },
+      "duplicate": {
+        "id": "practice_cultural competence_90",
+        "type": "practice",
+        "question": "In social group work, what is a key consideration for cultural competence?",
+        "options": {
+          "A": "Maintaining professional boundaries while fostering cultural competence",
+          "B": "Focusing solely on individual needs rather than group dynamics",
+          "C": "Avoiding any challenges that might create discomfort",
+          "D": "Prioritizing administrative requirements over client needs"
+        },
+        "correctAnswer": "A",
+        "explanation": "Effective cultural competence requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+        "source": "Social Work Practice Principles",
+        "difficulty": "medium",
+        "topic": "Professional Practice",
+        "concept": "cultural competence",
+        "examSetId": 2,
+        "questionNumber": 19,
+        "originalExamSet": 2,
+        "originalIndex": 18,
+        "globalIndex": 118
+      },
+      "similarity": 1
+    },
+    {
+      "type": "exact",
+      "original": {
+        "id": "def_1_v0_var1",
+        "type": "definition",
+        "question": "What is the primary meaning of \"Social Group Work Sgw\" in social group work practice?",
+        "options": {
+          "A": "those that meet because of external.",
+          "B": "a method of social work which helps individuals enhance their.",
+          "C": "a method of social work which helps individuals enhance their.",
+          "D": "two or more people with a common interest, interacting."
+        },
+        "correctAnswer": "B",
+        "explanation": "Social Group Work Sgw is defined as a method of social work which helps individuals enhance their social functioning through purposeful group experiences and cope more effectively with personal, group, and community problems. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology. This understanding is consistent across social work practice contexts.",
+        "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+        "difficulty": "medium",
+        "topic": "General Social Work",
+        "concept": "Social Group Work Sgw",
+        "examSetId": 2,
+        "questionNumber": 63,
+        "originalExamSet": 2,
+        "originalIndex": 62,
+        "globalIndex": 162
+      },
+      "duplicate": {
+        "id": "def_1_v1_var1",
+        "type": "definition",
+        "question": "What is the primary meaning of \"Social Group Work Sgw\" in social group work practice?",
+        "options": {
+          "A": "two or more people with a common interest, interacting.",
+          "B": "a method of social work which helps individuals enhance their.",
+          "C": "those that meet because of external.",
+          "D": "a method of social work which helps individuals enhance their."
+        },
+        "correctAnswer": "B",
+        "explanation": "Social Group Work Sgw is defined as a method of social work which helps individuals enhance their social functioning through purposeful group experiences and cope more effectively with personal, group, and community problems. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology. This understanding is consistent across social work practice contexts.",
+        "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+        "difficulty": "medium",
+        "topic": "General Social Work",
+        "concept": "Social Group Work Sgw",
+        "examSetId": 2,
+        "questionNumber": 65,
+        "originalExamSet": 2,
+        "originalIndex": 64,
+        "globalIndex": 164
+      },
+      "similarity": 1
+    },
+    {
+      "type": "exact",
+      "original": {
+        "id": "def_1_v0_var2",
+        "type": "definition",
+        "question": "How would you best describe \"Social Group Work Sgw\" to a colleague?",
+        "options": {
+          "A": "those that meet because of external.",
+          "B": "a method of social work which helps individuals enhance their.",
+          "C": "a method of social work which helps individuals enhance their.",
+          "D": "two or more people with a common interest, interacting."
+        },
+        "correctAnswer": "B",
+        "explanation": "Social Group Work Sgw is defined as a method of social work which helps individuals enhance their social functioning through purposeful group experiences and cope more effectively with personal, group, and community problems. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology. This understanding is consistent across social work practice contexts.",
+        "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+        "difficulty": "medium",
+        "topic": "General Social Work",
+        "concept": "Social Group Work Sgw",
+        "examSetId": 2,
+        "questionNumber": 64,
+        "originalExamSet": 2,
+        "originalIndex": 63,
+        "globalIndex": 163
+      },
+      "duplicate": {
+        "id": "def_1_v1_var2",
+        "type": "definition",
+        "question": "How would you best describe \"Social Group Work Sgw\" to a colleague?",
+        "options": {
+          "A": "two or more people with a common interest, interacting.",
+          "B": "a method of social work which helps individuals enhance their.",
+          "C": "those that meet because of external.",
+          "D": "a method of social work which helps individuals enhance their."
+        },
+        "correctAnswer": "B",
+        "explanation": "Social Group Work Sgw is defined as a method of social work which helps individuals enhance their social functioning through purposeful group experiences and cope more effectively with personal, group, and community problems. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology. This understanding is consistent across social work practice contexts.",
+        "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+        "difficulty": "medium",
+        "topic": "General Social Work",
+        "concept": "Social Group Work Sgw",
+        "examSetId": 2,
+        "questionNumber": 66,
+        "originalExamSet": 2,
+        "originalIndex": 65,
+        "globalIndex": 165
+      },
+      "similarity": 1
+    }
+  ],
+  "qualityIssues": [],
+  "recommendations": [
+    "Remove 16982 duplicate questions",
+    "Select best 500 questions from 1000 high-quality questions"
+  ]
+}
