@@ -1,0 +1,3911 @@
+{
+  "summary": {
+    "totalFiles": 4,
+    "totalWords": 11522,
+    "totalCharacters": 78597,
+    "totalLines": 2678,
+    "totalTopics": 527,
+    "totalDefinitions": 88,
+    "analyzedAt": "2025-08-04T06:13:34.051Z"
+  },
+  "files": [
+    {
+      "filename": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "words": 3544,
+      "lines": 497,
+      "topics": 112,
+      "keyTerms": 14,
+      "structure": {
+        "hasNumberedSections": false,
+        "hasLetterSections": true,
+        "hasBulletPoints": true,
+        "hasDefinitions": true,
+        "definitionCount": 5
+      }
+    },
+    {
+      "filename": "Group structure and process in social work 4.txt",
+      "words": 1269,
+      "lines": 288,
+      "topics": 89,
+      "keyTerms": 7,
+      "structure": {
+        "hasNumberedSections": true,
+        "hasLetterSections": true,
+        "hasBulletPoints": false,
+        "hasDefinitions": true,
+        "definitionCount": 1
+      }
+    },
+    {
+      "filename": "Group Work Approaches and Models.txt",
+      "words": 2103,
+      "lines": 749,
+      "topics": 175,
+      "keyTerms": 10,
+      "structure": {
+        "hasNumberedSections": true,
+        "hasLetterSections": true,
+        "hasBulletPoints": true,
+        "hasDefinitions": true,
+        "definitionCount": 2
+      }
+    },
+    {
+      "filename": "Phases of Group Development and Social Work Helping Process.txt",
+      "words": 4606,
+      "lines": 1144,
+      "topics": 185,
+      "keyTerms": 13,
+      "structure": {
+        "hasNumberedSections": true,
+        "hasLetterSections": true,
+        "hasBulletPoints": true,
+        "hasDefinitions": false,
+        "definitionCount": 0
+      }
+    }
+  ],
+  "topicGroups": [
+    {
+      "normalizedTitle": "a group or social group is defined as two or more people with a common interest interacting",
+      "count": 1,
+      "examples": [
+        "a. Group or social group is defined as two or more people with a common interest, interacting"
+      ]
+    },
+    {
+      "normalizedTitle": "b social group work sgw is a method of social work which helps individuals enhance their",
+      "count": 1,
+      "examples": [
+        "b. Social group work (SGW) is a method of social work which helps individuals enhance their"
+      ]
+    },
+    {
+      "normalizedTitle": "c formed groups and natural groups formed groups are those that meet because of external",
+      "count": 1,
+      "examples": [
+        "c. Formed groups and Natural groups. Formed groups are those that meet because of external"
+      ]
+    },
+    {
+      "normalizedTitle": "d treatment and task groups treatment groups bond for personal needs and common",
+      "count": 1,
+      "examples": [
+        "d. Treatment and Task groups. Treatment groups bond for personal needs and common"
+      ]
+    },
+    {
+      "normalizedTitle": "e in groups and out groups in groups identify themselves with the group out groups do not",
+      "count": 1,
+      "examples": [
+        "e. In groups and Out groups. In groups identify themselves with the group, out groups do not"
+      ]
+    },
+    {
+      "normalizedTitle": "f group as medium of change refers to the means by which groups bring about change where",
+      "count": 1,
+      "examples": [
+        "f. Group as medium of change refers to the means by which groups bring about change where"
+      ]
+    },
+    {
+      "normalizedTitle": "g group as target of change points to the whole group or certain aspects of the group needing",
+      "count": 1,
+      "examples": [
+        "g. Group as target of change points to the whole group or certain aspects of the group needing"
+      ]
+    },
+    {
+      "normalizedTitle": "h group as agent of change aims at the active involvement of the group to deal with",
+      "count": 1,
+      "examples": [
+        "h. Group as agent of change aims at the active involvement of the group to deal with"
+      ]
+    },
+    {
+      "normalizedTitle": "i group use for effect on participants is a result of the workers efforts to bring changes in",
+      "count": 1,
+      "examples": [
+        "i. Group use for effect on participants is a result of the worker’s efforts to bring changes in"
+      ]
+    },
+    {
+      "normalizedTitle": "j group use for collective problem solving is a workers purpose for group members to pool",
+      "count": 1,
+      "examples": [
+        "j. Group use for collective problem solving is a worker’s purpose for group members to pool"
+      ]
+    },
+    {
+      "normalizedTitle": "k group use for change in social situations is facilitated by groupworkers through pressure",
+      "count": 1,
+      "examples": [
+        "k. Group use for change in social situations is facilitated by groupworkers through pressure,"
+      ]
+    },
+    {
+      "normalizedTitle": "a group",
+      "count": 1,
+      "examples": [
+        "a. Group"
+      ]
+    },
+    {
+      "normalizedTitle": "two or more people",
+      "count": 1,
+      "examples": [
+        "• Two or more people"
+      ]
+    },
+    {
+      "normalizedTitle": "shared goals",
+      "count": 1,
+      "examples": [
+        "• Shared goals"
+      ]
+    },
+    {
+      "normalizedTitle": "people see themselves as members",
+      "count": 1,
+      "examples": [
+        "• People see themselves as members"
+      ]
+    },
+    {
+      "normalizedTitle": "there is interaction among members",
+      "count": 1,
+      "examples": [
+        "• There is interaction among members"
+      ]
+    },
+    {
+      "normalizedTitle": "b social",
+      "count": 1,
+      "examples": [
+        "b. Social"
+      ]
+    },
+    {
+      "normalizedTitle": "it is a process and method through which group processes is",
+      "count": 1,
+      "examples": [
+        "• It is a process and method through which group processes is"
+      ]
+    },
+    {
+      "normalizedTitle": "as a method of social work which helps individuals to enhance",
+      "count": 1,
+      "examples": [
+        "• As a method of social work which helps individuals to enhance"
+      ]
+    },
+    {
+      "normalizedTitle": "it is a method through which members in many groups in",
+      "count": 1,
+      "examples": [
+        "• It is a method through which members in many groups in"
+      ]
+    },
+    {
+      "normalizedTitle": "the treatment procedure in this group work remedial",
+      "count": 1,
+      "examples": [
+        "• The treatment procedure in this group work (remedial)"
+      ]
+    },
+    {
+      "normalizedTitle": "elements of the different concepts are the individual who is",
+      "count": 1,
+      "examples": [
+        "• Elements of the different concepts are the Individual who is"
+      ]
+    },
+    {
+      "normalizedTitle": "c treatment",
+      "count": 1,
+      "examples": [
+        "c. Treatment"
+      ]
+    },
+    {
+      "normalizedTitle": "d formed",
+      "count": 1,
+      "examples": [
+        "d. Formed"
+      ]
+    },
+    {
+      "normalizedTitle": "e ingroup vs",
+      "count": 1,
+      "examples": [
+        "e. Ingroup Vs"
+      ]
+    },
+    {
+      "normalizedTitle": "f group as a",
+      "count": 1,
+      "examples": [
+        "f. Group as a"
+      ]
+    },
+    {
+      "normalizedTitle": "group as medium of change refers to the influence of the",
+      "count": 1,
+      "examples": [
+        "• Group as medium of change refers to the influence of the"
+      ]
+    },
+    {
+      "normalizedTitle": "an example of a desire change would be to learn unlearn",
+      "count": 1,
+      "examples": [
+        "• An example of a desire change would be to learn, unlearn,"
+      ]
+    },
+    {
+      "normalizedTitle": "g group as a",
+      "count": 1,
+      "examples": [
+        "g. Group as a"
+      ]
+    },
+    {
+      "normalizedTitle": "group as target of change points to changing aspects of the",
+      "count": 1,
+      "examples": [
+        "• Group as target of change points to changing aspects of the"
+      ]
+    },
+    {
+      "normalizedTitle": "h group as",
+      "count": 1,
+      "examples": [
+        "h. Group as"
+      ]
+    },
+    {
+      "normalizedTitle": "group as agent of change refers to working with the group to",
+      "count": 1,
+      "examples": [
+        "• Group as agent of change refers to working with the group to"
+      ]
+    },
+    {
+      "normalizedTitle": "vinter and galinsky refers to two kinds of groups in the",
+      "count": 1,
+      "examples": [
+        "• Vinter and Galinsky refers to two kinds of groups in the"
+      ]
+    },
+    {
+      "normalizedTitle": "modifying the environment may related to varied concerns",
+      "count": 1,
+      "examples": [
+        "• Modifying the environment may related to varied concerns"
+      ]
+    },
+    {
+      "normalizedTitle": "the environment may have opportunities and constraints",
+      "count": 1,
+      "examples": [
+        "• The environment may have opportunities and constraints."
+      ]
+    },
+    {
+      "normalizedTitle": "i uses of",
+      "count": 1,
+      "examples": [
+        "i. Uses of"
+      ]
+    },
+    {
+      "normalizedTitle": "group use for effect on participants the purposes of",
+      "count": 1,
+      "examples": [
+        "• Group use for effect on participants. The purposes of"
+      ]
+    },
+    {
+      "normalizedTitle": "group use for collective problem solving this concept refers to",
+      "count": 1,
+      "examples": [
+        "• Group use for collective problem solving. This concept refers to"
+      ]
+    },
+    {
+      "normalizedTitle": "group use for change in social situations the group worker",
+      "count": 1,
+      "examples": [
+        "• Group use for change in social situations. The group worker"
+      ]
+    },
+    {
+      "normalizedTitle": "prior historical accounts posit that groupwork began when",
+      "count": 1,
+      "examples": [
+        "• Prior historical accounts posit that groupwork began when"
+      ]
+    },
+    {
+      "normalizedTitle": "the recreation movement was the wellspring of character",
+      "count": 1,
+      "examples": [
+        "• The recreation movement was the wellspring of character-"
+      ]
+    },
+    {
+      "normalizedTitle": "the use of groups as a medium for change began during first",
+      "count": 1,
+      "examples": [
+        "• The use of groups as a medium for change began during first"
+      ]
+    },
+    {
+      "normalizedTitle": "settlement house prototype of modernday community",
+      "count": 1,
+      "examples": [
+        "• Settlement House (Prototype of modern-day community"
+      ]
+    },
+    {
+      "normalizedTitle": "a jane addams cofounded hull house chicago with",
+      "count": 1,
+      "examples": [
+        "a. Jane Addams co-founded Hull House Chicago with"
+      ]
+    },
+    {
+      "normalizedTitle": "b the residents advocated for social change such as",
+      "count": 1,
+      "examples": [
+        "b. The residents advocated for social change such as"
+      ]
+    },
+    {
+      "normalizedTitle": "c settlement houses provided programs like boys",
+      "count": 1,
+      "examples": [
+        "c. Settlement houses provided programs like Boys"
+      ]
+    },
+    {
+      "normalizedTitle": "young mens christian association ymca george williams",
+      "count": 1,
+      "examples": [
+        "• Young Men’s Christian Association (YMCA) George Williams"
+      ]
+    },
+    {
+      "normalizedTitle": "us ymca the first organization to help army soldiers during",
+      "count": 1,
+      "examples": [
+        "• U.S YMCA The first organization to help army soldiers during"
+      ]
+    },
+    {
+      "normalizedTitle": "a first to implement community sports and athletics",
+      "count": 1,
+      "examples": [
+        "a.  First to implement community sports and athletics,"
+      ]
+    },
+    {
+      "normalizedTitle": "b designed an international program of social service",
+      "count": 1,
+      "examples": [
+        "b. Designed an international program of social service"
+      ]
+    },
+    {
+      "normalizedTitle": "c the young women christian association ywca was",
+      "count": 1,
+      "examples": [
+        "c. The Young Women Christian Association (YWCA) was"
+      ]
+    },
+    {
+      "normalizedTitle": "d group activities of missionary and religious nature began",
+      "count": 1,
+      "examples": [
+        "d.  Group activities of missionary and religious nature began"
+      ]
+    },
+    {
+      "normalizedTitle": "19th century evolution of sgw in the philippines",
+      "count": 1,
+      "examples": [
+        "• 19th century Evolution of SGW in the Philippines"
+      ]
+    },
+    {
+      "normalizedTitle": "a when the americans colonized the philippines they",
+      "count": 1,
+      "examples": [
+        "a. When the Americans colonized the Philippines, they"
+      ]
+    },
+    {
+      "normalizedTitle": "b social group work may have evolved from sociocivic",
+      "count": 1,
+      "examples": [
+        "b. Social group work may have evolved from socio-civic"
+      ]
+    },
+    {
+      "normalizedTitle": "c while casework was introduced from the united states",
+      "count": 1,
+      "examples": [
+        "c. While casework was introduced from the United States"
+      ]
+    },
+    {
+      "normalizedTitle": "d the establishment of schools of social work in the",
+      "count": 1,
+      "examples": [
+        "d. The establishment of schools of social work in the"
+      ]
+    },
+    {
+      "normalizedTitle": "philippine youth welfare coordinating council pywcc was",
+      "count": 1,
+      "examples": [
+        "• Philippine Youth Welfare Coordinating Council (PYWCC) was"
+      ]
+    },
+    {
+      "normalizedTitle": "jose abad santos memorial school jasms initiated social",
+      "count": 1,
+      "examples": [
+        "• Jose Abad Santos Memorial School (JASMS) initiated social"
+      ]
+    },
+    {
+      "normalizedTitle": "other schoolsinstitutions who used sgw for counselling",
+      "count": 1,
+      "examples": [
+        "• Other schools/institutions who used SGW for counselling &"
+      ]
+    },
+    {
+      "normalizedTitle": "unicefassisted social services project provided scholarships",
+      "count": 1,
+      "examples": [
+        "• UNICEF-Assisted Social Services Project Provided scholarships"
+      ]
+    },
+    {
+      "normalizedTitle": "the philippine ymca policy required secretaries to acquire",
+      "count": 1,
+      "examples": [
+        "• The Philippine YMCA policy required secretaries to acquire"
+      ]
+    },
+    {
+      "normalizedTitle": "a ymca prioritized hiring staff with sgw training",
+      "count": 1,
+      "examples": [
+        "a. YMCA prioritized hiring staff with SGW training."
+      ]
+    },
+    {
+      "normalizedTitle": "b other welfare institutions started to use the sgw",
+      "count": 1,
+      "examples": [
+        "b. Other welfare institutions started to use the SGW"
+      ]
+    },
+    {
+      "normalizedTitle": "c social group work services in public and private caring",
+      "count": 1,
+      "examples": [
+        "c. Social group work services in public and private caring"
+      ]
+    },
+    {
+      "normalizedTitle": "d for youth delinquents sgw is used to deflect deviant",
+      "count": 1,
+      "examples": [
+        "d. For youth delinquents, SGW is used to deflect deviant"
+      ]
+    },
+    {
+      "normalizedTitle": "foster parents plan inc a family welfare agency that",
+      "count": 1,
+      "examples": [
+        "• Foster Parents Plan, Inc. A family welfare agency that"
+      ]
+    },
+    {
+      "normalizedTitle": "home for the aged elderly are helped with group experiences",
+      "count": 1,
+      "examples": [
+        "• Home for the Aged Elderly are helped with group experiences"
+      ]
+    },
+    {
+      "normalizedTitle": "national vocational rehabilitation center for the disabled",
+      "count": 1,
+      "examples": [
+        "• National Vocational Rehabilitation Center for the Disabled"
+      ]
+    },
+    {
+      "normalizedTitle": "integrated human resource development program a dsw",
+      "count": 1,
+      "examples": [
+        "• Integrated Human Resource Development Program A DSW"
+      ]
+    },
+    {
+      "normalizedTitle": "other private agencies that pioneered sgw 1 christian",
+      "count": 1,
+      "examples": [
+        "• Other Private Agencies that Pioneered SGW 1) Christian"
+      ]
+    },
+    {
+      "normalizedTitle": "2 kaunlaran multipurpose center a 6month group building",
+      "count": 1,
+      "examples": [
+        "• 2) Kaunlaran Multi-Purpose Center A 6-month group building"
+      ]
+    },
+    {
+      "normalizedTitle": "a selfawareness skills where members must be able to",
+      "count": 1,
+      "examples": [
+        "a. Self-awareness skills where members must be able to"
+      ]
+    },
+    {
+      "normalizedTitle": "b interpersonal relations skills among members who are",
+      "count": 1,
+      "examples": [
+        "b. Interpersonal relations skills among members who are"
+      ]
+    },
+    {
+      "normalizedTitle": "c verbal and nonverbal communication skills for members",
+      "count": 1,
+      "examples": [
+        "c. Verbal and non-verbal communication skills for members"
+      ]
+    },
+    {
+      "normalizedTitle": "d group maintenance",
+      "count": 1,
+      "examples": [
+        "d. Group maintenance"
+      ]
+    },
+    {
+      "normalizedTitle": "e leadership",
+      "count": 1,
+      "examples": [
+        "e. Leadership"
+      ]
+    },
+    {
+      "normalizedTitle": "rizal youth development foundation rydf focused on the",
+      "count": 1,
+      "examples": [
+        "• Rizal Youth Development Foundation (RYDF) Focused on the"
+      ]
+    },
+    {
+      "normalizedTitle": "salvation army an international organization noted for its",
+      "count": 1,
+      "examples": [
+        "• Salvation Army An international organization noted for its"
+      ]
+    },
+    {
+      "normalizedTitle": "a membership criteria are age available time and need for",
+      "count": 1,
+      "examples": [
+        "a. Membership criteria are age, available time and need for"
+      ]
+    },
+    {
+      "normalizedTitle": "b its recreational and educational programs give members",
+      "count": 1,
+      "examples": [
+        "b. Its recreational and educational programs give members"
+      ]
+    },
+    {
+      "normalizedTitle": "the young womens christian association",
+      "count": 1,
+      "examples": [
+        "• The Young Women’s Christian Association"
+      ]
+    },
+    {
+      "normalizedTitle": "a members are inschool and osy girls women aged 1025",
+      "count": 1,
+      "examples": [
+        "a. Members are in-school and OSY girls women aged 10-25"
+      ]
+    },
+    {
+      "normalizedTitle": "b holistic dimensions of its programs",
+      "count": 1,
+      "examples": [
+        "b. Holistic dimensions of its programs"
+      ]
+    },
+    {
+      "normalizedTitle": "c physical wellbeing using recreation and camping as",
+      "count": 1,
+      "examples": [
+        "c. Physical well-being using recreation and camping as"
+      ]
+    },
+    {
+      "normalizedTitle": "d economic wellbeing through vocational guidance",
+      "count": 1,
+      "examples": [
+        "d. Economic well-being through vocational guidance;"
+      ]
+    },
+    {
+      "normalizedTitle": "e social wellbeing through family life educations",
+      "count": 1,
+      "examples": [
+        "e. Social well-being through family life educations"
+      ]
+    },
+    {
+      "normalizedTitle": "f spiritual and cultural wellbeing through christian",
+      "count": 1,
+      "examples": [
+        "f. Spiritual and cultural well-being through Christian"
+      ]
+    },
+    {
+      "normalizedTitle": "g group solidarity and group accomplishments are",
+      "count": 1,
+      "examples": [
+        "g. Group solidarity and group accomplishments are"
+      ]
+    },
+    {
+      "normalizedTitle": "the girl scouts of the philippines has 5 basic features",
+      "count": 1,
+      "examples": [
+        "• The Girl Scouts of the Philippines has 5 Basic Features"
+      ]
+    },
+    {
+      "normalizedTitle": "a optimum participation for national development plan",
+      "count": 1,
+      "examples": [
+        "a. Optimum participation for national development plan"
+      ]
+    },
+    {
+      "normalizedTitle": "b linkage with environment",
+      "count": 1,
+      "examples": [
+        "b. Linkage with environment"
+      ]
+    },
+    {
+      "normalizedTitle": "c social amelioration programs",
+      "count": 1,
+      "examples": [
+        "c. Social amelioration programs"
+      ]
+    },
+    {
+      "normalizedTitle": "d cultural values",
+      "count": 1,
+      "examples": [
+        "d. Cultural values"
+      ]
+    },
+    {
+      "normalizedTitle": "e moral values",
+      "count": 1,
+      "examples": [
+        "e. Moral values"
+      ]
+    },
+    {
+      "normalizedTitle": "the philippine mental health association pmha group",
+      "count": 1,
+      "examples": [
+        "• The Philippine Mental Health Association (PMHA) - Group"
+      ]
+    },
+    {
+      "normalizedTitle": "a develop awareness of mental health needs",
+      "count": 1,
+      "examples": [
+        "a. develop awareness of mental health needs"
+      ]
+    },
+    {
+      "normalizedTitle": "b deepen sense of values",
+      "count": 1,
+      "examples": [
+        "b. deepen sense of values"
+      ]
+    },
+    {
+      "normalizedTitle": "c modify attitudes for personal improvement",
+      "count": 1,
+      "examples": [
+        "c. modify attitudes for personal improvement"
+      ]
+    },
+    {
+      "normalizedTitle": "d develop a clearer consciousness of ones societal",
+      "count": 1,
+      "examples": [
+        "d. develop a clearer consciousness of one’s societal"
+      ]
+    },
+    {
+      "normalizedTitle": "e provide a perspective of national progress and human",
+      "count": 1,
+      "examples": [
+        "e. provide a perspective of national progress and human"
+      ]
+    },
+    {
+      "normalizedTitle": "f program media for personality development are",
+      "count": 1,
+      "examples": [
+        "f. Program media for personality development are"
+      ]
+    },
+    {
+      "normalizedTitle": "g social group worker guides the group through purposeful",
+      "count": 1,
+      "examples": [
+        "g. Social group worker guides the group through purposeful"
+      ]
+    },
+    {
+      "normalizedTitle": "1970sdevelopmental goals",
+      "count": 1,
+      "examples": [
+        "• 1970s-Developmental Goals"
+      ]
+    },
+    {
+      "normalizedTitle": "a department of social welfaredssd pursued",
+      "count": 1,
+      "examples": [
+        "a. Department of Social Welfare/DSSD pursued"
+      ]
+    },
+    {
+      "normalizedTitle": "b social workers in juvenile and domestic relations courts",
+      "count": 1,
+      "examples": [
+        "b. Social workers in juvenile and domestic relations courts"
+      ]
+    },
+    {
+      "normalizedTitle": "c community group work was used by organizers during",
+      "count": 1,
+      "examples": [
+        "c. Community group work was used by organizers during"
+      ]
+    },
+    {
+      "normalizedTitle": "d social participation was subsumed under developmental",
+      "count": 1,
+      "examples": [
+        "d. Social participation was subsumed under developmental"
+      ]
+    },
+    {
+      "normalizedTitle": "current times",
+      "count": 1,
+      "examples": [
+        "• Current times"
+      ]
+    },
+    {
+      "normalizedTitle": "a developmental goal of groupwork focuses on",
+      "count": 1,
+      "examples": [
+        "a. Developmental goal of groupwork focuses on"
+      ]
+    },
+    {
+      "normalizedTitle": "b socialization goals intend to help the group members",
+      "count": 1,
+      "examples": [
+        "b. Socialization goals intend to help the group members"
+      ]
+    },
+    {
+      "normalizedTitle": "c treatment goals intends to restore the impaired social",
+      "count": 1,
+      "examples": [
+        "c. Treatment goals intends to restore the impaired social"
+      ]
+    },
+    {
+      "normalizedTitle": "group structure and",
+      "count": 1,
+      "examples": [
+        "GROUP STRUCTURE AND"
+      ]
+    },
+    {
+      "normalizedTitle": "process in social",
+      "count": 1,
+      "examples": [
+        "PROCESS IN SOCIAL"
+      ]
+    },
+    {
+      "normalizedTitle": "work",
+      "count": 1,
+      "examples": [
+        "WORK"
+      ]
+    },
+    {
+      "normalizedTitle": "group structure",
+      "count": 1,
+      "examples": [
+        "GROUP STRUCTURE"
+      ]
+    },
+    {
+      "normalizedTitle": "structural properties of the group",
+      "count": 13,
+      "examples": [
+        "STRUCTURAL PROPERTIES OF THE GROUP",
+        "STRUCTURAL PROPERTIES OF THE GROUP",
+        "STRUCTURAL PROPERTIES OF THE GROUP"
+      ]
+    },
+    {
+      "normalizedTitle": "2 communication structure encompasses who interacts with",
+      "count": 1,
+      "examples": [
+        "2. Communication structure –encompasses who interacts with"
+      ]
+    },
+    {
+      "normalizedTitle": "3 affectional stucturerefers to the pattern of liking and",
+      "count": 1,
+      "examples": [
+        "3. Affectional Stucture–refers to the pattern of liking and"
+      ]
+    },
+    {
+      "normalizedTitle": "a natural attraction",
+      "count": 1,
+      "examples": [
+        "a. Natural attraction"
+      ]
+    },
+    {
+      "normalizedTitle": "b unconscious needs of members",
+      "count": 1,
+      "examples": [
+        "b. Unconscious needs of members"
+      ]
+    },
+    {
+      "normalizedTitle": "4 power structure refers to the potentiality for inducing",
+      "count": 1,
+      "examples": [
+        "4. Power Structure –refers to the potentiality for inducing"
+      ]
+    },
+    {
+      "normalizedTitle": "a reward power",
+      "count": 1,
+      "examples": [
+        "a. Reward power"
+      ]
+    },
+    {
+      "normalizedTitle": "b coercive power",
+      "count": 1,
+      "examples": [
+        "b. Coercive power"
+      ]
+    },
+    {
+      "normalizedTitle": "c legitimate power",
+      "count": 1,
+      "examples": [
+        "c. Legitimate power"
+      ]
+    },
+    {
+      "normalizedTitle": "d referent power",
+      "count": 1,
+      "examples": [
+        "d. Referent power"
+      ]
+    },
+    {
+      "normalizedTitle": "e expert power",
+      "count": 1,
+      "examples": [
+        "e. Expert power"
+      ]
+    },
+    {
+      "normalizedTitle": "5 leadership is the ability to influence other people in some way",
+      "count": 1,
+      "examples": [
+        "5. Leadership –is the ability to influence other people in some way."
+      ]
+    },
+    {
+      "normalizedTitle": "a position theory leadership is base on the position that grants a",
+      "count": 1,
+      "examples": [
+        "a. Position theory –leadership is base on the position that grants a"
+      ]
+    },
+    {
+      "normalizedTitle": "b trait theory the great person theory assumes that leaders",
+      "count": 1,
+      "examples": [
+        "b. Trait theory -“the great person theory”, assumes that leaders"
+      ]
+    },
+    {
+      "normalizedTitle": "c style theory leadership is based on the style on how he",
+      "count": 1,
+      "examples": [
+        "c. Style theory –leadership is based on the style on how he"
+      ]
+    },
+    {
+      "normalizedTitle": "5 leadership",
+      "count": 2,
+      "examples": [
+        "5. Leadership",
+        "5. Leadership"
+      ]
+    },
+    {
+      "normalizedTitle": "c style theory",
+      "count": 1,
+      "examples": [
+        "c. Style theory"
+      ]
+    },
+    {
+      "normalizedTitle": "d situational theory situation produces leaders leadership is a function",
+      "count": 1,
+      "examples": [
+        "d. Situational theory –situation produces leaders; leadership is a function"
+      ]
+    },
+    {
+      "normalizedTitle": "e functional leadership theoryleadership means the performance of",
+      "count": 1,
+      "examples": [
+        "e. Functional leadership theory–leadership means the performance of"
+      ]
+    },
+    {
+      "normalizedTitle": "a group task roles",
+      "count": 1,
+      "examples": [
+        "a. Group Task Roles"
+      ]
+    },
+    {
+      "normalizedTitle": "b group growing and vitalizing roles",
+      "count": 1,
+      "examples": [
+        "b. Group Growing and Vitalizing Roles"
+      ]
+    },
+    {
+      "normalizedTitle": "c antigroup roles",
+      "count": 1,
+      "examples": [
+        "c. Anti-group Roles"
+      ]
+    },
+    {
+      "normalizedTitle": "6 rolerefers to the social",
+      "count": 1,
+      "examples": [
+        "6. Role–refers to the social-"
+      ]
+    },
+    {
+      "normalizedTitle": "a task specialist",
+      "count": 1,
+      "examples": [
+        "a. Task specialist"
+      ]
+    },
+    {
+      "normalizedTitle": "b socialemotional or group",
+      "count": 1,
+      "examples": [
+        "b. social-emotional or group"
+      ]
+    },
+    {
+      "normalizedTitle": "7 group norms rules and standards of behavior emerge in the group",
+      "count": 1,
+      "examples": [
+        "7. Group Norms –rules and standards of behavior emerge in the group."
+      ]
+    },
+    {
+      "normalizedTitle": "7 group norms",
+      "count": 2,
+      "examples": [
+        "7. Group Norms",
+        "7. Group Norms"
+      ]
+    },
+    {
+      "normalizedTitle": "a written rules",
+      "count": 1,
+      "examples": [
+        "a. Written rules"
+      ]
+    },
+    {
+      "normalizedTitle": "b explicitly stated norms",
+      "count": 1,
+      "examples": [
+        "b. Explicitly stated norms"
+      ]
+    },
+    {
+      "normalizedTitle": "c nonexplicit informal norms",
+      "count": 1,
+      "examples": [
+        "c. Non-explicit, informal norms"
+      ]
+    },
+    {
+      "normalizedTitle": "d norms beyond awareness",
+      "count": 1,
+      "examples": [
+        "d. Norms beyond awareness"
+      ]
+    },
+    {
+      "normalizedTitle": "8 status refer to ones rank or standing in the group it is not based no",
+      "count": 1,
+      "examples": [
+        "8. Status –refer to one’s rank or standing in the group. It is not based no"
+      ]
+    },
+    {
+      "normalizedTitle": "group process",
+      "count": 11,
+      "examples": [
+        "GROUP PROCESS",
+        "GROUP PROCESS",
+        "GROUP PROCESS"
+      ]
+    },
+    {
+      "normalizedTitle": "a expedient conformer outwardly agrees but inwardly",
+      "count": 1,
+      "examples": [
+        "a. expedient conformer –outwardly agrees but inwardly"
+      ]
+    },
+    {
+      "normalizedTitle": "b true conformer conformity wherein both outwardly and",
+      "count": 1,
+      "examples": [
+        "b. true conformer –conformity wherein both outwardly and"
+      ]
+    },
+    {
+      "normalizedTitle": "2 competition and cooperation",
+      "count": 1,
+      "examples": [
+        "2. Competition and Cooperation"
+      ]
+    },
+    {
+      "normalizedTitle": "3 decision makinggroup decisionmaking is considered as",
+      "count": 1,
+      "examples": [
+        "3. Decision making–group decision-making is considered as"
+      ]
+    },
+    {
+      "normalizedTitle": "4 decision making",
+      "count": 1,
+      "examples": [
+        "4. Decision Making"
+      ]
+    },
+    {
+      "normalizedTitle": "types of decision making",
+      "count": 1,
+      "examples": [
+        "TYPES OF DECISION MAKING"
+      ]
+    },
+    {
+      "normalizedTitle": "a simple majority",
+      "count": 1,
+      "examples": [
+        "a. Simple majority"
+      ]
+    },
+    {
+      "normalizedTitle": "b high percentage voting",
+      "count": 1,
+      "examples": [
+        "b. High percentage voting"
+      ]
+    },
+    {
+      "normalizedTitle": "5 group think",
+      "count": 1,
+      "examples": [
+        "5. Group Think"
+      ]
+    },
+    {
+      "normalizedTitle": "5 conflict",
+      "count": 2,
+      "examples": [
+        "5. Conflict",
+        "5. Conflict"
+      ]
+    },
+    {
+      "normalizedTitle": "a at least two parties are involved in interaction",
+      "count": 1,
+      "examples": [
+        "a. at least two parties are involved in interaction"
+      ]
+    },
+    {
+      "normalizedTitle": "b perceived or real mutually exclusive goals andor mutually",
+      "count": 1,
+      "examples": [
+        "b. perceived or real mutually exclusive goals and/or mutually"
+      ]
+    },
+    {
+      "normalizedTitle": "c interaction is characterized by behavior intended to defeat the",
+      "count": 1,
+      "examples": [
+        "c. interaction is characterized by behavior intended to defeat the"
+      ]
+    },
+    {
+      "normalizedTitle": "d parties face each other using opposing actions",
+      "count": 1,
+      "examples": [
+        "d. Parties face each other using opposing actions"
+      ]
+    },
+    {
+      "normalizedTitle": "e each party attempts to gain power",
+      "count": 1,
+      "examples": [
+        "e. each party attempts to gain power"
+      ]
+    },
+    {
+      "normalizedTitle": "6 group cohesiveness",
+      "count": 2,
+      "examples": [
+        "6. Group cohesiveness",
+        "6. Group cohesiveness"
+      ]
+    },
+    {
+      "normalizedTitle": "1 members motive",
+      "count": 1,
+      "examples": [
+        "1. Members motive"
+      ]
+    },
+    {
+      "normalizedTitle": "2 incentive",
+      "count": 1,
+      "examples": [
+        "2. Incentive"
+      ]
+    },
+    {
+      "normalizedTitle": "3 expectancy",
+      "count": 1,
+      "examples": [
+        "3. Expectancy"
+      ]
+    },
+    {
+      "normalizedTitle": "4 comparison level",
+      "count": 1,
+      "examples": [
+        "4. Comparison level"
+      ]
+    },
+    {
+      "normalizedTitle": "a attractiveness of",
+      "count": 1,
+      "examples": [
+        "a. Attractiveness of"
+      ]
+    },
+    {
+      "normalizedTitle": "b attractiveness of",
+      "count": 1,
+      "examples": [
+        "b. Attractiveness of"
+      ]
+    },
+    {
+      "normalizedTitle": "1 maintenance of",
+      "count": 1,
+      "examples": [
+        "1. Maintenance of"
+      ]
+    },
+    {
+      "normalizedTitle": "2 power of the",
+      "count": 1,
+      "examples": [
+        "2. Power of the"
+      ]
+    },
+    {
+      "normalizedTitle": "3 participation and",
+      "count": 1,
+      "examples": [
+        "3. Participation and"
+      ]
+    },
+    {
+      "normalizedTitle": "4 personal",
+      "count": 1,
+      "examples": [
+        "4. Personal"
+      ]
+    },
+    {
+      "normalizedTitle": "1 developmental approach",
+      "count": 1,
+      "examples": [
+        "1. Developmental Approach"
+      ]
+    },
+    {
+      "normalizedTitle": "proponent emmanuel",
+      "count": 1,
+      "examples": [
+        "• Proponent: Emmanuel"
+      ]
+    },
+    {
+      "normalizedTitle": "roots",
+      "count": 1,
+      "examples": [
+        "• Roots:"
+      ]
+    },
+    {
+      "normalizedTitle": "grace coyle collective self",
+      "count": 1,
+      "examples": [
+        "• Grace Coyle: collective self-"
+      ]
+    },
+    {
+      "normalizedTitle": "wilson and ryland use of",
+      "count": 1,
+      "examples": [
+        "• Wilson and Ryland: use of"
+      ]
+    },
+    {
+      "normalizedTitle": "helen phillip importance of",
+      "count": 1,
+      "examples": [
+        "• Helen Phillip: importance of"
+      ]
+    },
+    {
+      "normalizedTitle": "schwartz group function",
+      "count": 1,
+      "examples": [
+        "• Schwartz: group function"
+      ]
+    },
+    {
+      "normalizedTitle": "views man as moving",
+      "count": 1,
+      "examples": [
+        "• Views man as moving"
+      ]
+    },
+    {
+      "normalizedTitle": "focuses on man with",
+      "count": 1,
+      "examples": [
+        "• Focuses on man with"
+      ]
+    },
+    {
+      "normalizedTitle": "3 major themes",
+      "count": 1,
+      "examples": [
+        "• 3 major themes:"
+      ]
+    },
+    {
+      "normalizedTitle": "a humanisticviewing of",
+      "count": 1,
+      "examples": [
+        "a. Humanistic-‘viewing of"
+      ]
+    },
+    {
+      "normalizedTitle": "clients sectors affected by",
+      "count": 1,
+      "examples": [
+        "• Clients: Sectors affected by"
+      ]
+    },
+    {
+      "normalizedTitle": "goal to tap unused",
+      "count": 1,
+      "examples": [
+        "• Goal: To tap unused"
+      ]
+    },
+    {
+      "normalizedTitle": "1 beginning stage",
+      "count": 1,
+      "examples": [
+        "1. Beginning stage"
+      ]
+    },
+    {
+      "normalizedTitle": "members",
+      "count": 2,
+      "examples": [
+        "Members:",
+        "Members:"
+      ]
+    },
+    {
+      "normalizedTitle": "a are oriented to the",
+      "count": 1,
+      "examples": [
+        "a.  Are oriented to the"
+      ]
+    },
+    {
+      "normalizedTitle": "b understand reasons",
+      "count": 1,
+      "examples": [
+        "b. Understand reasons"
+      ]
+    },
+    {
+      "normalizedTitle": "c experience doubts or",
+      "count": 1,
+      "examples": [
+        "c. Experience doubts or"
+      ]
+    },
+    {
+      "normalizedTitle": "2 middle stage",
+      "count": 1,
+      "examples": [
+        "2. Middle Stage"
+      ]
+    },
+    {
+      "normalizedTitle": "a more open",
+      "count": 1,
+      "examples": [
+        "a. More open"
+      ]
+    },
+    {
+      "normalizedTitle": "b increasing",
+      "count": 1,
+      "examples": [
+        "b. Increasing"
+      ]
+    },
+    {
+      "normalizedTitle": "c roles and statuses",
+      "count": 1,
+      "examples": [
+        "c. Roles and statuses"
+      ]
+    },
+    {
+      "normalizedTitle": "b phenomenological",
+      "count": 1,
+      "examples": [
+        "b. Phenomenological -"
+      ]
+    },
+    {
+      "normalizedTitle": "c developmental moving",
+      "count": 1,
+      "examples": [
+        "c. Developmental- moving"
+      ]
+    },
+    {
+      "normalizedTitle": "d people enhance their",
+      "count": 1,
+      "examples": [
+        "d. People enhance their"
+      ]
+    },
+    {
+      "normalizedTitle": "e peoples group",
+      "count": 1,
+      "examples": [
+        "e. People’s group"
+      ]
+    },
+    {
+      "normalizedTitle": "f peoples or peers",
+      "count": 1,
+      "examples": [
+        "f. People’s or peers’"
+      ]
+    },
+    {
+      "normalizedTitle": "g effectiveness of group",
+      "count": 1,
+      "examples": [
+        "g. Effectiveness of group"
+      ]
+    },
+    {
+      "normalizedTitle": "four basis processes",
+      "count": 1,
+      "examples": [
+        "• Four basis processes"
+      ]
+    },
+    {
+      "normalizedTitle": "d group demonstrates",
+      "count": 1,
+      "examples": [
+        "d. Group demonstrates"
+      ]
+    },
+    {
+      "normalizedTitle": "e group shows greater",
+      "count": 1,
+      "examples": [
+        "e. Group shows greater"
+      ]
+    },
+    {
+      "normalizedTitle": "f group works toward",
+      "count": 1,
+      "examples": [
+        "f. Group works toward"
+      ]
+    },
+    {
+      "normalizedTitle": "worker",
+      "count": 2,
+      "examples": [
+        "• Worker:",
+        "Worker:"
+      ]
+    },
+    {
+      "normalizedTitle": "a guides group",
+      "count": 1,
+      "examples": [
+        "a. Guides group"
+      ]
+    },
+    {
+      "normalizedTitle": "b clarifies tasks to be",
+      "count": 1,
+      "examples": [
+        "b. Clarifies tasks to be"
+      ]
+    },
+    {
+      "normalizedTitle": "c supports group to be",
+      "count": 1,
+      "examples": [
+        "c. Supports group to be"
+      ]
+    },
+    {
+      "normalizedTitle": "d helps group meet",
+      "count": 1,
+      "examples": [
+        "d. Helps group meet"
+      ]
+    },
+    {
+      "normalizedTitle": "e assesses gains from",
+      "count": 1,
+      "examples": [
+        "e. Assesses gains from"
+      ]
+    },
+    {
+      "normalizedTitle": "3 ending stage",
+      "count": 1,
+      "examples": [
+        "3. Ending stage"
+      ]
+    },
+    {
+      "normalizedTitle": "a show varying",
+      "count": 1,
+      "examples": [
+        "a. Show varying"
+      ]
+    },
+    {
+      "normalizedTitle": "b inventory gains from",
+      "count": 1,
+      "examples": [
+        "b. Inventory gains from"
+      ]
+    },
+    {
+      "normalizedTitle": "c show varying levels",
+      "count": 1,
+      "examples": [
+        "c. Show varying levels"
+      ]
+    },
+    {
+      "normalizedTitle": "d show concern",
+      "count": 1,
+      "examples": [
+        "d. Show concern /"
+      ]
+    },
+    {
+      "normalizedTitle": "h group becomes a",
+      "count": 1,
+      "examples": [
+        "h. Group becomes a"
+      ]
+    },
+    {
+      "normalizedTitle": "i group processes are",
+      "count": 1,
+      "examples": [
+        "i. Group processes are"
+      ]
+    },
+    {
+      "normalizedTitle": "j group is self directing",
+      "count": 1,
+      "examples": [
+        "j. Group is self -directing,"
+      ]
+    },
+    {
+      "normalizedTitle": "e accept reality of",
+      "count": 1,
+      "examples": [
+        "e. Accept reality of"
+      ]
+    },
+    {
+      "normalizedTitle": "a helps group with task",
+      "count": 1,
+      "examples": [
+        "a. Helps group with task"
+      ]
+    },
+    {
+      "normalizedTitle": "b evaluates gains from",
+      "count": 1,
+      "examples": [
+        "b. Evaluates gains from"
+      ]
+    },
+    {
+      "normalizedTitle": "c objectively appraises",
+      "count": 1,
+      "examples": [
+        "c. Objectively appraises"
+      ]
+    },
+    {
+      "normalizedTitle": "d smooths ending of",
+      "count": 1,
+      "examples": [
+        "d. Smooths ending of"
+      ]
+    },
+    {
+      "normalizedTitle": "e posttermination",
+      "count": 1,
+      "examples": [
+        "e. Post-termination"
+      ]
+    },
+    {
+      "normalizedTitle": "2 remedial model",
+      "count": 1,
+      "examples": [
+        "2. Remedial Model"
+      ]
+    },
+    {
+      "normalizedTitle": "proponents robert d",
+      "count": 1,
+      "examples": [
+        "• Proponents: Robert D."
+      ]
+    },
+    {
+      "normalizedTitle": "group is seen as a",
+      "count": 1,
+      "examples": [
+        "• Group is seen as a"
+      ]
+    },
+    {
+      "normalizedTitle": "as means the group",
+      "count": 1,
+      "examples": [
+        "• As means, the group"
+      ]
+    },
+    {
+      "normalizedTitle": "as context direct",
+      "count": 1,
+      "examples": [
+        "• As context, direct"
+      ]
+    },
+    {
+      "normalizedTitle": "clients",
+      "count": 3,
+      "examples": [
+        "• Clients:",
+        "• Clients:",
+        "• Clients:"
+      ]
+    },
+    {
+      "normalizedTitle": "a used for treatment and",
+      "count": 1,
+      "examples": [
+        "a. Used for treatment and"
+      ]
+    },
+    {
+      "normalizedTitle": "1 intake",
+      "count": 1,
+      "examples": [
+        "1.  Intake"
+      ]
+    },
+    {
+      "normalizedTitle": "2 diagnosis and treatment",
+      "count": 1,
+      "examples": [
+        "2. Diagnosis and Treatment"
+      ]
+    },
+    {
+      "normalizedTitle": "3 group composition and",
+      "count": 1,
+      "examples": [
+        "3. Group composition and"
+      ]
+    },
+    {
+      "normalizedTitle": "4 group development and",
+      "count": 1,
+      "examples": [
+        "4. Group development and"
+      ]
+    },
+    {
+      "normalizedTitle": "5 evaluation and termination",
+      "count": 1,
+      "examples": [
+        "5. Evaluation and termination."
+      ]
+    },
+    {
+      "normalizedTitle": "si refers to using the ff resources",
+      "count": 1,
+      "examples": [
+        "• SI refers to using the ff. resources"
+      ]
+    },
+    {
+      "normalizedTitle": "as external influence",
+      "count": 1,
+      "examples": [
+        "• As external influence,"
+      ]
+    },
+    {
+      "normalizedTitle": "b for those needing",
+      "count": 1,
+      "examples": [
+        "b. For those needing"
+      ]
+    },
+    {
+      "normalizedTitle": "goal to reorient",
+      "count": 1,
+      "examples": [
+        "• Goal: To re-orient"
+      ]
+    },
+    {
+      "normalizedTitle": "resources are worker member",
+      "count": 1,
+      "examples": [
+        "• Resources are: worker  member"
+      ]
+    },
+    {
+      "normalizedTitle": "si are modes of intervention or",
+      "count": 1,
+      "examples": [
+        "• SI are modes of intervention or"
+      ]
+    },
+    {
+      "normalizedTitle": "a direct means of influence",
+      "count": 1,
+      "examples": [
+        "a. Direct means of influence"
+      ]
+    },
+    {
+      "normalizedTitle": "worker as central",
+      "count": 1,
+      "examples": [
+        "• Worker as central"
+      ]
+    },
+    {
+      "normalizedTitle": "worker as symbol",
+      "count": 1,
+      "examples": [
+        "• Worker as symbol"
+      ]
+    },
+    {
+      "normalizedTitle": "worker as motivator",
+      "count": 1,
+      "examples": [
+        "• Worker as motivator"
+      ]
+    },
+    {
+      "normalizedTitle": "worker as executive",
+      "count": 1,
+      "examples": [
+        "• Worker as executive-"
+      ]
+    },
+    {
+      "normalizedTitle": "b indirect means of influence",
+      "count": 1,
+      "examples": [
+        "b. Indirect Means of Influence -"
+      ]
+    },
+    {
+      "normalizedTitle": "group purpose",
+      "count": 1,
+      "examples": [
+        "• Group purpose"
+      ]
+    },
+    {
+      "normalizedTitle": "selection of group",
+      "count": 1,
+      "examples": [
+        "• Selection of group"
+      ]
+    },
+    {
+      "normalizedTitle": "nature of activities",
+      "count": 1,
+      "examples": [
+        "• Nature of activities"
+      ]
+    },
+    {
+      "normalizedTitle": "size of group",
+      "count": 1,
+      "examples": [
+        "• Size of group"
+      ]
+    },
+    {
+      "normalizedTitle": "group procedures",
+      "count": 1,
+      "examples": [
+        "• Group procedures"
+      ]
+    },
+    {
+      "normalizedTitle": "group development",
+      "count": 1,
+      "examples": [
+        "• Group development"
+      ]
+    },
+    {
+      "normalizedTitle": "c extra group means of",
+      "count": 1,
+      "examples": [
+        "c. Extra Group Means of"
+      ]
+    },
+    {
+      "normalizedTitle": "four major areas",
+      "count": 1,
+      "examples": [
+        "• Four major areas:"
+      ]
+    },
+    {
+      "normalizedTitle": "1 social roles and",
+      "count": 1,
+      "examples": [
+        "1. Social roles and"
+      ]
+    },
+    {
+      "normalizedTitle": "2 significant",
+      "count": 1,
+      "examples": [
+        "2. Significant"
+      ]
+    },
+    {
+      "normalizedTitle": "3 social system",
+      "count": 1,
+      "examples": [
+        "3. Social system-"
+      ]
+    },
+    {
+      "normalizedTitle": "4 social",
+      "count": 1,
+      "examples": [
+        "4. Social"
+      ]
+    },
+    {
+      "normalizedTitle": "3 crisis intervention approach",
+      "count": 1,
+      "examples": [
+        "3. Crisis Intervention Approach"
+      ]
+    },
+    {
+      "normalizedTitle": "crisis crisis is an upset",
+      "count": 1,
+      "examples": [
+        "• Crisis - Crisis is an “upset"
+      ]
+    },
+    {
+      "normalizedTitle": "involves crisis oriented",
+      "count": 1,
+      "examples": [
+        "• Involves crisis  oriented"
+      ]
+    },
+    {
+      "normalizedTitle": "26 weeks duration",
+      "count": 1,
+      "examples": [
+        "• 2-6 weeks duration"
+      ]
+    },
+    {
+      "normalizedTitle": "useful for any target",
+      "count": 1,
+      "examples": [
+        "• Useful for any target"
+      ]
+    },
+    {
+      "normalizedTitle": "should be available",
+      "count": 1,
+      "examples": [
+        "• Should be available"
+      ]
+    },
+    {
+      "normalizedTitle": "client participation",
+      "count": 1,
+      "examples": [
+        "• Client participation"
+      ]
+    },
+    {
+      "normalizedTitle": "a individuals in crisis eg",
+      "count": 1,
+      "examples": [
+        "a. Individuals in crisis (e.g.,"
+      ]
+    },
+    {
+      "normalizedTitle": "b persons related to",
+      "count": 1,
+      "examples": [
+        "b. Persons related to"
+      ]
+    },
+    {
+      "normalizedTitle": "c those in collective crisis",
+      "count": 1,
+      "examples": [
+        "c. Those in collective crisis"
+      ]
+    },
+    {
+      "normalizedTitle": "goals lydia rapoport",
+      "count": 1,
+      "examples": [
+        "• Goals (Lydia Rapoport):"
+      ]
+    },
+    {
+      "normalizedTitle": "a relief of symptoms",
+      "count": 1,
+      "examples": [
+        "a.  Relief of symptoms"
+      ]
+    },
+    {
+      "normalizedTitle": "b restoration to precrisis",
+      "count": 1,
+      "examples": [
+        "b. Restoration to pre-crisis"
+      ]
+    },
+    {
+      "normalizedTitle": "c understand relevant",
+      "count": 1,
+      "examples": [
+        "c. Understand relevant"
+      ]
+    },
+    {
+      "normalizedTitle": "d identification of",
+      "count": 1,
+      "examples": [
+        "d. Identification of"
+      ]
+    },
+    {
+      "normalizedTitle": "e recognition of",
+      "count": 1,
+      "examples": [
+        "e. Recognition of"
+      ]
+    },
+    {
+      "normalizedTitle": "intervention",
+      "count": 1,
+      "examples": [
+        "Intervention:"
+      ]
+    },
+    {
+      "normalizedTitle": "1 search for precipitating event",
+      "count": 1,
+      "examples": [
+        "1. Search for Precipitating event"
+      ]
+    },
+    {
+      "normalizedTitle": "2 search for coping means used by",
+      "count": 1,
+      "examples": [
+        "2. Search for coping means used by"
+      ]
+    },
+    {
+      "normalizedTitle": "3 search for alternative means of",
+      "count": 1,
+      "examples": [
+        "3. Search for alternative means of"
+      ]
+    },
+    {
+      "normalizedTitle": "4 review and support of client",
+      "count": 1,
+      "examples": [
+        "4. Review and support of client"
+      ]
+    },
+    {
+      "normalizedTitle": "1 allows emotional release before",
+      "count": 1,
+      "examples": [
+        "1. Allows emotional release before"
+      ]
+    },
+    {
+      "normalizedTitle": "2 ease pain and offers hope",
+      "count": 1,
+      "examples": [
+        "2. Ease pain and offers hope"
+      ]
+    },
+    {
+      "normalizedTitle": "3 mobilize individual strengths and",
+      "count": 1,
+      "examples": [
+        "3. Mobilize individual strengths and"
+      ]
+    },
+    {
+      "normalizedTitle": "4 mutual assistance for alternative",
+      "count": 1,
+      "examples": [
+        "4. Mutual assistance for alternative"
+      ]
+    },
+    {
+      "normalizedTitle": "5 helps identify community",
+      "count": 1,
+      "examples": [
+        "5. Helps identify community"
+      ]
+    },
+    {
+      "normalizedTitle": "f initiation of new models",
+      "count": 1,
+      "examples": [
+        "f. Initiation of new models"
+      ]
+    },
+    {
+      "normalizedTitle": "4 interactionist approach",
+      "count": 1,
+      "examples": [
+        "4. Interactionist Approach"
+      ]
+    },
+    {
+      "normalizedTitle": "proponent william",
+      "count": 1,
+      "examples": [
+        "• Proponent: William"
+      ]
+    },
+    {
+      "normalizedTitle": "mediating function of",
+      "count": 1,
+      "examples": [
+        "• Mediating function of"
+      ]
+    },
+    {
+      "normalizedTitle": "mutual aid group with",
+      "count": 1,
+      "examples": [
+        "• Mutual aid group with"
+      ]
+    },
+    {
+      "normalizedTitle": "a collective",
+      "count": 1,
+      "examples": [
+        "a. Collective"
+      ]
+    },
+    {
+      "normalizedTitle": "b need each other for",
+      "count": 1,
+      "examples": [
+        "b. Need each other for"
+      ]
+    },
+    {
+      "normalizedTitle": "c work on common",
+      "count": 1,
+      "examples": [
+        "c. Work on common"
+      ]
+    },
+    {
+      "normalizedTitle": "d work is embedded",
+      "count": 1,
+      "examples": [
+        "d. Work is embedded"
+      ]
+    },
+    {
+      "normalizedTitle": "a any group with the ff",
+      "count": 1,
+      "examples": [
+        "a. Any group with the ff."
+      ]
+    },
+    {
+      "normalizedTitle": "goal to assist the group",
+      "count": 1,
+      "examples": [
+        "• Goal: To assist the group"
+      ]
+    },
+    {
+      "normalizedTitle": "1 tuning in requires worker to",
+      "count": 1,
+      "examples": [
+        "1. “Tuning In” Requires worker to"
+      ]
+    },
+    {
+      "normalizedTitle": "2 the beginnings",
+      "count": 1,
+      "examples": [
+        "2. The Beginnings:"
+      ]
+    },
+    {
+      "normalizedTitle": "3 tasks",
+      "count": 1,
+      "examples": [
+        "3. Tasks"
+      ]
+    },
+    {
+      "normalizedTitle": "198 lee",
+      "count": 1,
+      "examples": [
+        "198. Lee-"
+      ]
+    },
+    {
+      "normalizedTitle": "4 ending and separation",
+      "count": 1,
+      "examples": [
+        "4. Ending and separation"
+      ]
+    },
+    {
+      "normalizedTitle": "5 family intervention approach",
+      "count": 1,
+      "examples": [
+        "5. Family Intervention Approach"
+      ]
+    },
+    {
+      "normalizedTitle": "primary learning takes place",
+      "count": 1,
+      "examples": [
+        "• Primary learning takes place"
+      ]
+    },
+    {
+      "normalizedTitle": "family plays an important",
+      "count": 1,
+      "examples": [
+        "• Family plays an important"
+      ]
+    },
+    {
+      "normalizedTitle": "the social aspect of a",
+      "count": 1,
+      "examples": [
+        "• The “social “aspect of a"
+      ]
+    },
+    {
+      "normalizedTitle": "1950s when the model",
+      "count": 1,
+      "examples": [
+        "• 1950s- when the model"
+      ]
+    },
+    {
+      "normalizedTitle": "two types family therapy",
+      "count": 1,
+      "examples": [
+        "• Two types: Family therapy"
+      ]
+    },
+    {
+      "normalizedTitle": "a family therapy",
+      "count": 1,
+      "examples": [
+        "a. Family Therapy"
+      ]
+    },
+    {
+      "normalizedTitle": "use of systems",
+      "count": 1,
+      "examples": [
+        "• Use of systems"
+      ]
+    },
+    {
+      "normalizedTitle": "clients families which are",
+      "count": 1,
+      "examples": [
+        "• Clients: Families which are"
+      ]
+    },
+    {
+      "normalizedTitle": "goal to modify or change",
+      "count": 1,
+      "examples": [
+        "• Goal: To modify or change"
+      ]
+    },
+    {
+      "normalizedTitle": "1 assessment worker uses tools",
+      "count": 1,
+      "examples": [
+        "1. Assessment Worker uses tools"
+      ]
+    },
+    {
+      "normalizedTitle": "2 treatment planning worker can",
+      "count": 1,
+      "examples": [
+        "2. Treatment Planning Worker can"
+      ]
+    },
+    {
+      "normalizedTitle": "3 evaluation",
+      "count": 1,
+      "examples": [
+        "3. Evaluation"
+      ]
+    },
+    {
+      "normalizedTitle": "4 termination",
+      "count": 1,
+      "examples": [
+        "4. Termination"
+      ]
+    },
+    {
+      "normalizedTitle": "can use",
+      "count": 1,
+      "examples": [
+        "• Can use"
+      ]
+    },
+    {
+      "normalizedTitle": "can use in",
+      "count": 1,
+      "examples": [
+        "• Can use in"
+      ]
+    },
+    {
+      "normalizedTitle": "b familyfocused work",
+      "count": 1,
+      "examples": [
+        "b. Family-focused work"
+      ]
+    },
+    {
+      "normalizedTitle": "familyfocused",
+      "count": 1,
+      "examples": [
+        "• Family-focused"
+      ]
+    },
+    {
+      "normalizedTitle": "6 taskcentered model with groups",
+      "count": 1,
+      "examples": [
+        "6. Task-Centered Model with Groups"
+      ]
+    },
+    {
+      "normalizedTitle": "proponents laura",
+      "count": 1,
+      "examples": [
+        "• Proponents: Laura"
+      ]
+    },
+    {
+      "normalizedTitle": "task what a client is to",
+      "count": 1,
+      "examples": [
+        "• “Task” what a client is to"
+      ]
+    },
+    {
+      "normalizedTitle": "characteristics",
+      "count": 1,
+      "examples": [
+        "• Characteristics:"
+      ]
+    },
+    {
+      "normalizedTitle": "a brief and time",
+      "count": 1,
+      "examples": [
+        "a. Brief and time-"
+      ]
+    },
+    {
+      "normalizedTitle": "b interventions focus",
+      "count": 1,
+      "examples": [
+        "b. Interventions focus"
+      ]
+    },
+    {
+      "normalizedTitle": "clients persons in these",
+      "count": 1,
+      "examples": [
+        "• Clients: Persons in these"
+      ]
+    },
+    {
+      "normalizedTitle": "a family and",
+      "count": 1,
+      "examples": [
+        "a. Family and"
+      ]
+    },
+    {
+      "normalizedTitle": "b social role performance",
+      "count": 1,
+      "examples": [
+        "b. Social role performance"
+      ]
+    },
+    {
+      "normalizedTitle": "c effecting social",
+      "count": 1,
+      "examples": [
+        "c. Effecting social"
+      ]
+    },
+    {
+      "normalizedTitle": "d securing resources",
+      "count": 1,
+      "examples": [
+        "d. Securing resources"
+      ]
+    },
+    {
+      "normalizedTitle": "e emotional distress",
+      "count": 1,
+      "examples": [
+        "e. Emotional distress"
+      ]
+    },
+    {
+      "normalizedTitle": "a preliminary interview during",
+      "count": 1,
+      "examples": [
+        "a. Preliminary Interview -During"
+      ]
+    },
+    {
+      "normalizedTitle": "b group composition worker",
+      "count": 1,
+      "examples": [
+        "b. Group Composition Worker"
+      ]
+    },
+    {
+      "normalizedTitle": "c group formation members share",
+      "count": 1,
+      "examples": [
+        "c. Group Formation Members share"
+      ]
+    },
+    {
+      "normalizedTitle": "c work is organized",
+      "count": 1,
+      "examples": [
+        "c.  Work is organized"
+      ]
+    },
+    {
+      "normalizedTitle": "features",
+      "count": 1,
+      "examples": [
+        "• Features:"
+      ]
+    },
+    {
+      "normalizedTitle": "a assessment",
+      "count": 1,
+      "examples": [
+        "a. Assessment-"
+      ]
+    },
+    {
+      "normalizedTitle": "b case planningplan",
+      "count": 1,
+      "examples": [
+        "b. Case Planning-plan"
+      ]
+    },
+    {
+      "normalizedTitle": "c implementation",
+      "count": 1,
+      "examples": [
+        "c. Implementation-"
+      ]
+    },
+    {
+      "normalizedTitle": "goal alleviate specific",
+      "count": 1,
+      "examples": [
+        "• Goal: Alleviate specific"
+      ]
+    },
+    {
+      "normalizedTitle": "d group processes for task",
+      "count": 1,
+      "examples": [
+        "d. Group processes for task"
+      ]
+    },
+    {
+      "normalizedTitle": "tasks state what a",
+      "count": 1,
+      "examples": [
+        "• Tasks- state what a"
+      ]
+    },
+    {
+      "normalizedTitle": "a groups are changing dynamic and have a life of their own it natural for groups to undergo",
+      "count": 1,
+      "examples": [
+        "a. Groups are changing, dynamic and have a life of their own. It natural for groups to undergo"
+      ]
+    },
+    {
+      "normalizedTitle": "b conceptions of group phases vary among authors hartford garland jones kolodny schutz",
+      "count": 1,
+      "examples": [
+        "b. Conceptions of group phases vary among authors, Hartford, Garland, Jones, Kolodny, Schutz,"
+      ]
+    },
+    {
+      "normalizedTitle": "1 pregroup formation",
+      "count": 1,
+      "examples": [
+        "1. Pre-group Formation"
+      ]
+    },
+    {
+      "normalizedTitle": "2 group formation phase",
+      "count": 1,
+      "examples": [
+        "2. Group   Formation Phase"
+      ]
+    },
+    {
+      "normalizedTitle": "3 group integration disintegration and reintegration phase",
+      "count": 1,
+      "examples": [
+        "3. Group Integration, Disintegration, and Reintegration Phase"
+      ]
+    },
+    {
+      "normalizedTitle": "4 group functioning and maintenance phase",
+      "count": 1,
+      "examples": [
+        "4. Group Functioning and Maintenance Phase"
+      ]
+    },
+    {
+      "normalizedTitle": "5 separation phase",
+      "count": 1,
+      "examples": [
+        "5. Separation Phase"
+      ]
+    },
+    {
+      "normalizedTitle": "c garland jones and kolodnys phases of group development",
+      "count": 1,
+      "examples": [
+        "c. Garland, Jones and Kolodny’s Phases of Group Development"
+      ]
+    },
+    {
+      "normalizedTitle": "the group qua group is",
+      "count": 1,
+      "examples": [
+        "• the Group qua group is"
+      ]
+    },
+    {
+      "normalizedTitle": "the work of the group is",
+      "count": 1,
+      "examples": [
+        "• The work of the group is"
+      ]
+    },
+    {
+      "normalizedTitle": "the group is without",
+      "count": 1,
+      "examples": [
+        "• The group is without"
+      ]
+    },
+    {
+      "normalizedTitle": "rules of behavior are",
+      "count": 1,
+      "examples": [
+        "• Rules of behavior are"
+      ]
+    },
+    {
+      "normalizedTitle": "members are unable to",
+      "count": 1,
+      "examples": [
+        "• Members are unable to"
+      ]
+    },
+    {
+      "normalizedTitle": "they have little",
+      "count": 1,
+      "examples": [
+        "• They have little"
+      ]
+    },
+    {
+      "normalizedTitle": "strong societal taboos",
+      "count": 1,
+      "examples": [
+        "• Strong societal taboos"
+      ]
+    },
+    {
+      "normalizedTitle": "in this initial phase there",
+      "count": 1,
+      "examples": [
+        "• In this initial phase there"
+      ]
+    },
+    {
+      "normalizedTitle": "members must establish",
+      "count": 1,
+      "examples": [
+        "• Members must establish"
+      ]
+    },
+    {
+      "normalizedTitle": "the development of an",
+      "count": 1,
+      "examples": [
+        "• The development of an"
+      ]
+    },
+    {
+      "normalizedTitle": "the primary task of the",
+      "count": 2,
+      "examples": [
+        "• The primary task of the",
+        "• The primary task of the"
+      ]
+    },
+    {
+      "normalizedTitle": "as components of this",
+      "count": 1,
+      "examples": [
+        "• As components of this"
+      ]
+    },
+    {
+      "normalizedTitle": "shehe is further",
+      "count": 1,
+      "examples": [
+        "• She/he is further"
+      ]
+    },
+    {
+      "normalizedTitle": "to offer a clear uncomplicated",
+      "count": 1,
+      "examples": [
+        "• To offer a clear uncomplicated"
+      ]
+    },
+    {
+      "normalizedTitle": "to generalize client need in an",
+      "count": 1,
+      "examples": [
+        "• To generalize client need in an"
+      ]
+    },
+    {
+      "normalizedTitle": "to partialize client need",
+      "count": 1,
+      "examples": [
+        "• To partialize client need,"
+      ]
+    },
+    {
+      "normalizedTitle": "to develop receptivity to",
+      "count": 1,
+      "examples": [
+        "• To develop receptivity to"
+      ]
+    },
+    {
+      "normalizedTitle": "to reach for feedback",
+      "count": 1,
+      "examples": [
+        "• To reach for feedback"
+      ]
+    },
+    {
+      "normalizedTitle": "to encourage specificity in",
+      "count": 1,
+      "examples": [
+        "• To encourage specificity in"
+      ]
+    },
+    {
+      "normalizedTitle": "to translate covert messages",
+      "count": 1,
+      "examples": [
+        "• To translate covert messages"
+      ]
+    },
+    {
+      "normalizedTitle": "the group changes",
+      "count": 1,
+      "examples": [
+        "• The group changes"
+      ]
+    },
+    {
+      "normalizedTitle": "the group is at its most",
+      "count": 1,
+      "examples": [
+        "• The group is at its most"
+      ]
+    },
+    {
+      "normalizedTitle": "rules norms and status",
+      "count": 1,
+      "examples": [
+        "• Rules, norms, and status"
+      ]
+    },
+    {
+      "normalizedTitle": "the group becomes",
+      "count": 1,
+      "examples": [
+        "• The group becomes"
+      ]
+    },
+    {
+      "normalizedTitle": "members are slowly",
+      "count": 1,
+      "examples": [
+        "• Members are slowly"
+      ]
+    },
+    {
+      "normalizedTitle": "members become",
+      "count": 2,
+      "examples": [
+        "• Members become",
+        "• Members become"
+      ]
+    },
+    {
+      "normalizedTitle": "a sense of confidence in",
+      "count": 1,
+      "examples": [
+        "• A sense of confidence in"
+      ]
+    },
+    {
+      "normalizedTitle": "to further develop into a",
+      "count": 1,
+      "examples": [
+        "• To further develop into a"
+      ]
+    },
+    {
+      "normalizedTitle": "to resolve its",
+      "count": 1,
+      "examples": [
+        "• To \"resolve\" its"
+      ]
+    },
+    {
+      "normalizedTitle": "the worker must help the",
+      "count": 1,
+      "examples": [
+        "• The worker must help the"
+      ]
+    },
+    {
+      "normalizedTitle": "engage the challenge to",
+      "count": 1,
+      "examples": [
+        "• Engage the challenge to"
+      ]
+    },
+    {
+      "normalizedTitle": "skills used during this stage",
+      "count": 1,
+      "examples": [
+        "• Skills used during this stage"
+      ]
+    },
+    {
+      "normalizedTitle": "affective skills include",
+      "count": 1,
+      "examples": [
+        "• Affective skills include:"
+      ]
+    },
+    {
+      "normalizedTitle": "instrumental skills include",
+      "count": 1,
+      "examples": [
+        "• Instrumental skills include:"
+      ]
+    },
+    {
+      "normalizedTitle": "members may begin to",
+      "count": 1,
+      "examples": [
+        "• Members may begin to"
+      ]
+    },
+    {
+      "normalizedTitle": "at this point the group",
+      "count": 1,
+      "examples": [
+        "• At this point the group"
+      ]
+    },
+    {
+      "normalizedTitle": "with the workers",
+      "count": 1,
+      "examples": [
+        "• With the worker's"
+      ]
+    },
+    {
+      "normalizedTitle": "consensus becomes",
+      "count": 1,
+      "examples": [
+        "• Consensus becomes"
+      ]
+    },
+    {
+      "normalizedTitle": "during this point there is",
+      "count": 1,
+      "examples": [
+        "• During this point there is"
+      ]
+    },
+    {
+      "normalizedTitle": "members begin listening",
+      "count": 1,
+      "examples": [
+        "• Members begin listening"
+      ]
+    },
+    {
+      "normalizedTitle": "a new exploration of the",
+      "count": 1,
+      "examples": [
+        "• A new exploration of the"
+      ]
+    },
+    {
+      "normalizedTitle": "the groups primary task",
+      "count": 1,
+      "examples": [
+        "• The group's primary task"
+      ]
+    },
+    {
+      "normalizedTitle": "having previously",
+      "count": 1,
+      "examples": [
+        "• Having previously"
+      ]
+    },
+    {
+      "normalizedTitle": "as the group begins to",
+      "count": 1,
+      "examples": [
+        "• As the group begins to"
+      ]
+    },
+    {
+      "normalizedTitle": "members need additional",
+      "count": 1,
+      "examples": [
+        "• Members need additional"
+      ]
+    },
+    {
+      "normalizedTitle": "the workers skills here are",
+      "count": 1,
+      "examples": [
+        "• The worker's skills here are"
+      ]
+    },
+    {
+      "normalizedTitle": "the worker is called upon to",
+      "count": 1,
+      "examples": [
+        "• The worker is called upon to"
+      ]
+    },
+    {
+      "normalizedTitle": "there is a sharp increase",
+      "count": 1,
+      "examples": [
+        "• There is a sharp increase"
+      ]
+    },
+    {
+      "normalizedTitle": "for the first time the",
+      "count": 1,
+      "examples": [
+        "• For the first time, the"
+      ]
+    },
+    {
+      "normalizedTitle": "the possibility of",
+      "count": 1,
+      "examples": [
+        "• The possibility of"
+      ]
+    },
+    {
+      "normalizedTitle": "the group as a working",
+      "count": 1,
+      "examples": [
+        "• The group as a working"
+      ]
+    },
+    {
+      "normalizedTitle": "group norms are well",
+      "count": 1,
+      "examples": [
+        "• Group norms are well"
+      ]
+    },
+    {
+      "normalizedTitle": "a satisfying balance",
+      "count": 1,
+      "examples": [
+        "• A satisfying balance"
+      ]
+    },
+    {
+      "normalizedTitle": "mutual aid and its",
+      "count": 1,
+      "examples": [
+        "• Mutual aid and its"
+      ]
+    },
+    {
+      "normalizedTitle": "relationships among",
+      "count": 1,
+      "examples": [
+        "• Relationships among"
+      ]
+    },
+    {
+      "normalizedTitle": "all are viewed as",
+      "count": 1,
+      "examples": [
+        "• All are viewed as"
+      ]
+    },
+    {
+      "normalizedTitle": "the major task of the",
+      "count": 1,
+      "examples": [
+        "• The major task of the"
+      ]
+    },
+    {
+      "normalizedTitle": "understanding that this is",
+      "count": 1,
+      "examples": [
+        "• Understanding that this is"
+      ]
+    },
+    {
+      "normalizedTitle": "skills at this point are",
+      "count": 1,
+      "examples": [
+        "• Skills at this point are"
+      ]
+    },
+    {
+      "normalizedTitle": "a strong viable balance",
+      "count": 1,
+      "examples": [
+        "• A strong viable balance"
+      ]
+    },
+    {
+      "normalizedTitle": "the group as a whole is",
+      "count": 1,
+      "examples": [
+        "• The group as a whole is"
+      ]
+    },
+    {
+      "normalizedTitle": "if positive feelings have",
+      "count": 1,
+      "examples": [
+        "• If positive feelings have"
+      ]
+    },
+    {
+      "normalizedTitle": "in the face of the",
+      "count": 1,
+      "examples": [
+        "• In the face of the"
+      ]
+    },
+    {
+      "normalizedTitle": "feelings of loss may",
+      "count": 1,
+      "examples": [
+        "• Feelings of loss may"
+      ]
+    },
+    {
+      "normalizedTitle": "in this final stage the",
+      "count": 1,
+      "examples": [
+        "• In this final stage, the"
+      ]
+    },
+    {
+      "normalizedTitle": "if appropriate the group",
+      "count": 1,
+      "examples": [
+        "• If appropriate, the group"
+      ]
+    },
+    {
+      "normalizedTitle": "the professional must",
+      "count": 1,
+      "examples": [
+        "• The professional must"
+      ]
+    },
+    {
+      "normalizedTitle": "skills focusing upon both",
+      "count": 1,
+      "examples": [
+        "• Skills focusing upon both"
+      ]
+    },
+    {
+      "normalizedTitle": "the worker begins by being",
+      "count": 1,
+      "examples": [
+        "• The worker begins by being"
+      ]
+    },
+    {
+      "normalizedTitle": "d tuckmans phases of group development",
+      "count": 1,
+      "examples": [
+        "d. Tuckman’s Phases of Group Development"
+      ]
+    },
+    {
+      "normalizedTitle": "d different authors version of phases of group development",
+      "count": 1,
+      "examples": [
+        "d. Different Authors’ version of Phases of Group Development"
+      ]
+    },
+    {
+      "normalizedTitle": "a private pre",
+      "count": 1,
+      "examples": [
+        "a. Private Pre-"
+      ]
+    },
+    {
+      "normalizedTitle": "b public pre",
+      "count": 1,
+      "examples": [
+        "b. Public Pre-"
+      ]
+    },
+    {
+      "normalizedTitle": "c convening",
+      "count": 1,
+      "examples": [
+        "c. Convening"
+      ]
+    },
+    {
+      "normalizedTitle": "planning stage and",
+      "count": 1,
+      "examples": [
+        "Planning Stage; and"
+      ]
+    },
+    {
+      "normalizedTitle": "reintegration phase",
+      "count": 1,
+      "examples": [
+        "Reintegration Phase"
+      ]
+    },
+    {
+      "normalizedTitle": "a pre",
+      "count": 1,
+      "examples": [
+        "a. Pre-"
+      ]
+    },
+    {
+      "normalizedTitle": "b termination",
+      "count": 1,
+      "examples": [
+        "b. Termination"
+      ]
+    },
+    {
+      "normalizedTitle": "c post",
+      "count": 1,
+      "examples": [
+        "c. Post-"
+      ]
+    },
+    {
+      "normalizedTitle": "1 pregroup activities a conceptualizing the group service",
+      "count": 1,
+      "examples": [
+        "1. Pre-group Activities a. Conceptualizing the Group Service"
+      ]
+    },
+    {
+      "normalizedTitle": "social worker of agency initiates idea of group service or external person presents a program",
+      "count": 1,
+      "examples": [
+        "• Social worker of agency initiates idea of group service or external person presents a program"
+      ]
+    },
+    {
+      "normalizedTitle": "program has a clear purpose which guides agency worker and group",
+      "count": 1,
+      "examples": [
+        "• Program has a clear purpose which guides agency, worker and group"
+      ]
+    },
+    {
+      "normalizedTitle": "program proposal contains rationale target client need to be addressed membership",
+      "count": 1,
+      "examples": [
+        "• Program proposal contains rationale, target client, need to be addressed, membership"
+      ]
+    },
+    {
+      "normalizedTitle": "announcement to staff proposal undergoes refinement through inputs",
+      "count": 1,
+      "examples": [
+        "• Announcement to staff, proposal undergoes refinement through inputs"
+      ]
+    },
+    {
+      "normalizedTitle": "purpose of group program statement should emanate from agency purpose or function it",
+      "count": 1,
+      "examples": [
+        "• Purpose of group program statement should emanate from agency purpose or function. It"
+      ]
+    },
+    {
+      "normalizedTitle": "b announcing the group services and recruiting members",
+      "count": 1,
+      "examples": [
+        "b. Announcing the group services and recruiting members"
+      ]
+    },
+    {
+      "normalizedTitle": "posters on strategic places offices markets stores",
+      "count": 1,
+      "examples": [
+        "• POSTERS on strategic places (offices, markets, stores)"
+      ]
+    },
+    {
+      "normalizedTitle": "announcement should be brief but clear and should mention the purpose of the program",
+      "count": 1,
+      "examples": [
+        "• Announcement should be brief but clear and should mention the purpose of the program,"
+      ]
+    },
+    {
+      "normalizedTitle": "c preparing logistics",
+      "count": 1,
+      "examples": [
+        "c. Preparing Logistics"
+      ]
+    },
+    {
+      "normalizedTitle": "logistical support for a group program would include personnel facilitiesm and materials",
+      "count": 1,
+      "examples": [
+        "• Logistical support for a group program would include personnel, facilitiesm and materials"
+      ]
+    },
+    {
+      "normalizedTitle": "d enlisting community support",
+      "count": 1,
+      "examples": [
+        "d. Enlisting Community Support"
+      ]
+    },
+    {
+      "normalizedTitle": "groups agencies organizations crucial to program success",
+      "count": 1,
+      "examples": [
+        "• Groups, agencies, organizations crucial to program success"
+      ]
+    },
+    {
+      "normalizedTitle": "2 individualfocused assessment and",
+      "count": 1,
+      "examples": [
+        "2. Individual-focused Assessment and"
+      ]
+    },
+    {
+      "normalizedTitle": "pregroup individual level interviews or intake",
+      "count": 1,
+      "examples": [
+        "• Pre-group (individual level) interviews or intake"
+      ]
+    },
+    {
+      "normalizedTitle": "creating the individual client profile",
+      "count": 1,
+      "examples": [
+        "• Creating the individual client profile"
+      ]
+    },
+    {
+      "normalizedTitle": "case assessment or problem definition",
+      "count": 1,
+      "examples": [
+        "• Case assessment or problem definition"
+      ]
+    },
+    {
+      "normalizedTitle": "action planning under action planning the social worker with the client does the",
+      "count": 1,
+      "examples": [
+        "• Action planning. Under Action Planning, the social worker with the client does the"
+      ]
+    },
+    {
+      "normalizedTitle": "3 groupfocused assessment and",
+      "count": 1,
+      "examples": [
+        "3. Group-focused Assessment and"
+      ]
+    },
+    {
+      "normalizedTitle": "a group composition",
+      "count": 1,
+      "examples": [
+        "a. Group Composition"
+      ]
+    },
+    {
+      "normalizedTitle": "selection of members",
+      "count": 1,
+      "examples": [
+        "• Selection of Members:"
+      ]
+    },
+    {
+      "normalizedTitle": "deciding group size",
+      "count": 1,
+      "examples": [
+        "• Deciding Group Size:"
+      ]
+    },
+    {
+      "normalizedTitle": "b group formation",
+      "count": 1,
+      "examples": [
+        "b. Group Formation"
+      ]
+    },
+    {
+      "normalizedTitle": "worker starts with gettingtoknowyou activity",
+      "count": 1,
+      "examples": [
+        "• Worker starts with “getting-to-know-you” activity"
+      ]
+    },
+    {
+      "normalizedTitle": "worker reviews agency mission purpose of group program",
+      "count": 1,
+      "examples": [
+        "• Worker reviews agency mission, purpose of group program,"
+      ]
+    },
+    {
+      "normalizedTitle": "workers role",
+      "count": 1,
+      "examples": [
+        "• worker’s role"
+      ]
+    },
+    {
+      "normalizedTitle": "worker encourages questions from members",
+      "count": 1,
+      "examples": [
+        "• Worker encourages questions from members"
+      ]
+    },
+    {
+      "normalizedTitle": "discussion on other matters in the agenda",
+      "count": 1,
+      "examples": [
+        "• Discussion on other matters in the agenda"
+      ]
+    },
+    {
+      "normalizedTitle": "group members should agree on",
+      "count": 1,
+      "examples": [
+        "• Group members should agree on:"
+      ]
+    },
+    {
+      "normalizedTitle": "i common group concern members identify common problem in social functioning",
+      "count": 1,
+      "examples": [
+        "i. Common group concern: Members identify common problem in social functioning,"
+      ]
+    },
+    {
+      "normalizedTitle": "4 groupfocused planning use of",
+      "count": 1,
+      "examples": [
+        "4. Group-focused Planning (Use of"
+      ]
+    },
+    {
+      "normalizedTitle": "examples group discussions role play group dynamics exercises play activities film showing",
+      "count": 1,
+      "examples": [
+        "• Examples: Group discussions, role play, group dynamics exercises, play activities, film showing,"
+      ]
+    },
+    {
+      "normalizedTitle": "uses of program media",
+      "count": 1,
+      "examples": [
+        "• Uses of Program Media:"
+      ]
+    },
+    {
+      "normalizedTitle": "factors to consider in planning program media",
+      "count": 1,
+      "examples": [
+        "• Factors to Consider in Planning Program Media:"
+      ]
+    },
+    {
+      "normalizedTitle": "i group goals",
+      "count": 1,
+      "examples": [
+        "i. Group goals"
+      ]
+    },
+    {
+      "normalizedTitle": "v emotional and social characteristics of members",
+      "count": 1,
+      "examples": [
+        "v. Emotional and social characteristics of members"
+      ]
+    },
+    {
+      "normalizedTitle": "x workers skills and capacities",
+      "count": 1,
+      "examples": [
+        "x. Worker's skills and capacities"
+      ]
+    },
+    {
+      "normalizedTitle": "5 plan implementation",
+      "count": 1,
+      "examples": [
+        "5. Plan Implementation"
+      ]
+    },
+    {
+      "normalizedTitle": "aspects of plan implementation plan implementation defined as all activities worker",
+      "count": 1,
+      "examples": [
+        "• Aspects of Plan implementation. Plan implementation defined as “all activities, worker"
+      ]
+    },
+    {
+      "normalizedTitle": "interventive roles these are multiple groupworker actions used with or on behalf of clients",
+      "count": 1,
+      "examples": [
+        "• Interventive roles. These are multiple groupworker actions used with or on behalf of clients,"
+      ]
+    },
+    {
+      "normalizedTitle": "resources and services these are material and nonmaterial resources tapped or created by",
+      "count": 1,
+      "examples": [
+        "• Resources and services. These are material and non-material resources tapped or created by"
+      ]
+    },
+    {
+      "normalizedTitle": "problems and constraints these are challenges faced by worker which affect work with",
+      "count": 1,
+      "examples": [
+        "• Problems and constraints. These are challenges faced by worker which affect work with"
+      ]
+    },
+    {
+      "normalizedTitle": "stances of worker these are the attitudes the worker brings to the different sessions and",
+      "count": 1,
+      "examples": [
+        "• Stances of Worker. These are the attitudes the worker brings to the different sessions and"
+      ]
+    },
+    {
+      "normalizedTitle": "6 evaluation two types of evaluation used in sw practice",
+      "count": 1,
+      "examples": [
+        "6. Evaluation Two types of evaluation used in SW practice:"
+      ]
+    },
+    {
+      "normalizedTitle": "1 regular periodic or formative evaluation provides feedback to the worker at designated period",
+      "count": 1,
+      "examples": [
+        "1. Regular, periodic or formative evaluation provides feedback to the worker at designated period"
+      ]
+    },
+    {
+      "normalizedTitle": "frequency as planned monthly quarterly or semiannually",
+      "count": 1,
+      "examples": [
+        "• Frequency: as planned (monthly, quarterly or semiannually)."
+      ]
+    },
+    {
+      "normalizedTitle": "refinement the worker tracks the progress of the group towards the goal results can",
+      "count": 1,
+      "examples": [
+        "• Refinement: The worker tracks the progress of the group towards the goal. Results can"
+      ]
+    },
+    {
+      "normalizedTitle": "accountability to client system agency and public",
+      "count": 1,
+      "examples": [
+        "• Accountability: To client system, agency and public"
+      ]
+    },
+    {
+      "normalizedTitle": "2 terminal or summative evaluation evaluation conducted at the end of implementation period",
+      "count": 1,
+      "examples": [
+        "2. Terminal or Summative Evaluation - Evaluation conducted at the end of implementation period"
+      ]
+    },
+    {
+      "normalizedTitle": "evaluation is done at the",
+      "count": 1,
+      "examples": [
+        "Evaluation is done at the:"
+      ]
+    },
+    {
+      "normalizedTitle": "1 individual level through a workers case summary where the comprehensiveness depends on",
+      "count": 1,
+      "examples": [
+        "1. Individual level – through a worker’s case summary, where the comprehensiveness depends on"
+      ]
+    },
+    {
+      "normalizedTitle": "2 group level worker summary contains group concern group goals and objectives periodic and",
+      "count": 1,
+      "examples": [
+        "2. Group level -  Worker summary contains group concern, group goals and objectives, periodic and"
+      ]
+    },
+    {
+      "normalizedTitle": "pregroupintake interview records",
+      "count": 1,
+      "examples": [
+        "• Pre-group/intake interview records"
+      ]
+    },
+    {
+      "normalizedTitle": "individual case assessments",
+      "count": 1,
+      "examples": [
+        "• Individual case assessments"
+      ]
+    },
+    {
+      "normalizedTitle": "statement of group concernsproblemsgroup goals and plans",
+      "count": 1,
+      "examples": [
+        "• Statement of group concerns/problems/group goals and plans"
+      ]
+    },
+    {
+      "normalizedTitle": "attendance records o process or summary recordings of group sessions",
+      "count": 1,
+      "examples": [
+        "• Attendance records o Process or summary recordings of group sessions"
+      ]
+    },
+    {
+      "normalizedTitle": "records of marginal interviews with members outside group sessions",
+      "count": 1,
+      "examples": [
+        "• Records of marginal interviews (with members outside group sessions)"
+      ]
+    },
+    {
+      "normalizedTitle": "collateral interviews with significant others",
+      "count": 1,
+      "examples": [
+        "• Collateral interviews with “significant others”"
+      ]
+    },
+    {
+      "normalizedTitle": "evaluation records",
+      "count": 1,
+      "examples": [
+        "• Evaluation records"
+      ]
+    },
+    {
+      "normalizedTitle": "transferclosing summaries",
+      "count": 1,
+      "examples": [
+        "• Transfer/closing summaries"
+      ]
+    },
+    {
+      "normalizedTitle": "a the effect is less emotional on close groups where members join and leave the group together as",
+      "count": 1,
+      "examples": [
+        "a. The effect is less emotional on close groups where members join and leave the group together as"
+      ]
+    },
+    {
+      "normalizedTitle": "b the effect on open groups or treatmentoriented groups is different where members leave the",
+      "count": 1,
+      "examples": [
+        "b. The effect on open groups or treatment-oriented groups is different where members leave the"
+      ]
+    },
+    {
+      "normalizedTitle": "work out difficult feelings",
+      "count": 1,
+      "examples": [
+        "• Work out difficult feelings"
+      ]
+    },
+    {
+      "normalizedTitle": "review accomplishments and gains",
+      "count": 1,
+      "examples": [
+        "•  Review accomplishments and gains"
+      ]
+    },
+    {
+      "normalizedTitle": "plan a closing activity",
+      "count": 1,
+      "examples": [
+        "• Plan a closing activity"
+      ]
+    },
+    {
+      "normalizedTitle": "consider ideas of postexit plans",
+      "count": 1,
+      "examples": [
+        "• Consider ideas of post-exit plans"
+      ]
+    },
+    {
+      "normalizedTitle": "sue henry calls this period a time of mourning",
+      "count": 1,
+      "examples": [
+        "• Sue Henry calls this period a time of “mourning”"
+      ]
+    },
+    {
+      "normalizedTitle": "members can organize themselves into a selfhelp group",
+      "count": 1,
+      "examples": [
+        "• Members can organize themselves into a self-help group"
+      ]
+    },
+    {
+      "normalizedTitle": "worker can connect the members to a group in the community",
+      "count": 1,
+      "examples": [
+        "• Worker can connect the members to a group in the community"
+      ]
+    },
+    {
+      "normalizedTitle": "members can act as volunteers or resource in the agency",
+      "count": 1,
+      "examples": [
+        "• Members can act as volunteers or resource in the agency"
+      ]
+    },
+    {
+      "normalizedTitle": "helping process",
+      "count": 1,
+      "examples": [
+        "HELPING PROCESS"
+      ]
+    },
+    {
+      "normalizedTitle": "phases in group",
+      "count": 1,
+      "examples": [
+        "PHASES IN GROUP"
+      ]
+    },
+    {
+      "normalizedTitle": "developlment",
+      "count": 1,
+      "examples": [
+        "DEVELOPLMENT"
+      ]
+    },
+    {
+      "normalizedTitle": "reintegration phase group",
+      "count": 1,
+      "examples": [
+        "Reintegration Phase; Group"
+      ]
+    },
+    {
+      "normalizedTitle": "separation phase",
+      "count": 1,
+      "examples": [
+        "Separation Phase"
+      ]
+    },
+    {
+      "normalizedTitle": "conceptualization",
+      "count": 1,
+      "examples": [
+        "• Conceptualization"
+      ]
+    },
+    {
+      "normalizedTitle": "announcing group",
+      "count": 1,
+      "examples": [
+        "• Announcing Group"
+      ]
+    },
+    {
+      "normalizedTitle": "recruiting group",
+      "count": 1,
+      "examples": [
+        "• Recruiting Group"
+      ]
+    },
+    {
+      "normalizedTitle": "preparing logistics",
+      "count": 1,
+      "examples": [
+        "• Preparing Logistics"
+      ]
+    },
+    {
+      "normalizedTitle": "enlisting support",
+      "count": 1,
+      "examples": [
+        "• Enlisting Support"
+      ]
+    },
+    {
+      "normalizedTitle": "pregroup",
+      "count": 1,
+      "examples": [
+        "• Pre-group"
+      ]
+    },
+    {
+      "normalizedTitle": "problem",
+      "count": 2,
+      "examples": [
+        "• Problem",
+        "• Problem"
+      ]
+    },
+    {
+      "normalizedTitle": "goal",
+      "count": 1,
+      "examples": [
+        "• Goal-"
+      ]
+    },
+    {
+      "normalizedTitle": "action",
+      "count": 1,
+      "examples": [
+        "• Action"
+      ]
+    },
+    {
+      "normalizedTitle": "group",
+      "count": 2,
+      "examples": [
+        "• Group",
+        "• Group"
+      ]
+    },
+    {
+      "normalizedTitle": "group goal",
+      "count": 1,
+      "examples": [
+        "• Group Goal"
+      ]
+    },
+    {
+      "normalizedTitle": "action planning",
+      "count": 1,
+      "examples": [
+        "• Action Planning"
+      ]
+    },
+    {
+      "normalizedTitle": "actionintervention",
+      "count": 1,
+      "examples": [
+        "• Action/Intervention"
+      ]
+    },
+    {
+      "normalizedTitle": "periodic evaluation",
+      "count": 1,
+      "examples": [
+        "• Periodic Evaluation"
+      ]
+    },
+    {
+      "normalizedTitle": "terminal",
+      "count": 1,
+      "examples": [
+        "• Terminal"
+      ]
+    },
+    {
+      "normalizedTitle": "evaluation",
+      "count": 1,
+      "examples": [
+        "Evaluation:"
+      ]
+    },
+    {
+      "normalizedTitle": "pre",
+      "count": 1,
+      "examples": [
+        "• Pre-"
+      ]
+    },
+    {
+      "normalizedTitle": "termination",
+      "count": 1,
+      "examples": [
+        "• Termination"
+      ]
+    },
+    {
+      "normalizedTitle": "post",
+      "count": 1,
+      "examples": [
+        "• Post-"
+      ]
+    }
+  ],
+  "definitions": [
+    {
+      "text": "a. Group or social group is defined as two or more people with a common interest, interacting",
+      "file": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "lineNumber": 4,
+      "term": "a"
+    },
+    {
+      "text": "b. Social group work (SGW) is a method of social work which helps individuals enhance their",
+      "file": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "lineNumber": 6,
+      "term": "b. Social group work (SGW)"
+    },
+    {
+      "text": "c. Formed groups and Natural groups. Formed groups are those that meet because of external",
+      "file": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "lineNumber": 9,
+      "term": "c. Formed groups and Natural groups. Formed groups..."
+    },
+    {
+      "text": "Natural groups are formed thru unplanned gatherings, mutual attraction or perceived needs.",
+      "file": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "lineNumber": 11,
+      "term": "Natural groups are formed thru unplanned gathering..."
+    },
+    {
+      "text": "f. Group as medium of change refers to the means by which groups bring about change where",
+      "file": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "lineNumber": 16,
+      "term": "f"
+    },
+    {
+      "text": "i. Group use for effect on participants is a result of the worker’s efforts to bring changes in",
+      "file": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "lineNumber": 22,
+      "term": "i. Group use for effect on participants"
+    },
+    {
+      "text": "j. Group use for collective problem solving is a worker’s purpose for group members to pool",
+      "file": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "lineNumber": 24,
+      "term": "j. Group use for collective problem solving"
+    },
+    {
+      "text": "k. Group use for change in social situations is facilitated by groupworkers through pressure,",
+      "file": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "lineNumber": 26,
+      "term": "k. Group use for change in social situations is fa..."
+    },
+    {
+      "text": "• It is a process and method through which group processes is",
+      "file": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "lineNumber": 35,
+      "term": "• It"
+    },
+    {
+      "text": "• It is a method through which members in many groups in",
+      "file": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "lineNumber": 43,
+      "term": "• It"
+    },
+    {
+      "text": "different social agency settings are helped by a worker who",
+      "file": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "lineNumber": 44,
+      "term": "different social agency settings are helped by a w..."
+    },
+    {
+      "text": "• Elements of the different concepts are the Individual who is",
+      "file": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "lineNumber": 55,
+      "term": "• Elements of the different concepts are the Indiv..."
+    },
+    {
+      "text": "Ingroups and outgroups are sociological terms where persons refer to",
+      "file": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "lineNumber": 73,
+      "term": "Ingroups and outgroups are sociological terms wher..."
+    },
+    {
+      "text": "ethnocentrism while outgroups are not. Similarity in behavior, attitude",
+      "file": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "lineNumber": 75,
+      "term": "ethnocentrism while outgroups are not. Similarity ..."
+    },
+    {
+      "text": "• Group as medium of change refers to the influence of the",
+      "file": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "lineNumber": 91,
+      "term": "• Group as medium of change"
+    },
+    {
+      "text": "belonging are among those the group can teach him. Those",
+      "file": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "lineNumber": 98,
+      "term": "belonging are among those the group can teach him...."
+    },
+    {
+      "text": "• Group as agent of change refers to working with the group to",
+      "file": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "lineNumber": 114,
+      "term": "• Group as agent of change"
+    },
+    {
+      "text": "• Vinter and Galinsky refers to two kinds of groups in the",
+      "file": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "lineNumber": 123,
+      "term": "• Vinter and Galinsky"
+    },
+    {
+      "text": "the members are would lead to better cognition of their",
+      "file": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "lineNumber": 145,
+      "term": "the members are would lead to better cognition of ..."
+    },
+    {
+      "text": "group  serving agencies using recreation as a means of",
+      "file": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "lineNumber": 292,
+      "term": "group  serving agencies using recreation as a"
+    }
+  ],
+  "questionGenerationFeasibility": {
+    "questionsNeeded": 1000,
+    "availableWords": 11522,
+    "wordsNeeded": 50000,
+    "ratio": 0.23044,
+    "assessment": "CHALLENGING",
+    "recommendations": [
+      "Consider generating multiple questions per concept",
+      "Create variations of similar questions",
+      "Generate scenario-based questions",
+      "88 definitions available for direct questions"
+    ]
+  }
+}

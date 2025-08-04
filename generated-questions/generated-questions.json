@@ -1,0 +1,1464 @@
+{
+  "metadata": {
+    "totalQuestions": 85,
+    "generatedAt": "2025-08-04T06:22:53.287Z",
+    "sourceFiles": [
+      "Concepts Used and Key Historical Events in Social Groupwork Practice (1)",
+      "Group structure and process in social work 4",
+      "Group Work Approaches and Models",
+      "Phases of Group Development and Social Work Helping Process"
+    ],
+    "questionTypes": [
+      "definition",
+      "concept",
+      "relationship",
+      "application",
+      "characteristic",
+      "scenario"
+    ]
+  },
+  "questions": [
+    {
+      "id": "def_1_v0",
+      "type": "definition",
+      "question": "In social work practice, when working with groups, a social worker encounters the concept of \"Social Group Work Sgw\". How should this be understood?",
+      "options": {
+        "A": "those that meet because of external.",
+        "B": "a method of social work which helps individuals enhance their.",
+        "C": "a method of social work which helps individuals enhance their.",
+        "D": "two or more people with a common interest, interacting."
+      },
+      "correctAnswer": "B",
+      "explanation": "Social Group Work Sgw is defined as a method of social work which helps individuals enhance their. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Social Group Work Sgw"
+    },
+    {
+      "id": "def_1_v1",
+      "type": "definition",
+      "question": "During a group work session, a supervisor asks about the meaning of \"Social Group Work Sgw\". What is the most accurate explanation?",
+      "options": {
+        "A": "two or more people with a common interest, interacting.",
+        "B": "a method of social work which helps individuals enhance their.",
+        "C": "those that meet because of external.",
+        "D": "a method of social work which helps individuals enhance their."
+      },
+      "correctAnswer": "B",
+      "explanation": "Social Group Work Sgw is defined as a method of social work which helps individuals enhance their. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Social Group Work Sgw"
+    },
+    {
+      "id": "def_1_v2",
+      "type": "definition",
+      "question": "A social work student is studying group dynamics and needs to explain \"Social Group Work Sgw\" to their peers. What definition should they provide?",
+      "options": {
+        "A": "a method of social work which helps individuals enhance their.",
+        "B": "a method of social work which helps individuals enhance their.",
+        "C": "those that meet because of external.",
+        "D": "two or more people with a common interest, interacting."
+      },
+      "correctAnswer": "A",
+      "explanation": "Social Group Work Sgw is defined as a method of social work which helps individuals enhance their. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Social Group Work Sgw"
+    },
+    {
+      "id": "def_4_v0",
+      "type": "definition",
+      "question": "In social work practice, when working with groups, a social worker encounters the concept of \"Formed Groups And Natural Groups Formed Groups\". How should this be understood?",
+      "options": {
+        "A": "those that meet because of external.",
+        "B": "a method of social work which helps individuals enhance their.",
+        "C": "those that meet because of external.",
+        "D": "two or more people with a common interest, interacting."
+      },
+      "correctAnswer": "A",
+      "explanation": "Formed Groups And Natural Groups Formed Groups is defined as those that meet because of external. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Formed Groups And Natural Groups Formed Groups"
+    },
+    {
+      "id": "def_4_v1",
+      "type": "definition",
+      "question": "During a group work session, a supervisor asks about the meaning of \"Formed Groups And Natural Groups Formed Groups\". What is the most accurate explanation?",
+      "options": {
+        "A": "those that meet because of external.",
+        "B": "a method of social work which helps individuals enhance their.",
+        "C": "those that meet because of external.",
+        "D": "two or more people with a common interest, interacting."
+      },
+      "correctAnswer": "A",
+      "explanation": "Formed Groups And Natural Groups Formed Groups is defined as those that meet because of external. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Formed Groups And Natural Groups Formed Groups"
+    },
+    {
+      "id": "def_4_v2",
+      "type": "definition",
+      "question": "A social work student is studying group dynamics and needs to explain \"Formed Groups And Natural Groups Formed Groups\" to their peers. What definition should they provide?",
+      "options": {
+        "A": "those that meet because of external.",
+        "B": "those that meet because of external.",
+        "C": "a method of social work which helps individuals enhance their.",
+        "D": "two or more people with a common interest, interacting."
+      },
+      "correctAnswer": "A",
+      "explanation": "Formed Groups And Natural Groups Formed Groups is defined as those that meet because of external. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Formed Groups And Natural Groups Formed Groups"
+    },
+    {
+      "id": "def_7_v0",
+      "type": "definition",
+      "question": "In social work practice, when working with groups, a social worker encounters the concept of \"Natural Groups Are Formed Thru Unplanned Gathering\". How should this be understood?",
+      "options": {
+        "A": "those that meet because of external.",
+        "B": "formed thru unplanned gatherings, mutual attraction or perceived needs.",
+        "C": "two or more people with a common interest, interacting.",
+        "D": "a method of social work which helps individuals enhance their."
+      },
+      "correctAnswer": "B",
+      "explanation": "Natural Groups Are Formed Thru Unplanned Gathering is defined as formed thru unplanned gatherings, mutual attraction or perceived needs. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Natural Groups Are Formed Thru Unplanned Gathering"
+    },
+    {
+      "id": "def_7_v1",
+      "type": "definition",
+      "question": "During a group work session, a supervisor asks about the meaning of \"Natural Groups Are Formed Thru Unplanned Gathering\". What is the most accurate explanation?",
+      "options": {
+        "A": "those that meet because of external.",
+        "B": "formed thru unplanned gatherings, mutual attraction or perceived needs.",
+        "C": "two or more people with a common interest, interacting.",
+        "D": "a method of social work which helps individuals enhance their."
+      },
+      "correctAnswer": "B",
+      "explanation": "Natural Groups Are Formed Thru Unplanned Gathering is defined as formed thru unplanned gatherings, mutual attraction or perceived needs. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Natural Groups Are Formed Thru Unplanned Gathering"
+    },
+    {
+      "id": "def_7_v2",
+      "type": "definition",
+      "question": "A social work student is studying group dynamics and needs to explain \"Natural Groups Are Formed Thru Unplanned Gathering\" to their peers. What definition should they provide?",
+      "options": {
+        "A": "formed thru unplanned gatherings, mutual attraction or perceived needs.",
+        "B": "a method of social work which helps individuals enhance their.",
+        "C": "two or more people with a common interest, interacting.",
+        "D": "those that meet because of external."
+      },
+      "correctAnswer": "A",
+      "explanation": "Natural Groups Are Formed Thru Unplanned Gathering is defined as formed thru unplanned gatherings, mutual attraction or perceived needs. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Natural Groups Are Formed Thru Unplanned Gathering"
+    },
+    {
+      "id": "def_10_v0",
+      "type": "definition",
+      "question": "In social work practice, when working with groups, a social worker encounters the concept of \"Group Use For Effect On Participants\". How should this be understood?",
+      "options": {
+        "A": "a result of the worker’s efforts to bring changes in.",
+        "B": "two or more people with a common interest, interacting.",
+        "C": "a method of social work which helps individuals enhance their.",
+        "D": "those that meet because of external."
+      },
+      "correctAnswer": "A",
+      "explanation": "Group Use For Effect On Participants is defined as a result of the worker’s efforts to bring changes in. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Group Use For Effect On Participants"
+    },
+    {
+      "id": "def_10_v1",
+      "type": "definition",
+      "question": "During a group work session, a supervisor asks about the meaning of \"Group Use For Effect On Participants\". What is the most accurate explanation?",
+      "options": {
+        "A": "those that meet because of external.",
+        "B": "two or more people with a common interest, interacting.",
+        "C": "a method of social work which helps individuals enhance their.",
+        "D": "a result of the worker’s efforts to bring changes in."
+      },
+      "correctAnswer": "D",
+      "explanation": "Group Use For Effect On Participants is defined as a result of the worker’s efforts to bring changes in. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Group Use For Effect On Participants"
+    },
+    {
+      "id": "def_10_v2",
+      "type": "definition",
+      "question": "A social work student is studying group dynamics and needs to explain \"Group Use For Effect On Participants\" to their peers. What definition should they provide?",
+      "options": {
+        "A": "those that meet because of external.",
+        "B": "two or more people with a common interest, interacting.",
+        "C": "a result of the worker’s efforts to bring changes in.",
+        "D": "a method of social work which helps individuals enhance their."
+      },
+      "correctAnswer": "C",
+      "explanation": "Group Use For Effect On Participants is defined as a result of the worker’s efforts to bring changes in. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Group Use For Effect On Participants"
+    },
+    {
+      "id": "def_13_v0",
+      "type": "definition",
+      "question": "In social work practice, when working with groups, a social worker encounters the concept of \"Group Use For Collective Problem Solving\". How should this be understood?",
+      "options": {
+        "A": "two or more people with a common interest, interacting.",
+        "B": "those that meet because of external.",
+        "C": "a method of social work which helps individuals enhance their.",
+        "D": "a worker’s purpose for group members to pool."
+      },
+      "correctAnswer": "D",
+      "explanation": "Group Use For Collective Problem Solving is defined as a worker’s purpose for group members to pool. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Group Use For Collective Problem Solving"
+    },
+    {
+      "id": "def_13_v1",
+      "type": "definition",
+      "question": "During a group work session, a supervisor asks about the meaning of \"Group Use For Collective Problem Solving\". What is the most accurate explanation?",
+      "options": {
+        "A": "those that meet because of external.",
+        "B": "a worker’s purpose for group members to pool.",
+        "C": "a method of social work which helps individuals enhance their.",
+        "D": "two or more people with a common interest, interacting."
+      },
+      "correctAnswer": "B",
+      "explanation": "Group Use For Collective Problem Solving is defined as a worker’s purpose for group members to pool. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Group Use For Collective Problem Solving"
+    },
+    {
+      "id": "def_13_v2",
+      "type": "definition",
+      "question": "A social work student is studying group dynamics and needs to explain \"Group Use For Collective Problem Solving\" to their peers. What definition should they provide?",
+      "options": {
+        "A": "a worker’s purpose for group members to pool.",
+        "B": "a method of social work which helps individuals enhance their.",
+        "C": "two or more people with a common interest, interacting.",
+        "D": "those that meet because of external."
+      },
+      "correctAnswer": "A",
+      "explanation": "Group Use For Collective Problem Solving is defined as a worker’s purpose for group members to pool. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Group Use For Collective Problem Solving"
+    },
+    {
+      "id": "def_16_v0",
+      "type": "definition",
+      "question": "In social work practice, when working with groups, a social worker encounters the concept of \"Group Use For Change In Social Situations Is Fa\". How should this be understood?",
+      "options": {
+        "A": "those that meet because of external.",
+        "B": "two or more people with a common interest, interacting.",
+        "C": "a method of social work which helps individuals enhance their.",
+        "D": "facilitated by groupworkers through pressure,."
+      },
+      "correctAnswer": "D",
+      "explanation": "Group Use For Change In Social Situations Is Fa is defined as facilitated by groupworkers through pressure,. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Group Use For Change In Social Situations Is Fa"
+    },
+    {
+      "id": "def_16_v1",
+      "type": "definition",
+      "question": "During a group work session, a supervisor asks about the meaning of \"Group Use For Change In Social Situations Is Fa\". What is the most accurate explanation?",
+      "options": {
+        "A": "facilitated by groupworkers through pressure,.",
+        "B": "a method of social work which helps individuals enhance their.",
+        "C": "two or more people with a common interest, interacting.",
+        "D": "those that meet because of external."
+      },
+      "correctAnswer": "A",
+      "explanation": "Group Use For Change In Social Situations Is Fa is defined as facilitated by groupworkers through pressure,. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Group Use For Change In Social Situations Is Fa"
+    },
+    {
+      "id": "def_16_v2",
+      "type": "definition",
+      "question": "A social work student is studying group dynamics and needs to explain \"Group Use For Change In Social Situations Is Fa\" to their peers. What definition should they provide?",
+      "options": {
+        "A": "a method of social work which helps individuals enhance their.",
+        "B": "those that meet because of external.",
+        "C": "two or more people with a common interest, interacting.",
+        "D": "facilitated by groupworkers through pressure,."
+      },
+      "correctAnswer": "D",
+      "explanation": "Group Use For Change In Social Situations Is Fa is defined as facilitated by groupworkers through pressure,. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Group Use For Change In Social Situations Is Fa"
+    },
+    {
+      "id": "def_19_v0",
+      "type": "definition",
+      "question": "In social work practice, when working with groups, a social worker encounters the concept of \"Different Social Agency Settings Are Helped By A W\". How should this be understood?",
+      "options": {
+        "A": "a method of social work which helps individuals enhance their.",
+        "B": "helped by a worker who.",
+        "C": "those that meet because of external.",
+        "D": "two or more people with a common interest, interacting."
+      },
+      "correctAnswer": "B",
+      "explanation": "Different Social Agency Settings Are Helped By A W is defined as helped by a worker who. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Different Social Agency Settings Are Helped By A W"
+    },
+    {
+      "id": "def_19_v1",
+      "type": "definition",
+      "question": "During a group work session, a supervisor asks about the meaning of \"Different Social Agency Settings Are Helped By A W\". What is the most accurate explanation?",
+      "options": {
+        "A": "two or more people with a common interest, interacting.",
+        "B": "a method of social work which helps individuals enhance their.",
+        "C": "those that meet because of external.",
+        "D": "helped by a worker who."
+      },
+      "correctAnswer": "D",
+      "explanation": "Different Social Agency Settings Are Helped By A W is defined as helped by a worker who. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Different Social Agency Settings Are Helped By A W"
+    },
+    {
+      "id": "def_19_v2",
+      "type": "definition",
+      "question": "A social work student is studying group dynamics and needs to explain \"Different Social Agency Settings Are Helped By A W\" to their peers. What definition should they provide?",
+      "options": {
+        "A": "a method of social work which helps individuals enhance their.",
+        "B": "two or more people with a common interest, interacting.",
+        "C": "helped by a worker who.",
+        "D": "those that meet because of external."
+      },
+      "correctAnswer": "C",
+      "explanation": "Different Social Agency Settings Are Helped By A W is defined as helped by a worker who. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Different Social Agency Settings Are Helped By A W"
+    },
+    {
+      "id": "def_22_v0",
+      "type": "definition",
+      "question": "In social work practice, when working with groups, a social worker encounters the concept of \"Elements Of The Different Concepts Are The Indiv\". How should this be understood?",
+      "options": {
+        "A": "a method of social work which helps individuals enhance their.",
+        "B": "those that meet because of external.",
+        "C": "the Individual who is.",
+        "D": "two or more people with a common interest, interacting."
+      },
+      "correctAnswer": "C",
+      "explanation": "Elements Of The Different Concepts Are The Indiv is defined as the Individual who is. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Elements Of The Different Concepts Are The Indiv"
+    },
+    {
+      "id": "def_22_v1",
+      "type": "definition",
+      "question": "During a group work session, a supervisor asks about the meaning of \"Elements Of The Different Concepts Are The Indiv\". What is the most accurate explanation?",
+      "options": {
+        "A": "the Individual who is.",
+        "B": "a method of social work which helps individuals enhance their.",
+        "C": "two or more people with a common interest, interacting.",
+        "D": "those that meet because of external."
+      },
+      "correctAnswer": "A",
+      "explanation": "Elements Of The Different Concepts Are The Indiv is defined as the Individual who is. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Elements Of The Different Concepts Are The Indiv"
+    },
+    {
+      "id": "def_22_v2",
+      "type": "definition",
+      "question": "A social work student is studying group dynamics and needs to explain \"Elements Of The Different Concepts Are The Indiv\" to their peers. What definition should they provide?",
+      "options": {
+        "A": "the Individual who is.",
+        "B": "a method of social work which helps individuals enhance their.",
+        "C": "two or more people with a common interest, interacting.",
+        "D": "those that meet because of external."
+      },
+      "correctAnswer": "A",
+      "explanation": "Elements Of The Different Concepts Are The Indiv is defined as the Individual who is. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Elements Of The Different Concepts Are The Indiv"
+    },
+    {
+      "id": "def_25_v0",
+      "type": "definition",
+      "question": "In social work practice, when working with groups, a social worker encounters the concept of \"Ingroups And Outgroups Are Sociological Terms Wher\". How should this be understood?",
+      "options": {
+        "A": "a method of social work which helps individuals enhance their.",
+        "B": "those that meet because of external.",
+        "C": "sociological terms where persons refer to.",
+        "D": "two or more people with a common interest, interacting."
+      },
+      "correctAnswer": "C",
+      "explanation": "Ingroups And Outgroups Are Sociological Terms Wher is defined as sociological terms where persons refer to. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Ingroups And Outgroups Are Sociological Terms Wher"
+    },
+    {
+      "id": "def_25_v1",
+      "type": "definition",
+      "question": "During a group work session, a supervisor asks about the meaning of \"Ingroups And Outgroups Are Sociological Terms Wher\". What is the most accurate explanation?",
+      "options": {
+        "A": "two or more people with a common interest, interacting.",
+        "B": "those that meet because of external.",
+        "C": "sociological terms where persons refer to.",
+        "D": "a method of social work which helps individuals enhance their."
+      },
+      "correctAnswer": "C",
+      "explanation": "Ingroups And Outgroups Are Sociological Terms Wher is defined as sociological terms where persons refer to. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Ingroups And Outgroups Are Sociological Terms Wher"
+    },
+    {
+      "id": "def_25_v2",
+      "type": "definition",
+      "question": "A social work student is studying group dynamics and needs to explain \"Ingroups And Outgroups Are Sociological Terms Wher\" to their peers. What definition should they provide?",
+      "options": {
+        "A": "two or more people with a common interest, interacting.",
+        "B": "a method of social work which helps individuals enhance their.",
+        "C": "those that meet because of external.",
+        "D": "sociological terms where persons refer to."
+      },
+      "correctAnswer": "D",
+      "explanation": "Ingroups And Outgroups Are Sociological Terms Wher is defined as sociological terms where persons refer to. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Ingroups And Outgroups Are Sociological Terms Wher"
+    },
+    {
+      "id": "def_28_v0",
+      "type": "definition",
+      "question": "In social work practice, when working with groups, a social worker encounters the concept of \"Ethnocentrism While Outgroups Are Not Similarity\". How should this be understood?",
+      "options": {
+        "A": "not. Similarity in behavior, attitude.",
+        "B": "two or more people with a common interest, interacting.",
+        "C": "those that meet because of external.",
+        "D": "a method of social work which helps individuals enhance their."
+      },
+      "correctAnswer": "A",
+      "explanation": "Ethnocentrism While Outgroups Are Not Similarity is defined as not. Similarity in behavior, attitude. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Ethnocentrism While Outgroups Are Not Similarity"
+    },
+    {
+      "id": "def_28_v1",
+      "type": "definition",
+      "question": "During a group work session, a supervisor asks about the meaning of \"Ethnocentrism While Outgroups Are Not Similarity\". What is the most accurate explanation?",
+      "options": {
+        "A": "a method of social work which helps individuals enhance their.",
+        "B": "those that meet because of external.",
+        "C": "not. Similarity in behavior, attitude.",
+        "D": "two or more people with a common interest, interacting."
+      },
+      "correctAnswer": "C",
+      "explanation": "Ethnocentrism While Outgroups Are Not Similarity is defined as not. Similarity in behavior, attitude. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Ethnocentrism While Outgroups Are Not Similarity"
+    },
+    {
+      "id": "def_28_v2",
+      "type": "definition",
+      "question": "A social work student is studying group dynamics and needs to explain \"Ethnocentrism While Outgroups Are Not Similarity\" to their peers. What definition should they provide?",
+      "options": {
+        "A": "a method of social work which helps individuals enhance their.",
+        "B": "not. Similarity in behavior, attitude.",
+        "C": "two or more people with a common interest, interacting.",
+        "D": "those that meet because of external."
+      },
+      "correctAnswer": "B",
+      "explanation": "Ethnocentrism While Outgroups Are Not Similarity is defined as not. Similarity in behavior, attitude. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Ethnocentrism While Outgroups Are Not Similarity"
+    },
+    {
+      "id": "def_31_v0",
+      "type": "definition",
+      "question": "In social work practice, when working with groups, a social worker encounters the concept of \"Group As Medium Of Change\". How should this be understood?",
+      "options": {
+        "A": "those that meet because of external.",
+        "B": "the influence of the.",
+        "C": "a method of social work which helps individuals enhance their.",
+        "D": "two or more people with a common interest, interacting."
+      },
+      "correctAnswer": "B",
+      "explanation": "Group As Medium Of Change is defined as the influence of the. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Group As Medium Of Change"
+    },
+    {
+      "id": "def_31_v1",
+      "type": "definition",
+      "question": "During a group work session, a supervisor asks about the meaning of \"Group As Medium Of Change\". What is the most accurate explanation?",
+      "options": {
+        "A": "those that meet because of external.",
+        "B": "two or more people with a common interest, interacting.",
+        "C": "a method of social work which helps individuals enhance their.",
+        "D": "the influence of the."
+      },
+      "correctAnswer": "D",
+      "explanation": "Group As Medium Of Change is defined as the influence of the. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Group As Medium Of Change"
+    },
+    {
+      "id": "def_31_v2",
+      "type": "definition",
+      "question": "A social work student is studying group dynamics and needs to explain \"Group As Medium Of Change\" to their peers. What definition should they provide?",
+      "options": {
+        "A": "a method of social work which helps individuals enhance their.",
+        "B": "two or more people with a common interest, interacting.",
+        "C": "those that meet because of external.",
+        "D": "the influence of the."
+      },
+      "correctAnswer": "D",
+      "explanation": "Group As Medium Of Change is defined as the influence of the. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Group As Medium Of Change"
+    },
+    {
+      "id": "def_34_v0",
+      "type": "definition",
+      "question": "In social work practice, when working with groups, a social worker encounters the concept of \"Belonging Are Among Those The Group Can Teach Him\". How should this be understood?",
+      "options": {
+        "A": "two or more people with a common interest, interacting.",
+        "B": "a method of social work which helps individuals enhance their.",
+        "C": "those that meet because of external.",
+        "D": "among those the group can teach him. Those."
+      },
+      "correctAnswer": "D",
+      "explanation": "Belonging Are Among Those The Group Can Teach Him is defined as among those the group can teach him. Those. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Belonging Are Among Those The Group Can Teach Him"
+    },
+    {
+      "id": "def_34_v1",
+      "type": "definition",
+      "question": "During a group work session, a supervisor asks about the meaning of \"Belonging Are Among Those The Group Can Teach Him\". What is the most accurate explanation?",
+      "options": {
+        "A": "those that meet because of external.",
+        "B": "among those the group can teach him. Those.",
+        "C": "two or more people with a common interest, interacting.",
+        "D": "a method of social work which helps individuals enhance their."
+      },
+      "correctAnswer": "B",
+      "explanation": "Belonging Are Among Those The Group Can Teach Him is defined as among those the group can teach him. Those. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Belonging Are Among Those The Group Can Teach Him"
+    },
+    {
+      "id": "def_34_v2",
+      "type": "definition",
+      "question": "A social work student is studying group dynamics and needs to explain \"Belonging Are Among Those The Group Can Teach Him\" to their peers. What definition should they provide?",
+      "options": {
+        "A": "those that meet because of external.",
+        "B": "two or more people with a common interest, interacting.",
+        "C": "among those the group can teach him. Those.",
+        "D": "a method of social work which helps individuals enhance their."
+      },
+      "correctAnswer": "C",
+      "explanation": "Belonging Are Among Those The Group Can Teach Him is defined as among those the group can teach him. Those. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Belonging Are Among Those The Group Can Teach Him"
+    },
+    {
+      "id": "def_37_v0",
+      "type": "definition",
+      "question": "In social work practice, when working with groups, a social worker encounters the concept of \"Group As Agent Of Change\". How should this be understood?",
+      "options": {
+        "A": "two or more people with a common interest, interacting.",
+        "B": "a method of social work which helps individuals enhance their.",
+        "C": "those that meet because of external.",
+        "D": "working with the group to."
+      },
+      "correctAnswer": "D",
+      "explanation": "Group As Agent Of Change is defined as working with the group to. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Group As Agent Of Change"
+    },
+    {
+      "id": "def_37_v1",
+      "type": "definition",
+      "question": "During a group work session, a supervisor asks about the meaning of \"Group As Agent Of Change\". What is the most accurate explanation?",
+      "options": {
+        "A": "two or more people with a common interest, interacting.",
+        "B": "working with the group to.",
+        "C": "a method of social work which helps individuals enhance their.",
+        "D": "those that meet because of external."
+      },
+      "correctAnswer": "B",
+      "explanation": "Group As Agent Of Change is defined as working with the group to. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Group As Agent Of Change"
+    },
+    {
+      "id": "def_37_v2",
+      "type": "definition",
+      "question": "A social work student is studying group dynamics and needs to explain \"Group As Agent Of Change\" to their peers. What definition should they provide?",
+      "options": {
+        "A": "two or more people with a common interest, interacting.",
+        "B": "working with the group to.",
+        "C": "a method of social work which helps individuals enhance their.",
+        "D": "those that meet because of external."
+      },
+      "correctAnswer": "B",
+      "explanation": "Group As Agent Of Change is defined as working with the group to. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Group As Agent Of Change"
+    },
+    {
+      "id": "def_40_v0",
+      "type": "definition",
+      "question": "In social work practice, when working with groups, a social worker encounters the concept of \"Vinter And Galinsky\". How should this be understood?",
+      "options": {
+        "A": "those that meet because of external.",
+        "B": "two or more people with a common interest, interacting.",
+        "C": "two kinds of groups in the.",
+        "D": "a method of social work which helps individuals enhance their."
+      },
+      "correctAnswer": "C",
+      "explanation": "Vinter And Galinsky is defined as two kinds of groups in the. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Vinter And Galinsky"
+    },
+    {
+      "id": "def_40_v1",
+      "type": "definition",
+      "question": "During a group work session, a supervisor asks about the meaning of \"Vinter And Galinsky\". What is the most accurate explanation?",
+      "options": {
+        "A": "a method of social work which helps individuals enhance their.",
+        "B": "those that meet because of external.",
+        "C": "two or more people with a common interest, interacting.",
+        "D": "two kinds of groups in the."
+      },
+      "correctAnswer": "D",
+      "explanation": "Vinter And Galinsky is defined as two kinds of groups in the. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Vinter And Galinsky"
+    },
+    {
+      "id": "def_40_v2",
+      "type": "definition",
+      "question": "A social work student is studying group dynamics and needs to explain \"Vinter And Galinsky\" to their peers. What definition should they provide?",
+      "options": {
+        "A": "those that meet because of external.",
+        "B": "two kinds of groups in the.",
+        "C": "a method of social work which helps individuals enhance their.",
+        "D": "two or more people with a common interest, interacting."
+      },
+      "correctAnswer": "B",
+      "explanation": "Vinter And Galinsky is defined as two kinds of groups in the. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Vinter And Galinsky"
+    },
+    {
+      "id": "def_43_v0",
+      "type": "definition",
+      "question": "In social work practice, when working with groups, a social worker encounters the concept of \"The Members Are Would Lead To Better Cognition Of\". How should this be understood?",
+      "options": {
+        "A": "a method of social work which helps individuals enhance their.",
+        "B": "would lead to better cognition of their.",
+        "C": "two or more people with a common interest, interacting.",
+        "D": "those that meet because of external."
+      },
+      "correctAnswer": "B",
+      "explanation": "The Members Are Would Lead To Better Cognition Of is defined as would lead to better cognition of their. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "The Members Are Would Lead To Better Cognition Of"
+    },
+    {
+      "id": "def_43_v1",
+      "type": "definition",
+      "question": "During a group work session, a supervisor asks about the meaning of \"The Members Are Would Lead To Better Cognition Of\". What is the most accurate explanation?",
+      "options": {
+        "A": "a method of social work which helps individuals enhance their.",
+        "B": "those that meet because of external.",
+        "C": "two or more people with a common interest, interacting.",
+        "D": "would lead to better cognition of their."
+      },
+      "correctAnswer": "D",
+      "explanation": "The Members Are Would Lead To Better Cognition Of is defined as would lead to better cognition of their. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "The Members Are Would Lead To Better Cognition Of"
+    },
+    {
+      "id": "def_43_v2",
+      "type": "definition",
+      "question": "A social work student is studying group dynamics and needs to explain \"The Members Are Would Lead To Better Cognition Of\" to their peers. What definition should they provide?",
+      "options": {
+        "A": "two or more people with a common interest, interacting.",
+        "B": "would lead to better cognition of their.",
+        "C": "those that meet because of external.",
+        "D": "a method of social work which helps individuals enhance their."
+      },
+      "correctAnswer": "B",
+      "explanation": "The Members Are Would Lead To Better Cognition Of is defined as would lead to better cognition of their. This concept is fundamental to understanding social group work practice and is derived from the professional literature on group dynamics and social work methodology.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).txt",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "The Members Are Would Lead To Better Cognition Of"
+    },
+    {
+      "id": "concept_46",
+      "type": "concept",
+      "question": "In social work group practice, what does \"Natural Groups\" specifically mean?",
+      "options": {
+        "A": "An administrative process for organizing community resources.",
+        "B": "formed thru unplanned gatherings, mutual attraction or perceived needs.",
+        "C": "A research methodology for studying organizational behavior.",
+        "D": "A method focused primarily on individual counseling techniques."
+      },
+      "correctAnswer": "B",
+      "explanation": "Natural Groups is defined as formed thru unplanned gatherings, mutual attraction or perceived needs. This understanding is essential for effective social group work practice.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1)",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Natural Groups"
+    },
+    {
+      "id": "concept_47",
+      "type": "concept",
+      "question": "In social work group practice, what does \"The Focus Of Change\" specifically mean?",
+      "options": {
+        "A": "A method designed for community organization work.",
+        "B": "the individual member.",
+        "C": "An approach focused on policy development and advocacy.",
+        "D": "A technique primarily used in case management practice."
+      },
+      "correctAnswer": "B",
+      "explanation": "The Focus Of Change is defined as the individual member. This understanding is essential for effective social group work practice.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1)",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "The Focus Of Change"
+    },
+    {
+      "id": "concept_48",
+      "type": "concept",
+      "question": "In social work group practice, what does \"And Opinion\" specifically mean?",
+      "options": {
+        "A": "A method designed for community organization work.",
+        "B": "A technique primarily used in case management practice.",
+        "C": "observed among the members of ingroup.",
+        "D": "An approach focused on policy development and advocacy."
+      },
+      "correctAnswer": "C",
+      "explanation": "And Opinion is defined as observed among the members of ingroup. This understanding is essential for effective social group work practice.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1)",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "And Opinion"
+    },
+    {
+      "id": "concept_49",
+      "type": "concept",
+      "question": "In social work group practice, what does \"Belonging\" specifically mean?",
+      "options": {
+        "A": "among those the group can teach him.",
+        "B": "An approach focused on policy development and advocacy.",
+        "C": "A technique primarily used in case management practice.",
+        "D": "A method designed for community organization work."
+      },
+      "correctAnswer": "A",
+      "explanation": "Belonging is defined as among those the group can teach him. This understanding is essential for effective social group work practice.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1)",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Belonging"
+    },
+    {
+      "id": "concept_50",
+      "type": "concept",
+      "question": "In social work group practice, what does \"Connections\" specifically mean?",
+      "options": {
+        "A": "A method designed for community organization work.",
+        "B": "part of the package for the recipients.",
+        "C": "A technique primarily used in case management practice.",
+        "D": "An approach focused on policy development and advocacy."
+      },
+      "correctAnswer": "B",
+      "explanation": "Connections is defined as part of the package for the recipients. This understanding is essential for effective social group work practice.",
+      "source": "Concepts Used and Key Historical Events in Social Groupwork Practice (1)",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Connections"
+    },
+    {
+      "id": "concept_51",
+      "type": "concept",
+      "question": "In social work group practice, what does \"Goals\" specifically mean?",
+      "options": {
+        "A": "A technique primarily used in case management practice.",
+        "B": "A method designed for community organization work.",
+        "C": "a judgement that a practitioner to make.",
+        "D": "An approach focused on policy development and advocacy."
+      },
+      "correctAnswer": "C",
+      "explanation": "Goals is defined as a judgement that a practitioner to make. This understanding is essential for effective social group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Goals"
+    },
+    {
+      "id": "concept_52",
+      "type": "concept",
+      "question": "In social work group practice, what does \"Members\" specifically mean?",
+      "options": {
+        "A": "A technique primarily used in case management practice.",
+        "B": "An approach focused on policy development and advocacy.",
+        "C": "left to function or struggle by themselves.",
+        "D": "A method designed for community organization work."
+      },
+      "correctAnswer": "C",
+      "explanation": "Members is defined as left to function or struggle by themselves. This understanding is essential for effective social group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Members"
+    },
+    {
+      "id": "concept_53",
+      "type": "concept",
+      "question": "In social work group practice, what does \"Grace Coyle\" specifically mean?",
+      "options": {
+        "A": "collective self-.",
+        "B": "An approach focused on policy development and advocacy.",
+        "C": "A technique primarily used in case management practice.",
+        "D": "A method designed for community organization work."
+      },
+      "correctAnswer": "A",
+      "explanation": "Grace Coyle is defined as collective self-. This understanding is essential for effective social group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Grace Coyle"
+    },
+    {
+      "id": "concept_54",
+      "type": "concept",
+      "question": "In social work group practice, what does \"Helen Phillip\" specifically mean?",
+      "options": {
+        "A": "An approach focused on policy development and advocacy.",
+        "B": "A technique primarily used in case management practice.",
+        "C": "A method designed for community organization work.",
+        "D": "importance of."
+      },
+      "correctAnswer": "D",
+      "explanation": "Helen Phillip is defined as importance of. This understanding is essential for effective social group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Helen Phillip"
+    },
+    {
+      "id": "concept_55",
+      "type": "concept",
+      "question": "In social work group practice, what does \"Schwartz\" specifically mean?",
+      "options": {
+        "A": "A method designed for community organization work.",
+        "B": "An approach focused on policy development and advocacy.",
+        "C": "A technique primarily used in case management practice.",
+        "D": "group function."
+      },
+      "correctAnswer": "D",
+      "explanation": "Schwartz is defined as group function. This understanding is essential for effective social group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Schwartz"
+    },
+    {
+      "id": "concept_56",
+      "type": "concept",
+      "question": "In social work group practice, what does \"Clients\" specifically mean?",
+      "options": {
+        "A": "A method designed for community organization work.",
+        "B": "Sectors affected by.",
+        "C": "A technique primarily used in case management practice.",
+        "D": "An approach focused on policy development and advocacy."
+      },
+      "correctAnswer": "B",
+      "explanation": "Clients is defined as Sectors affected by. This understanding is essential for effective social group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Clients"
+    },
+    {
+      "id": "concept_57",
+      "type": "concept",
+      "question": "In social work group practice, what does \"Goal\" specifically mean?",
+      "options": {
+        "A": "A method designed for community organization work.",
+        "B": "To tap unused.",
+        "C": "A technique primarily used in case management practice.",
+        "D": "An approach focused on policy development and advocacy."
+      },
+      "correctAnswer": "B",
+      "explanation": "Goal is defined as To tap unused. This understanding is essential for effective social group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Goal"
+    },
+    {
+      "id": "concept_58",
+      "type": "concept",
+      "question": "In social work group practice, what does \"Resources Are\" specifically mean?",
+      "options": {
+        "A": "worker member.",
+        "B": "A method designed for community organization work.",
+        "C": "A technique primarily used in case management practice.",
+        "D": "An approach focused on policy development and advocacy."
+      },
+      "correctAnswer": "A",
+      "explanation": "Resources Are is defined as worker  member. This understanding is essential for effective social group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Resources Are"
+    },
+    {
+      "id": "concept_59",
+      "type": "concept",
+      "question": "In social work group practice, what does \"Movement\" specifically mean?",
+      "options": {
+        "A": "A technique primarily used in case management practice.",
+        "B": "A method designed for community organization work.",
+        "C": "An approach focused on policy development and advocacy.",
+        "D": "not linear and not clearly demarcated."
+      },
+      "correctAnswer": "D",
+      "explanation": "Movement is defined as not linear and not clearly demarcated. This understanding is essential for effective social group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Movement"
+    },
+    {
+      "id": "concept_60",
+      "type": "concept",
+      "question": "In social work group practice, what does \"Whatever\" specifically mean?",
+      "options": {
+        "A": "still possible.",
+        "B": "An approach focused on policy development and advocacy.",
+        "C": "A technique primarily used in case management practice.",
+        "D": "A method designed for community organization work."
+      },
+      "correctAnswer": "A",
+      "explanation": "Whatever is defined as still possible. This understanding is essential for effective social group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Whatever"
+    },
+    {
+      "id": "concept_61",
+      "type": "concept",
+      "question": "In social work group practice, what does \"Tasks Undertaken In This Activity\" specifically mean?",
+      "options": {
+        "A": "A technique primarily used in case management practice.",
+        "B": "An approach focused on policy development and advocacy.",
+        "C": "Group Composition and Group Formation.",
+        "D": "A method designed for community organization work."
+      },
+      "correctAnswer": "C",
+      "explanation": "Tasks Undertaken In This Activity is defined as Group Composition and Group Formation. This understanding is essential for effective social group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Tasks Undertaken In This Activity"
+    },
+    {
+      "id": "concept_62",
+      "type": "concept",
+      "question": "In social work group practice, what does \"Program Media\" specifically mean?",
+      "options": {
+        "A": "A method designed for community organization work.",
+        "B": "An approach focused on policy development and advocacy.",
+        "C": "tools used by the group worker in working with groups to achieve goals.",
+        "D": "A technique primarily used in case management practice."
+      },
+      "correctAnswer": "C",
+      "explanation": "Program Media is defined as tools used by the group worker in working with groups to achieve goals. This understanding is essential for effective social group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Program Media"
+    },
+    {
+      "id": "concept_63",
+      "type": "concept",
+      "question": "In social work group practice, what does \"Examples\" specifically mean?",
+      "options": {
+        "A": "An approach focused on policy development and advocacy.",
+        "B": "Group discussions, role play, group dynamics exercises, play activities, film showing,.",
+        "C": "A technique primarily used in case management practice.",
+        "D": "A method designed for community organization work."
+      },
+      "correctAnswer": "B",
+      "explanation": "Examples is defined as Group discussions, role play, group dynamics exercises, play activities, film showing,. This understanding is essential for effective social group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Examples"
+    },
+    {
+      "id": "concept_64",
+      "type": "concept",
+      "question": "In social work group practice, what does \"Helping Process\" specifically mean?",
+      "options": {
+        "A": "thus needed.",
+        "B": "A supervisory technique for evaluating worker performance.",
+        "C": "A static framework that remains unchanged throughout intervention.",
+        "D": "A documentation system for recording client information."
+      },
+      "correctAnswer": "A",
+      "explanation": "Helping Process is defined as thus needed. This understanding is essential for effective social group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Group Process",
+      "concept": "Helping Process"
+    },
+    {
+      "id": "concept_65",
+      "type": "concept",
+      "question": "In social work group practice, what does \"Frequency\" specifically mean?",
+      "options": {
+        "A": "as planned (monthly, quarterly or semiannually).",
+        "B": "A method designed for community organization work.",
+        "C": "An approach focused on policy development and advocacy.",
+        "D": "A technique primarily used in case management practice."
+      },
+      "correctAnswer": "A",
+      "explanation": "Frequency is defined as as planned (monthly, quarterly or semiannually).. This understanding is essential for effective social group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Frequency"
+    },
+    {
+      "id": "concept_66",
+      "type": "concept",
+      "question": "In social work group practice, what does \"Refinement\" specifically mean?",
+      "options": {
+        "A": "A technique primarily used in case management practice.",
+        "B": "A method designed for community organization work.",
+        "C": "The worker tracks the progress of the group towards the goal. Results can.",
+        "D": "An approach focused on policy development and advocacy."
+      },
+      "correctAnswer": "C",
+      "explanation": "Refinement is defined as The worker tracks the progress of the group towards the goal. Results can. This understanding is essential for effective social group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "General Social Work",
+      "concept": "Refinement"
+    },
+    {
+      "id": "rel_67",
+      "type": "relationship",
+      "question": "How does group formation relate to group development in social group work?",
+      "options": {
+        "A": "group formation contradicts group development",
+        "B": "group formation is unrelated to group development",
+        "C": "group formation precedes group development",
+        "D": "group formation is identical to group development"
+      },
+      "correctAnswer": "C",
+      "explanation": "group formation precedes group development. Understanding these relationships is crucial for effective group work practice.",
+      "source": "Conceptual Relationships",
+      "difficulty": "medium",
+      "topic": "Conceptual Understanding",
+      "concept": "group formation-group development"
+    },
+    {
+      "id": "rel_68",
+      "type": "relationship",
+      "question": "How does group norms relate to group cohesion in social group work?",
+      "options": {
+        "A": "group norms influences group cohesion",
+        "B": "group norms is identical to group cohesion",
+        "C": "group norms contradicts group cohesion",
+        "D": "group norms is unrelated to group cohesion"
+      },
+      "correctAnswer": "A",
+      "explanation": "group norms influences group cohesion. Understanding these relationships is crucial for effective group work practice.",
+      "source": "Conceptual Relationships",
+      "difficulty": "medium",
+      "topic": "Conceptual Understanding",
+      "concept": "group norms-group cohesion"
+    },
+    {
+      "id": "rel_69",
+      "type": "relationship",
+      "question": "How does social worker relate to group process in social group work?",
+      "options": {
+        "A": "social worker is identical to group process",
+        "B": "social worker contradicts group process",
+        "C": "social worker is unrelated to group process",
+        "D": "social worker facilitates group process"
+      },
+      "correctAnswer": "D",
+      "explanation": "social worker facilitates group process. Understanding these relationships is crucial for effective group work practice.",
+      "source": "Conceptual Relationships",
+      "difficulty": "medium",
+      "topic": "Conceptual Understanding",
+      "concept": "social worker-group process"
+    },
+    {
+      "id": "rel_70",
+      "type": "relationship",
+      "question": "How does treatment groups relate to task groups in social group work?",
+      "options": {
+        "A": "treatment groups is identical to task groups",
+        "B": "treatment groups contradicts task groups",
+        "C": "treatment groups is unrelated to task groups",
+        "D": "treatment groups differs from task groups"
+      },
+      "correctAnswer": "D",
+      "explanation": "treatment groups differs from task groups. Understanding these relationships is crucial for effective group work practice.",
+      "source": "Conceptual Relationships",
+      "difficulty": "medium",
+      "topic": "Conceptual Understanding",
+      "concept": "treatment groups-task groups"
+    },
+    {
+      "id": "app_71",
+      "type": "application",
+      "question": "When would a social worker most appropriately apply the concept of mutual aid?",
+      "options": {
+        "A": "When conducting individual therapy sessions",
+        "B": "When attending staff meetings",
+        "C": "When writing administrative reports",
+        "D": "When group members supporting each other"
+      },
+      "correctAnswer": "D",
+      "explanation": "mutual aid is most appropriately applied group members supporting each other. This application demonstrates understanding of when and how to use this concept effectively.",
+      "source": "Practice Application",
+      "difficulty": "medium",
+      "topic": "Application",
+      "concept": "mutual aid"
+    },
+    {
+      "id": "app_72",
+      "type": "application",
+      "question": "When would a social worker most appropriately apply the concept of group cohesion?",
+      "options": {
+        "A": "When conducting individual therapy sessions",
+        "B": "When attending staff meetings",
+        "C": "When writing administrative reports",
+        "D": "When building unity in the group"
+      },
+      "correctAnswer": "D",
+      "explanation": "group cohesion is most appropriately applied building unity in the group. This application demonstrates understanding of when and how to use this concept effectively.",
+      "source": "Practice Application",
+      "difficulty": "medium",
+      "topic": "Application",
+      "concept": "group cohesion"
+    },
+    {
+      "id": "app_73",
+      "type": "application",
+      "question": "When would a social worker most appropriately apply the concept of group norms?",
+      "options": {
+        "A": "When writing administrative reports",
+        "B": "When attending staff meetings",
+        "C": "When establishing behavioral expectations",
+        "D": "When conducting individual therapy sessions"
+      },
+      "correctAnswer": "C",
+      "explanation": "group norms is most appropriately applied establishing behavioral expectations. This application demonstrates understanding of when and how to use this concept effectively.",
+      "source": "Practice Application",
+      "difficulty": "medium",
+      "topic": "Application",
+      "concept": "group norms"
+    },
+    {
+      "id": "char_74",
+      "type": "characteristic",
+      "question": "What are the key characteristics of formed groups?",
+      "options": {
+        "A": "Rigid structure, formal procedures, hierarchical organization",
+        "B": "external influence, specific purpose, planned",
+        "C": "Administrative emphasis, bureaucratic processes, policy orientation",
+        "D": "Individual focus, isolated practice, competitive dynamics"
+      },
+      "correctAnswer": "B",
+      "explanation": "formed groups is characterized by: external influence, specific purpose, planned. These characteristics distinguish this concept from other related concepts in social work practice.",
+      "source": "Conceptual Characteristics",
+      "difficulty": "medium",
+      "topic": "Conceptual Understanding",
+      "concept": "formed groups"
+    },
+    {
+      "id": "char_75",
+      "type": "characteristic",
+      "question": "What are the key characteristics of natural groups?",
+      "options": {
+        "A": "Rigid structure, formal procedures, hierarchical organization",
+        "B": "Individual focus, isolated practice, competitive dynamics",
+        "C": "unplanned, mutual attraction, organic development",
+        "D": "Administrative emphasis, bureaucratic processes, policy orientation"
+      },
+      "correctAnswer": "C",
+      "explanation": "natural groups is characterized by: unplanned, mutual attraction, organic development. These characteristics distinguish this concept from other related concepts in social work practice.",
+      "source": "Conceptual Characteristics",
+      "difficulty": "medium",
+      "topic": "Conceptual Understanding",
+      "concept": "natural groups"
+    },
+    {
+      "id": "scenario_76",
+      "type": "scenario",
+      "question": "A social worker is facilitating a support group for individuals dealing with grief. During the third session, one member becomes very emotional and starts crying.\n\nWhat is the most appropriate response for the social worker?",
+      "options": {
+        "A": "Immediately redirect the conversation to avoid discomfort",
+        "B": "Ask the crying member to leave until they can compose themselves",
+        "C": "Allow the emotional expression while maintaining group safety and encouraging mutual support",
+        "D": "Focus solely on the crying member and ignore other group members"
+      },
+      "correctAnswer": "C",
+      "explanation": "The correct approach is: Allow the emotional expression while maintaining group safety and encouraging mutual support. This response aligns with social work principles and best practices for group process.",
+      "source": "Social Work Practice Scenarios",
+      "difficulty": "hard",
+      "topic": "Practice Application",
+      "concept": "group process"
+    },
+    {
+      "id": "scenario_77",
+      "type": "scenario",
+      "question": "In a task group working on community advocacy, members are having difficulty reaching consensus on their approach.\n\nWhat is the most appropriate response for the social worker?",
+      "options": {
+        "A": "Make the decision for the group to save time",
+        "B": "Postpone the decision indefinitely to avoid conflict",
+        "C": "Let the most vocal member decide for everyone",
+        "D": "Facilitate discussion to explore different viewpoints and guide toward collaborative solution"
+      },
+      "correctAnswer": "D",
+      "explanation": "The correct approach is: Facilitate discussion to explore different viewpoints and guide toward collaborative solution. This response aligns with social work principles and best practices for group decision making.",
+      "source": "Social Work Practice Scenarios",
+      "difficulty": "hard",
+      "topic": "Practice Application",
+      "concept": "group decision making"
+    },
+    {
+      "id": "scenario_78",
+      "type": "scenario",
+      "question": "A group member consistently dominates discussions and interrupts others.\n\nWhat is the most appropriate response for the social worker?",
+      "options": {
+        "A": "Address the behavior directly while maintaining respect and exploring underlying needs",
+        "B": "Ignore the behavior hoping it will resolve itself",
+        "C": "Remove the member from the group immediately",
+        "D": "Publicly embarrass the member to stop the behavior"
+      },
+      "correctAnswer": "A",
+      "explanation": "The correct approach is: Address the behavior directly while maintaining respect and exploring underlying needs. This response aligns with social work principles and best practices for group roles.",
+      "source": "Social Work Practice Scenarios",
+      "difficulty": "hard",
+      "topic": "Practice Application",
+      "concept": "group roles"
+    },
+    {
+      "id": "scenario_79",
+      "type": "scenario",
+      "question": "A therapy group has developed strong cohesion but is resistant to addressing difficult topics.\n\nWhat is the most appropriate response for the social worker?",
+      "options": {
+        "A": "Accept the resistance and avoid challenging topics entirely",
+        "B": "Gently challenge the group while maintaining safety and exploring resistance",
+        "C": "Force the group to discuss difficult topics immediately",
+        "D": "Disband the group and start over with new members"
+      },
+      "correctAnswer": "B",
+      "explanation": "The correct approach is: Gently challenge the group while maintaining safety and exploring resistance. This response aligns with social work principles and best practices for group intervention.",
+      "source": "Social Work Practice Scenarios",
+      "difficulty": "hard",
+      "topic": "Practice Application",
+      "concept": "group intervention"
+    },
+    {
+      "id": "app_80",
+      "type": "application",
+      "question": "When would a social worker most appropriately apply the concept of undefined?",
+      "options": {
+        "A": "When conducting individual therapy sessions",
+        "B": "When attending staff meetings",
+        "C": "When writing administrative reports",
+        "D": "When undefined"
+      },
+      "correctAnswer": "D",
+      "explanation": "undefined is most appropriately applied undefined. This application demonstrates understanding of when and how to use this concept effectively.",
+      "source": "Practice Application",
+      "difficulty": "medium",
+      "topic": "Application"
+    },
+    {
+      "id": "app_81",
+      "type": "application",
+      "question": "When would a social worker most appropriately apply the concept of undefined?",
+      "options": {
+        "A": "When attending staff meetings",
+        "B": "When undefined",
+        "C": "When conducting individual therapy sessions",
+        "D": "When writing administrative reports"
+      },
+      "correctAnswer": "B",
+      "explanation": "undefined is most appropriately applied undefined. This application demonstrates understanding of when and how to use this concept effectively.",
+      "source": "Practice Application",
+      "difficulty": "medium",
+      "topic": "Application"
+    },
+    {
+      "id": "app_82",
+      "type": "application",
+      "question": "When would a social worker most appropriately apply the concept of undefined?",
+      "options": {
+        "A": "When undefined",
+        "B": "When attending staff meetings",
+        "C": "When writing administrative reports",
+        "D": "When conducting individual therapy sessions"
+      },
+      "correctAnswer": "A",
+      "explanation": "undefined is most appropriately applied undefined. This application demonstrates understanding of when and how to use this concept effectively.",
+      "source": "Practice Application",
+      "difficulty": "medium",
+      "topic": "Application"
+    },
+    {
+      "id": "app_83",
+      "type": "application",
+      "question": "When would a social worker most appropriately apply the concept of active listening?",
+      "options": {
+        "A": "When attending staff meetings",
+        "B": "When facilitating group communication and understanding",
+        "C": "When conducting individual therapy sessions",
+        "D": "When writing administrative reports"
+      },
+      "correctAnswer": "B",
+      "explanation": "active listening is most appropriately applied facilitating group communication and understanding. This application demonstrates understanding of when and how to use this concept effectively.",
+      "source": "Practice Application",
+      "difficulty": "medium",
+      "topic": "Application",
+      "concept": "active listening"
+    },
+    {
+      "id": "app_84",
+      "type": "application",
+      "question": "When would a social worker most appropriately apply the concept of conflict resolution?",
+      "options": {
+        "A": "When conducting individual therapy sessions",
+        "B": "When attending staff meetings",
+        "C": "When addressing disagreements between group members",
+        "D": "When writing administrative reports"
+      },
+      "correctAnswer": "C",
+      "explanation": "conflict resolution is most appropriately applied addressing disagreements between group members. This application demonstrates understanding of when and how to use this concept effectively.",
+      "source": "Practice Application",
+      "difficulty": "medium",
+      "topic": "Application",
+      "concept": "conflict resolution"
+    },
+    {
+      "id": "app_85",
+      "type": "application",
+      "question": "When would a social worker most appropriately apply the concept of group facilitation?",
+      "options": {
+        "A": "When attending staff meetings",
+        "B": "When conducting individual therapy sessions",
+        "C": "When writing administrative reports",
+        "D": "When guiding group process and maintaining focus"
+      },
+      "correctAnswer": "D",
+      "explanation": "group facilitation is most appropriately applied guiding group process and maintaining focus. This application demonstrates understanding of when and how to use this concept effectively.",
+      "source": "Practice Application",
+      "difficulty": "medium",
+      "topic": "Application",
+      "concept": "group facilitation"
+    }
+  ]
+}

@@ -1,0 +1,1921 @@
+{
+  "setId": 4,
+  "title": "Social Work Group Practice Exam Set 4",
+  "description": "Comprehensive examination covering social group work concepts, practices, and applications. Set 4 of 10.",
+  "questionCount": 100,
+  "topics": [
+    "Professional Practice",
+    "Social Work Practice",
+    "Group Dynamics"
+  ],
+  "difficulty": "mixed",
+  "timeLimit": 120,
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "practice_cultural competence_23",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for cultural competence?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering cultural competence",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective cultural competence requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "cultural competence",
+      "examSetId": 4,
+      "questionNumber": 1
+    },
+    {
+      "id": "practice_member engagement_124",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for member engagement?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering member engagement",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective member engagement requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "member engagement",
+      "examSetId": 4,
+      "questionNumber": 2
+    },
+    {
+      "id": "practice_member engagement_6",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for member engagement?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering member engagement",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective member engagement requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "member engagement",
+      "examSetId": 4,
+      "questionNumber": 3
+    },
+    {
+      "id": "practice_member engagement_28",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for member engagement?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering member engagement",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective member engagement requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "member engagement",
+      "examSetId": 4,
+      "questionNumber": 4
+    },
+    {
+      "id": "practice_group evaluation_90",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for group evaluation?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering group evaluation",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective group evaluation requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "group evaluation",
+      "examSetId": 4,
+      "questionNumber": 5
+    },
+    {
+      "id": "practice_ethical considerations_87",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 4,
+      "questionNumber": 6
+    },
+    {
+      "id": "practice_ethical considerations_51",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 4,
+      "questionNumber": 7
+    },
+    {
+      "id": "practice_cultural competence_12",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for cultural competence?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering cultural competence",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective cultural competence requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "cultural competence",
+      "examSetId": 4,
+      "questionNumber": 8
+    },
+    {
+      "id": "practice_member engagement_25",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for member engagement?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering member engagement",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective member engagement requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "member engagement",
+      "examSetId": 4,
+      "questionNumber": 9
+    },
+    {
+      "id": "expanded_216",
+      "type": "concept",
+      "question": "How is \"Show varying\" best understood in the context of group practice?",
+      "options": {
+        "A": "A supervisory technique for staff development.",
+        "B": "A method primarily used in individual counseling sessions.",
+        "C": "An administrative procedure for case documentation.",
+        "D": "degrees of task accomplishment"
+      },
+      "correctAnswer": "D",
+      "explanation": "Show varying refers to degrees of task accomplishment. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Show varying",
+      "examSetId": 4,
+      "questionNumber": 10
+    },
+    {
+      "id": "expanded_232",
+      "type": "concept",
+      "question": "In social group work, what does \"Intake\" refer to?",
+      "options": {
+        "A": "An administrative procedure for case documentation.",
+        "B": "A supervisory technique for staff development.",
+        "C": "A key concept in social group work practice",
+        "D": "A method primarily used in individual counseling sessions."
+      },
+      "correctAnswer": "C",
+      "explanation": "Intake refers to A key concept in social group work practice. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Intake",
+      "examSetId": 4,
+      "questionNumber": 11
+    },
+    {
+      "id": "expanded_275",
+      "type": "concept",
+      "question": "How is \"The effect is less emotional on close groups where members join and leave the group together as\" best understood in the context of group practice?",
+      "options": {
+        "A": "A method primarily used in individual counseling sessions.",
+        "B": "A supervisory technique for staff development.",
+        "C": "in training group. The termination is done smoothly with each member receiving a certificate of participation.",
+        "D": "An administrative procedure for case documentation."
+      },
+      "correctAnswer": "C",
+      "explanation": "The effect is less emotional on close groups where members join and leave the group together as refers to in training group. The termination is done smoothly with each member receiving a certificate of participation.. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "The effect is less emotional on close groups where members join and leave the group together as",
+      "examSetId": 4,
+      "questionNumber": 12
+    },
+    {
+      "id": "expanded_235",
+      "type": "concept",
+      "question": "How is \"Group development and\" best understood in the context of group practice?",
+      "options": {
+        "A": "A supervisory technique for staff development.",
+        "B": "treatment - a concept fundamental to effective social group work practice.",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "An administrative procedure for case documentation."
+      },
+      "correctAnswer": "B",
+      "explanation": "Group development and refers to treatment. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Group development and",
+      "examSetId": 4,
+      "questionNumber": 13
+    },
+    {
+      "id": "expanded_243",
+      "type": "concept",
+      "question": "How is \"Group Integration, Disintegration, and Reintegration Phase\" best understood in the context of group practice?",
+      "options": {
+        "A": "An administrative procedure for case documentation.",
+        "B": "A key concept in social group work practice",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "B",
+      "explanation": "Group Integration, Disintegration, and Reintegration Phase refers to A key concept in social group work practice. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Group Integration, Disintegration, and Reintegration Phase",
+      "examSetId": 4,
+      "questionNumber": 14
+    },
+    {
+      "id": "expanded_224",
+      "type": "concept",
+      "question": "When working with groups, how would you explain \"Helps group with task\"?",
+      "options": {
+        "A": "accomplishment",
+        "B": "A method primarily used in individual counseling sessions.",
+        "C": "An administrative procedure for case documentation.",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "A",
+      "explanation": "Helps group with task refers to accomplishment. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Helps group with task",
+      "examSetId": 4,
+      "questionNumber": 15
+    },
+    {
+      "id": "expanded_242",
+      "type": "concept",
+      "question": "What is the significance of \"Group   Formation Phase\" in social work with groups?",
+      "options": {
+        "A": "A method primarily used in individual counseling sessions.",
+        "B": "A supervisory technique for staff development.",
+        "C": "An administrative procedure for case documentation.",
+        "D": "A key concept in social group work practice"
+      },
+      "correctAnswer": "D",
+      "explanation": "Group   Formation Phase refers to A key concept in social group work practice. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Group   Formation Phase",
+      "examSetId": 4,
+      "questionNumber": 16
+    },
+    {
+      "id": "expanded_207",
+      "type": "concept",
+      "question": "How is \"Group demonstrates\" best understood in the context of group practice?",
+      "options": {
+        "A": "An administrative procedure for case documentation.",
+        "B": "greater ability to plan and function",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "B",
+      "explanation": "Group demonstrates refers to greater ability to plan and function. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Group demonstrates",
+      "examSetId": 4,
+      "questionNumber": 17
+    },
+    {
+      "id": "expanded_246",
+      "type": "concept",
+      "question": "What is the significance of \"Garland, Jones and Kolodny’s Phases of Group Development\" in social work with groups?",
+      "options": {
+        "A": "A method primarily used in individual counseling sessions.",
+        "B": "Stages/Phases Character of group system",
+        "C": "A supervisory technique for staff development.",
+        "D": "An administrative procedure for case documentation."
+      },
+      "correctAnswer": "B",
+      "explanation": "Garland, Jones and Kolodny’s Phases of Group Development refers to Stages/Phases Character of group system. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Garland, Jones and Kolodny’s Phases of Group Development",
+      "examSetId": 4,
+      "questionNumber": 18
+    },
+    {
+      "id": "expanded_145",
+      "type": "concept",
+      "question": "How is \"Reward power\" best understood in the context of group practice?",
+      "options": {
+        "A": "An administrative procedure for case documentation.",
+        "B": "A supervisory technique for staff development.",
+        "C": "A key concept in social group work practice",
+        "D": "A method primarily used in individual counseling sessions."
+      },
+      "correctAnswer": "C",
+      "explanation": "Reward power refers to A key concept in social group work practice. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Reward power",
+      "examSetId": 4,
+      "questionNumber": 19
+    },
+    {
+      "id": "expanded_146",
+      "type": "concept",
+      "question": "When working with groups, how would you explain \"Coercive power\"?",
+      "options": {
+        "A": "A key concept in social group work practice",
+        "B": "An administrative procedure for case documentation.",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "A",
+      "explanation": "Coercive power refers to A key concept in social group work practice. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Coercive power",
+      "examSetId": 4,
+      "questionNumber": 20
+    },
+    {
+      "id": "expanded_147",
+      "type": "concept",
+      "question": "What is the significance of \"Legitimate power\" in social work with groups?",
+      "options": {
+        "A": "An administrative procedure for case documentation.",
+        "B": "A key concept in social group work practice",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "B",
+      "explanation": "Legitimate power refers to A key concept in social group work practice. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Legitimate power",
+      "examSetId": 4,
+      "questionNumber": 21
+    },
+    {
+      "id": "expanded_148",
+      "type": "concept",
+      "question": "How is \"Referent power\" best understood in the context of group practice?",
+      "options": {
+        "A": "A supervisory technique for staff development.",
+        "B": "A key concept in social group work practice",
+        "C": "An administrative procedure for case documentation.",
+        "D": "A method primarily used in individual counseling sessions."
+      },
+      "correctAnswer": "B",
+      "explanation": "Referent power refers to A key concept in social group work practice. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Referent power",
+      "examSetId": 4,
+      "questionNumber": 22
+    },
+    {
+      "id": "expanded_149",
+      "type": "concept",
+      "question": "When working with groups, how would you explain \"Expert power\"?",
+      "options": {
+        "A": "A key concept in social group work practice",
+        "B": "A method primarily used in individual counseling sessions.",
+        "C": "An administrative procedure for case documentation.",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "A",
+      "explanation": "Expert power refers to A key concept in social group work practice. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Expert power",
+      "examSetId": 4,
+      "questionNumber": 23
+    },
+    {
+      "id": "expanded_151",
+      "type": "concept",
+      "question": "What is the significance of \"Position theory –leadership is base on the position that grants a\" in social work with groups?",
+      "options": {
+        "A": "A method primarily used in individual counseling sessions.",
+        "B": "person the power of influence",
+        "C": "An administrative procedure for case documentation.",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "B",
+      "explanation": "Position theory –leadership is base on the position that grants a refers to person the power of influence. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Position theory –leadership is base on the position that grants a",
+      "examSetId": 4,
+      "questionNumber": 24
+    },
+    {
+      "id": "expanded_152",
+      "type": "concept",
+      "question": "How is \"Trait theory -“the great person theory”, assumes that leaders\" best understood in the context of group practice?",
+      "options": {
+        "A": "A supervisory technique for staff development.",
+        "B": "An administrative procedure for case documentation.",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "have personal traits or characteristics that make them different from other people. (Charisma Vs. Machiavellians)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Trait theory -“the great person theory”, assumes that leaders refers to have personal traits or characteristics that make them different from other people. (Charisma Vs. Machiavellians). This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Trait theory -“the great person theory”, assumes that leaders",
+      "examSetId": 4,
+      "questionNumber": 25
+    },
+    {
+      "id": "expanded_153",
+      "type": "concept",
+      "question": "When working with groups, how would you explain \"Style theory –leadership is based on the style on how he\"?",
+      "options": {
+        "A": "influence - a concept fundamental to effective social group work practice.",
+        "B": "An administrative procedure for case documentation.",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "A",
+      "explanation": "Style theory –leadership is based on the style on how he refers to influence. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Style theory –leadership is based on the style on how he",
+      "examSetId": 4,
+      "questionNumber": 26
+    },
+    {
+      "id": "expanded_154",
+      "type": "concept",
+      "question": "What is the significance of \"Style theory\" in social work with groups?",
+      "options": {
+        "A": "A supervisory technique for staff development.",
+        "B": "An administrative procedure for case documentation.",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "I. Authoritarian –leaders have absolute power II. Democratic –leaders seek maximum involvement and"
+      },
+      "correctAnswer": "D",
+      "explanation": "Style theory refers to I. Authoritarian –leaders have absolute power II. Democratic –leaders seek maximum involvement and. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Style theory",
+      "examSetId": 4,
+      "questionNumber": 27
+    },
+    {
+      "id": "expanded_155",
+      "type": "concept",
+      "question": "How is \"Situational theory –situation produces leaders; leadership is a function\" best understood in the context of group practice?",
+      "options": {
+        "A": "A method primarily used in individual counseling sessions.",
+        "B": "An administrative procedure for case documentation.",
+        "C": "A supervisory technique for staff development.",
+        "D": "of the situation, rather than the person or  what he or she does."
+      },
+      "correctAnswer": "D",
+      "explanation": "Situational theory –situation produces leaders; leadership is a function refers to of the situation, rather than the person or  what he or she does.. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Situational theory –situation produces leaders; leadership is a function",
+      "examSetId": 4,
+      "questionNumber": 28
+    },
+    {
+      "id": "expanded_156",
+      "type": "concept",
+      "question": "In social group work, what does \"Functional leadership theory–leadership means the performance of\" refer to?",
+      "options": {
+        "A": "the acts that help the group to accomplish its goals; “distributed function approach”",
+        "B": "A supervisory technique for staff development.",
+        "C": "An administrative procedure for case documentation.",
+        "D": "A method primarily used in individual counseling sessions."
+      },
+      "correctAnswer": "A",
+      "explanation": "Functional leadership theory–leadership means the performance of refers to the acts that help the group to accomplish its goals; “distributed function approach”. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Functional leadership theory–leadership means the performance of",
+      "examSetId": 4,
+      "questionNumber": 29
+    },
+    {
+      "id": "expanded_158",
+      "type": "concept",
+      "question": "When working with groups, how would you explain \"Group Growing and Vitalizing Roles\"?",
+      "options": {
+        "A": "An administrative procedure for case documentation.",
+        "B": "A supervisory technique for staff development.",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "A key concept in social group work practice"
+      },
+      "correctAnswer": "D",
+      "explanation": "Group Growing and Vitalizing Roles refers to A key concept in social group work practice. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Group Growing and Vitalizing Roles",
+      "examSetId": 4,
+      "questionNumber": 30
+    },
+    {
+      "id": "expanded_161",
+      "type": "concept",
+      "question": "When working with groups, how would you explain \"Task specialist\"?",
+      "options": {
+        "A": "A key concept in social group work practice",
+        "B": "An administrative procedure for case documentation.",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "A",
+      "explanation": "Task specialist refers to A key concept in social group work practice. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Task specialist",
+      "examSetId": 4,
+      "questionNumber": 31
+    },
+    {
+      "id": "expanded_162",
+      "type": "concept",
+      "question": "What is the significance of \"social-emotional or group\" in social work with groups?",
+      "options": {
+        "A": "An administrative procedure for case documentation.",
+        "B": "maintenance role I.Executive",
+        "C": "A supervisory technique for staff development.",
+        "D": "A method primarily used in individual counseling sessions."
+      },
+      "correctAnswer": "B",
+      "explanation": "social-emotional or group refers to maintenance role I.Executive. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "social-emotional or group",
+      "examSetId": 4,
+      "questionNumber": 32
+    },
+    {
+      "id": "expanded_163",
+      "type": "concept",
+      "question": "When working with groups, how would you explain \"Group Norms –rules and standards of behavior emerge in the group.\"?",
+      "options": {
+        "A": "A method primarily used in individual counseling sessions.",
+        "B": "A supervisory technique for staff development.",
+        "C": "An administrative procedure for case documentation.",
+        "D": "Some norms are time-specific, some apply to all members while others apply only to some, some are strictly observed and some"
+      },
+      "correctAnswer": "D",
+      "explanation": "Group Norms –rules and standards of behavior emerge in the group. refers to Some norms are time-specific, some apply to all members while others apply only to some, some are strictly observed and some. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Group Norms –rules and standards of behavior emerge in the group.",
+      "examSetId": 4,
+      "questionNumber": 33
+    },
+    {
+      "id": "expanded_164",
+      "type": "concept",
+      "question": "When working with groups, how would you explain \"Written rules\"?",
+      "options": {
+        "A": "A key concept in social group work practice",
+        "B": "A supervisory technique for staff development.",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "An administrative procedure for case documentation."
+      },
+      "correctAnswer": "A",
+      "explanation": "Written rules refers to A key concept in social group work practice. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Written rules",
+      "examSetId": 4,
+      "questionNumber": 34
+    },
+    {
+      "id": "expanded_168",
+      "type": "concept",
+      "question": "How is \"Status –refer to one’s rank or standing in the group. It is not based no\" best understood in the context of group practice?",
+      "options": {
+        "A": "A supervisory technique for staff development.",
+        "B": "A method primarily used in individual counseling sessions.",
+        "C": "An administrative procedure for case documentation.",
+        "D": "interaction or relationship  with other group but on some characteristics possessed."
+      },
+      "correctAnswer": "D",
+      "explanation": "Status –refer to one’s rank or standing in the group. It is not based no refers to interaction or relationship  with other group but on some characteristics possessed.. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Status –refer to one’s rank or standing in the group. It is not based no",
+      "examSetId": 4,
+      "questionNumber": 35
+    },
+    {
+      "id": "expanded_169",
+      "type": "concept",
+      "question": "What is the significance of \"expedient conformer –outwardly agrees but inwardly\" in social work with groups?",
+      "options": {
+        "A": "A method primarily used in individual counseling sessions.",
+        "B": "A supervisory technique for staff development.",
+        "C": "disagrees - a concept fundamental to effective social group work practice.",
+        "D": "An administrative procedure for case documentation."
+      },
+      "correctAnswer": "C",
+      "explanation": "expedient conformer –outwardly agrees but inwardly refers to disagrees. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "expedient conformer –outwardly agrees but inwardly",
+      "examSetId": 4,
+      "questionNumber": 36
+    },
+    {
+      "id": "expanded_170",
+      "type": "concept",
+      "question": "When working with groups, how would you explain \"true conformer –conformity wherein both outwardly and\"?",
+      "options": {
+        "A": "An administrative procedure for case documentation.",
+        "B": "A supervisory technique for staff development.",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "inwardly agrees with the group"
+      },
+      "correctAnswer": "D",
+      "explanation": "true conformer –conformity wherein both outwardly and refers to inwardly agrees with the group. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "true conformer –conformity wherein both outwardly and",
+      "examSetId": 4,
+      "questionNumber": 37
+    },
+    {
+      "id": "expanded_171",
+      "type": "concept",
+      "question": "In social group work, what does \"Competition and Cooperation\" refer to?",
+      "options": {
+        "A": "An administrative procedure for case documentation.",
+        "B": "A supervisory technique for staff development.",
+        "C": "competitive atmosphere results when the members perceive their personal goals to be incompatible,",
+        "D": "A method primarily used in individual counseling sessions."
+      },
+      "correctAnswer": "C",
+      "explanation": "Competition and Cooperation refers to competitive atmosphere results when the members perceive their personal goals to be incompatible,. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Competition and Cooperation",
+      "examSetId": 4,
+      "questionNumber": 38
+    },
+    {
+      "id": "expanded_172",
+      "type": "concept",
+      "question": "In social group work, what does \"Decision making–group decision-making is considered as\" refer to?",
+      "options": {
+        "A": "A supervisory technique for staff development.",
+        "B": "An administrative procedure for case documentation.",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "an integral stage or step in the total problem-solving process. oGroup decision must be in accord to the group interaction."
+      },
+      "correctAnswer": "D",
+      "explanation": "Decision making–group decision-making is considered as refers to an integral stage or step in the total problem-solving process. oGroup decision must be in accord to the group interaction.. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Decision making–group decision-making is considered as",
+      "examSetId": 4,
+      "questionNumber": 39
+    },
+    {
+      "id": "expanded_173",
+      "type": "concept",
+      "question": "How is \"Decision Making\" best understood in the context of group practice?",
+      "options": {
+        "A": "Railroading tactics –refers to the decision that that benefits the sub-group but will be counter productive for the whole group.",
+        "B": "A method primarily used in individual counseling sessions.",
+        "C": "An administrative procedure for case documentation.",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "A",
+      "explanation": "Decision Making refers to Railroading tactics –refers to the decision that that benefits the sub-group but will be counter productive for the whole group.. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Decision Making",
+      "examSetId": 4,
+      "questionNumber": 40
+    },
+    {
+      "id": "expanded_174",
+      "type": "concept",
+      "question": "When working with groups, how would you explain \"Simple majority\"?",
+      "options": {
+        "A": "A key concept in social group work practice",
+        "B": "An administrative procedure for case documentation.",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "A",
+      "explanation": "Simple majority refers to A key concept in social group work practice. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Simple majority",
+      "examSetId": 4,
+      "questionNumber": 41
+    },
+    {
+      "id": "expanded_176",
+      "type": "concept",
+      "question": "In social group work, what does \"Group Think\" refer to?",
+      "options": {
+        "A": "A supervisory technique for staff development.",
+        "B": "An administrative procedure for case documentation.",
+        "C": "refers to a problem-solving process in which proposals are accepted without careful review of their advantages and",
+        "D": "A method primarily used in individual counseling sessions."
+      },
+      "correctAnswer": "C",
+      "explanation": "Group Think refers to refers to a problem-solving process in which proposals are accepted without careful review of their advantages and. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Group Think",
+      "examSetId": 4,
+      "questionNumber": 42
+    },
+    {
+      "id": "expanded_177",
+      "type": "concept",
+      "question": "In social group work, what does \"Conflict\" refer to?",
+      "options": {
+        "A": "An administrative procedure for case documentation.",
+        "B": "A supervisory technique for staff development.",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "A key concept in social group work practice"
+      },
+      "correctAnswer": "D",
+      "explanation": "Conflict refers to A key concept in social group work practice. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Conflict",
+      "examSetId": 4,
+      "questionNumber": 43
+    },
+    {
+      "id": "expanded_179",
+      "type": "concept",
+      "question": "In social group work, what does \"perceived or real mutually exclusive goals and/or mutually\" refer to?",
+      "options": {
+        "A": "A method primarily used in individual counseling sessions.",
+        "B": "exclusive values exist",
+        "C": "An administrative procedure for case documentation.",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "B",
+      "explanation": "perceived or real mutually exclusive goals and/or mutually refers to exclusive values exist. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "perceived or real mutually exclusive goals and/or mutually",
+      "examSetId": 4,
+      "questionNumber": 44
+    },
+    {
+      "id": "expanded_183",
+      "type": "concept",
+      "question": "What is the significance of \"Group cohesiveness\" in social work with groups?",
+      "options": {
+        "A": "A method primarily used in individual counseling sessions.",
+        "B": "refers to the degree to which members of a group desire to remain in the group (established from motivational forces of the group)",
+        "C": "A supervisory technique for staff development.",
+        "D": "An administrative procedure for case documentation."
+      },
+      "correctAnswer": "B",
+      "explanation": "Group cohesiveness refers to refers to the degree to which members of a group desire to remain in the group (established from motivational forces of the group). This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Group cohesiveness",
+      "examSetId": 4,
+      "questionNumber": 45
+    },
+    {
+      "id": "expanded_184",
+      "type": "concept",
+      "question": "When working with groups, how would you explain \"Members motive\"?",
+      "options": {
+        "A": "base for attraction",
+        "B": "An administrative procedure for case documentation.",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "A",
+      "explanation": "Members motive refers to base for attraction. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Members motive",
+      "examSetId": 4,
+      "questionNumber": 46
+    },
+    {
+      "id": "expanded_185",
+      "type": "concept",
+      "question": "How is \"Incentive\" best understood in the context of group practice?",
+      "options": {
+        "A": "A method primarily used in individual counseling sessions.",
+        "B": "A supervisory technique for staff development.",
+        "C": "An administrative procedure for case documentation.",
+        "D": "properties of the group"
+      },
+      "correctAnswer": "D",
+      "explanation": "Incentive refers to properties of the group. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Incentive",
+      "examSetId": 4,
+      "questionNumber": 47
+    },
+    {
+      "id": "expanded_186",
+      "type": "concept",
+      "question": "How is \"Expectancy\" best understood in the context of group practice?",
+      "options": {
+        "A": "A method primarily used in individual counseling sessions.",
+        "B": "A supervisory technique for staff development.",
+        "C": "An administrative procedure for case documentation.",
+        "D": "concerning outcomes"
+      },
+      "correctAnswer": "D",
+      "explanation": "Expectancy refers to concerning outcomes. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Expectancy",
+      "examSetId": 4,
+      "questionNumber": 48
+    },
+    {
+      "id": "expanded_187",
+      "type": "concept",
+      "question": "When working with groups, how would you explain \"Comparison level\"?",
+      "options": {
+        "A": "A key concept in social group work practice",
+        "B": "A method primarily used in individual counseling sessions.",
+        "C": "An administrative procedure for case documentation.",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "A",
+      "explanation": "Comparison level refers to A key concept in social group work practice. This concept is important for understanding effective group work practice.",
+      "source": "Group structure and process in social work 4",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Comparison level",
+      "examSetId": 4,
+      "questionNumber": 49
+    },
+    {
+      "id": "expanded_190",
+      "type": "concept",
+      "question": "When working with groups, how would you explain \"Proponent\"?",
+      "options": {
+        "A": "An administrative procedure for case documentation.",
+        "B": "A method primarily used in individual counseling sessions.",
+        "C": "A supervisory technique for staff development.",
+        "D": "Emmanuel - a concept fundamental to effective social group work practice."
+      },
+      "correctAnswer": "D",
+      "explanation": "Proponent refers to Emmanuel. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Proponent",
+      "examSetId": 4,
+      "questionNumber": 50
+    },
+    {
+      "id": "expanded_191",
+      "type": "concept",
+      "question": "In social group work, what does \"Wilson and Ryland\" refer to?",
+      "options": {
+        "A": "use of - a concept fundamental to effective social group work practice.",
+        "B": "A method primarily used in individual counseling sessions.",
+        "C": "An administrative procedure for case documentation.",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "A",
+      "explanation": "Wilson and Ryland refers to use of. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Wilson and Ryland",
+      "examSetId": 4,
+      "questionNumber": 51
+    },
+    {
+      "id": "expanded_192",
+      "type": "concept",
+      "question": "In social group work, what does \"Humanistic-‘viewing of\" refer to?",
+      "options": {
+        "A": "A method primarily used in individual counseling sessions.",
+        "B": "A supervisory technique for staff development.",
+        "C": "An administrative procedure for case documentation.",
+        "D": "one human being by"
+      },
+      "correctAnswer": "D",
+      "explanation": "Humanistic-‘viewing of refers to one human being by. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Humanistic-‘viewing of",
+      "examSetId": 4,
+      "questionNumber": 52
+    },
+    {
+      "id": "expanded_194",
+      "type": "concept",
+      "question": "How is \"Are oriented to the\" best understood in the context of group practice?",
+      "options": {
+        "A": "A method primarily used in individual counseling sessions.",
+        "B": "An administrative procedure for case documentation.",
+        "C": "A supervisory technique for staff development.",
+        "D": "new situation"
+      },
+      "correctAnswer": "D",
+      "explanation": "Are oriented to the refers to new situation. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Are oriented to the",
+      "examSetId": 4,
+      "questionNumber": 53
+    },
+    {
+      "id": "expanded_195",
+      "type": "concept",
+      "question": "In social group work, what does \"Understand reasons\" refer to?",
+      "options": {
+        "A": "for group membership and",
+        "B": "A method primarily used in individual counseling sessions.",
+        "C": "A supervisory technique for staff development.",
+        "D": "An administrative procedure for case documentation."
+      },
+      "correctAnswer": "A",
+      "explanation": "Understand reasons refers to for group membership and. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Understand reasons",
+      "examSetId": 4,
+      "questionNumber": 54
+    },
+    {
+      "id": "expanded_196",
+      "type": "concept",
+      "question": "What is the significance of \"Experience doubts or\" in social work with groups?",
+      "options": {
+        "A": "enthusiasm Worker: (i) Clarifies purpose",
+        "B": "A supervisory technique for staff development.",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "An administrative procedure for case documentation."
+      },
+      "correctAnswer": "A",
+      "explanation": "Experience doubts or refers to enthusiasm Worker: (i) Clarifies purpose. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Experience doubts or",
+      "examSetId": 4,
+      "questionNumber": 55
+    },
+    {
+      "id": "expanded_198",
+      "type": "concept",
+      "question": "How is \"More open\" best understood in the context of group practice?",
+      "options": {
+        "A": "A supervisory technique for staff development.",
+        "B": "An administrative procedure for case documentation.",
+        "C": "expression",
+        "D": "A method primarily used in individual counseling sessions."
+      },
+      "correctAnswer": "C",
+      "explanation": "More open refers to expression. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "More open",
+      "examSetId": 4,
+      "questionNumber": 56
+    },
+    {
+      "id": "expanded_199",
+      "type": "concept",
+      "question": "When working with groups, how would you explain \"Increasing\"?",
+      "options": {
+        "A": "An administrative procedure for case documentation.",
+        "B": "A method primarily used in individual counseling sessions.",
+        "C": "understanding and acceptance of values",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "C",
+      "explanation": "Increasing refers to understanding and acceptance of values. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Increasing",
+      "examSetId": 4,
+      "questionNumber": 57
+    },
+    {
+      "id": "expanded_201",
+      "type": "concept",
+      "question": "When working with groups, how would you explain \"Phenomenological -\"?",
+      "options": {
+        "A": "An administrative procedure for case documentation.",
+        "B": "current behavior- oriented",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "B",
+      "explanation": "Phenomenological - refers to current behavior- oriented. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Phenomenological -",
+      "examSetId": 4,
+      "questionNumber": 58
+    },
+    {
+      "id": "expanded_204",
+      "type": "concept",
+      "question": "In social group work, what does \"People’s group\" refer to?",
+      "options": {
+        "A": "A supervisory technique for staff development.",
+        "B": "A method primarily used in individual counseling sessions.",
+        "C": "experiences should have a common goal",
+        "D": "An administrative procedure for case documentation."
+      },
+      "correctAnswer": "C",
+      "explanation": "People’s group refers to experiences should have a common goal. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "People’s group",
+      "examSetId": 4,
+      "questionNumber": 59
+    },
+    {
+      "id": "expanded_209",
+      "type": "concept",
+      "question": "In social group work, what does \"Group works toward\" refer to?",
+      "options": {
+        "A": "A supervisory technique for staff development.",
+        "B": "An administrative procedure for case documentation.",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "goal achievement"
+      },
+      "correctAnswer": "D",
+      "explanation": "Group works toward refers to goal achievement. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Group works toward",
+      "examSetId": 4,
+      "questionNumber": 60
+    },
+    {
+      "id": "expanded_210",
+      "type": "concept",
+      "question": "What is the significance of \"Guides group\" in social work with groups?",
+      "options": {
+        "A": "A supervisory technique for staff development.",
+        "B": "An administrative procedure for case documentation.",
+        "C": "towards goals",
+        "D": "A method primarily used in individual counseling sessions."
+      },
+      "correctAnswer": "C",
+      "explanation": "Guides group refers to towards goals. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Guides group",
+      "examSetId": 4,
+      "questionNumber": 61
+    },
+    {
+      "id": "expanded_211",
+      "type": "concept",
+      "question": "In social group work, what does \"Clarifies tasks to be\" refer to?",
+      "options": {
+        "A": "A supervisory technique for staff development.",
+        "B": "An administrative procedure for case documentation.",
+        "C": "done and completed",
+        "D": "A method primarily used in individual counseling sessions."
+      },
+      "correctAnswer": "C",
+      "explanation": "Clarifies tasks to be refers to done and completed. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Clarifies tasks to be",
+      "examSetId": 4,
+      "questionNumber": 62
+    },
+    {
+      "id": "expanded_214",
+      "type": "concept",
+      "question": "What is the significance of \"Assesses gains from\" in social work with groups?",
+      "options": {
+        "A": "An administrative procedure for case documentation.",
+        "B": "A supervisory technique for staff development.",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "goal achievement"
+      },
+      "correctAnswer": "D",
+      "explanation": "Assesses gains from refers to goal achievement. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Assesses gains from",
+      "examSetId": 4,
+      "questionNumber": 63
+    },
+    {
+      "id": "expanded_217",
+      "type": "concept",
+      "question": "When working with groups, how would you explain \"Inventory gains from\"?",
+      "options": {
+        "A": "group experience",
+        "B": "A supervisory technique for staff development.",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "An administrative procedure for case documentation."
+      },
+      "correctAnswer": "A",
+      "explanation": "Inventory gains from refers to group experience. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Inventory gains from",
+      "examSetId": 4,
+      "questionNumber": 64
+    },
+    {
+      "id": "expanded_218",
+      "type": "concept",
+      "question": "What is the significance of \"Show varying levels\" in social work with groups?",
+      "options": {
+        "A": "An administrative procedure for case documentation.",
+        "B": "A supervisory technique for staff development.",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "of satisfaction from accomplishment"
+      },
+      "correctAnswer": "D",
+      "explanation": "Show varying levels refers to of satisfaction from accomplishment. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Show varying levels",
+      "examSetId": 4,
+      "questionNumber": 65
+    },
+    {
+      "id": "expanded_220",
+      "type": "concept",
+      "question": "In social group work, what does \"Group becomes a\" refer to?",
+      "options": {
+        "A": "An administrative procedure for case documentation.",
+        "B": "A supervisory technique for staff development.",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "medium for commonly perceived behavior by"
+      },
+      "correctAnswer": "D",
+      "explanation": "Group becomes a refers to medium for commonly perceived behavior by. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Group becomes a",
+      "examSetId": 4,
+      "questionNumber": 66
+    },
+    {
+      "id": "expanded_222",
+      "type": "concept",
+      "question": "In social group work, what does \"Group is self -directing,\" refer to?",
+      "options": {
+        "A": "individually and as a whole",
+        "B": "A method primarily used in individual counseling sessions.",
+        "C": "An administrative procedure for case documentation.",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "A",
+      "explanation": "Group is self -directing, refers to individually and as a whole. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Group is self -directing,",
+      "examSetId": 4,
+      "questionNumber": 67
+    },
+    {
+      "id": "expanded_223",
+      "type": "concept",
+      "question": "In social group work, what does \"Accept reality of\" refer to?",
+      "options": {
+        "A": "An administrative procedure for case documentation.",
+        "B": "A method primarily used in individual counseling sessions.",
+        "C": "ending group experience",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "C",
+      "explanation": "Accept reality of refers to ending group experience. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Accept reality of",
+      "examSetId": 4,
+      "questionNumber": 68
+    },
+    {
+      "id": "expanded_225",
+      "type": "concept",
+      "question": "In social group work, what does \"Evaluates gains from\" refer to?",
+      "options": {
+        "A": "group experience",
+        "B": "An administrative procedure for case documentation.",
+        "C": "A supervisory technique for staff development.",
+        "D": "A method primarily used in individual counseling sessions."
+      },
+      "correctAnswer": "A",
+      "explanation": "Evaluates gains from refers to group experience. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Evaluates gains from",
+      "examSetId": 4,
+      "questionNumber": 69
+    },
+    {
+      "id": "expanded_226",
+      "type": "concept",
+      "question": "How is \"Objectively appraises\" best understood in the context of group practice?",
+      "options": {
+        "A": "A method primarily used in individual counseling sessions.",
+        "B": "uncompleted tasks",
+        "C": "A supervisory technique for staff development.",
+        "D": "An administrative procedure for case documentation."
+      },
+      "correctAnswer": "B",
+      "explanation": "Objectively appraises refers to uncompleted tasks. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Objectively appraises",
+      "examSetId": 4,
+      "questionNumber": 70
+    },
+    {
+      "id": "expanded_227",
+      "type": "concept",
+      "question": "In social group work, what does \"Smooths ending of\" refer to?",
+      "options": {
+        "A": "A supervisory technique for staff development.",
+        "B": "An administrative procedure for case documentation.",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "group membership"
+      },
+      "correctAnswer": "D",
+      "explanation": "Smooths ending of refers to group membership. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Smooths ending of",
+      "examSetId": 4,
+      "questionNumber": 71
+    },
+    {
+      "id": "expanded_228",
+      "type": "concept",
+      "question": "In social group work, what does \"Post-termination\" refer to?",
+      "options": {
+        "A": "An administrative procedure for case documentation.",
+        "B": "A method primarily used in individual counseling sessions.",
+        "C": "plans - a concept fundamental to effective social group work practice.",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "C",
+      "explanation": "Post-termination refers to plans. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Post-termination",
+      "examSetId": 4,
+      "questionNumber": 72
+    },
+    {
+      "id": "expanded_231",
+      "type": "concept",
+      "question": "In social group work, what does \"Used for treatment and\" refer to?",
+      "options": {
+        "A": "rehabilitation of individuals whose",
+        "B": "An administrative procedure for case documentation.",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "A",
+      "explanation": "Used for treatment and refers to rehabilitation of individuals whose. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Used for treatment and",
+      "examSetId": 4,
+      "questionNumber": 73
+    },
+    {
+      "id": "expanded_233",
+      "type": "concept",
+      "question": "How is \"Diagnosis and Treatment\" best understood in the context of group practice?",
+      "options": {
+        "A": "A method primarily used in individual counseling sessions.",
+        "B": "Planning - a concept fundamental to effective social group work practice.",
+        "C": "A supervisory technique for staff development.",
+        "D": "An administrative procedure for case documentation."
+      },
+      "correctAnswer": "B",
+      "explanation": "Diagnosis and Treatment refers to Planning. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Diagnosis and Treatment",
+      "examSetId": 4,
+      "questionNumber": 74
+    },
+    {
+      "id": "expanded_236",
+      "type": "concept",
+      "question": "When working with groups, how would you explain \"Evaluation and termination.\"?",
+      "options": {
+        "A": "A supervisory technique for staff development.",
+        "B": "An administrative procedure for case documentation.",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "Strategy of Intervention (SI) for a treatment group"
+      },
+      "correctAnswer": "D",
+      "explanation": "Evaluation and termination. refers to Strategy of Intervention (SI) for a treatment group. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Evaluation and termination.",
+      "examSetId": 4,
+      "questionNumber": 75
+    },
+    {
+      "id": "expanded_237",
+      "type": "concept",
+      "question": "How is \"For those needing\" best understood in the context of group practice?",
+      "options": {
+        "A": "acquisition of new knowledge and skills to",
+        "B": "An administrative procedure for case documentation.",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "A",
+      "explanation": "For those needing refers to acquisition of new knowledge and skills to. This concept is important for understanding effective group work practice.",
+      "source": "Group Work Approaches and Models",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "For those needing",
+      "examSetId": 4,
+      "questionNumber": 76
+    },
+    {
+      "id": "expanded_239",
+      "type": "concept",
+      "question": "How is \"Groups are changing, dynamic and have a life of their own. It natural for groups to undergo\" best understood in the context of group practice?",
+      "options": {
+        "A": "phases as part of group development. Social workers engaged in helping groups will find knowledge of group phases very important. Knowledge of phas...",
+        "B": "A method primarily used in individual counseling sessions.",
+        "C": "A supervisory technique for staff development.",
+        "D": "An administrative procedure for case documentation."
+      },
+      "correctAnswer": "A",
+      "explanation": "Groups are changing, dynamic and have a life of their own. It natural for groups to undergo refers to phases as part of group development. Social workers engaged in helping groups will find knowledge of group phases very important. Knowledge of phases of group development. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Groups are changing, dynamic and have a life of their own. It natural for groups to undergo",
+      "examSetId": 4,
+      "questionNumber": 77
+    },
+    {
+      "id": "expanded_240",
+      "type": "concept",
+      "question": "In social group work, what does \"Conceptions of group phases vary among authors, Hartford, Garland, Jones, Kolodny, Schutz,\" refer to?",
+      "options": {
+        "A": "A supervisory technique for staff development.",
+        "B": "A method primarily used in individual counseling sessions.",
+        "C": "An administrative procedure for case documentation.",
+        "D": "Thelen, and Henry but a beginning, middle and ending phases are common to all. The movement is not linear and not clearly demarcated. Not all socia..."
+      },
+      "correctAnswer": "D",
+      "explanation": "Conceptions of group phases vary among authors, Hartford, Garland, Jones, Kolodny, Schutz, refers to Thelen, and Henry but a beginning, middle and ending phases are common to all. The movement is not linear and not clearly demarcated. Not all social work groups pass through. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Conceptions of group phases vary among authors, Hartford, Garland, Jones, Kolodny, Schutz,",
+      "examSetId": 4,
+      "questionNumber": 78
+    },
+    {
+      "id": "expanded_247",
+      "type": "concept",
+      "question": "When working with groups, how would you explain \"Tuckman’s Phases of Group Development\"?",
+      "options": {
+        "A": "A supervisory technique for staff development.",
+        "B": "An administrative procedure for case documentation.",
+        "C": "A key concept in social group work practice",
+        "D": "A method primarily used in individual counseling sessions."
+      },
+      "correctAnswer": "C",
+      "explanation": "Tuckman’s Phases of Group Development refers to A key concept in social group work practice. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Tuckman’s Phases of Group Development",
+      "examSetId": 4,
+      "questionNumber": 79
+    },
+    {
+      "id": "expanded_248",
+      "type": "concept",
+      "question": "How is \"Different Authors’ version of Phases of Group Development\" best understood in the context of group practice?",
+      "options": {
+        "A": "A method primarily used in individual counseling sessions.",
+        "B": "Hartford Garldand, Jones, and Kolodny",
+        "C": "A supervisory technique for staff development.",
+        "D": "An administrative procedure for case documentation."
+      },
+      "correctAnswer": "B",
+      "explanation": "Different Authors’ version of Phases of Group Development refers to Hartford Garldand, Jones, and Kolodny. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Different Authors’ version of Phases of Group Development",
+      "examSetId": 4,
+      "questionNumber": 80
+    },
+    {
+      "id": "expanded_249",
+      "type": "concept",
+      "question": "In social group work, what does \"Private Pre-\" refer to?",
+      "options": {
+        "A": "A supervisory technique for staff development.",
+        "B": "A method primarily used in individual counseling sessions.",
+        "C": "An administrative procedure for case documentation.",
+        "D": "group Phase"
+      },
+      "correctAnswer": "D",
+      "explanation": "Private Pre- refers to group Phase. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Private Pre-",
+      "examSetId": 4,
+      "questionNumber": 81
+    },
+    {
+      "id": "expanded_251",
+      "type": "concept",
+      "question": "What is the significance of \"Convening\" in social work with groups?",
+      "options": {
+        "A": "An administrative procedure for case documentation.",
+        "B": "Phase I. Preaffliation I. Preparatory Stage;",
+        "C": "A supervisory technique for staff development.",
+        "D": "A method primarily used in individual counseling sessions."
+      },
+      "correctAnswer": "B",
+      "explanation": "Convening refers to Phase I. Preaffliation I. Preparatory Stage;. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Convening",
+      "examSetId": 4,
+      "questionNumber": 82
+    },
+    {
+      "id": "expanded_252",
+      "type": "concept",
+      "question": "How is \"Pre-\" best understood in the context of group practice?",
+      "options": {
+        "A": "A supervisory technique for staff development.",
+        "B": "termination",
+        "C": "An administrative procedure for case documentation.",
+        "D": "A method primarily used in individual counseling sessions."
+      },
+      "correctAnswer": "B",
+      "explanation": "Pre- refers to termination. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Pre-",
+      "examSetId": 4,
+      "questionNumber": 83
+    },
+    {
+      "id": "expanded_253",
+      "type": "concept",
+      "question": "In social group work, what does \"Termination\" refer to?",
+      "options": {
+        "A": "A method primarily used in individual counseling sessions.",
+        "B": "An administrative procedure for case documentation.",
+        "C": "A supervisory technique for staff development.",
+        "D": "A key concept in social group work practice"
+      },
+      "correctAnswer": "D",
+      "explanation": "Termination refers to A key concept in social group work practice. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Termination",
+      "examSetId": 4,
+      "questionNumber": 84
+    },
+    {
+      "id": "expanded_254",
+      "type": "concept",
+      "question": "In social group work, what does \"Post-\" refer to?",
+      "options": {
+        "A": "A supervisory technique for staff development.",
+        "B": "terminaion V. Separation V.Termination VII.Termination Phase VI.Ending Stage VI. Termination",
+        "C": "An administrative procedure for case documentation.",
+        "D": "A method primarily used in individual counseling sessions."
+      },
+      "correctAnswer": "B",
+      "explanation": "Post- refers to terminaion V. Separation V.Termination VII.Termination Phase VI.Ending Stage VI. Termination. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Post-",
+      "examSetId": 4,
+      "questionNumber": 85
+    },
+    {
+      "id": "expanded_255",
+      "type": "concept",
+      "question": "When working with groups, how would you explain \"Pre-group Activities a. Conceptualizing the Group Service\"?",
+      "options": {
+        "A": "A method primarily used in individual counseling sessions.",
+        "B": "A supervisory technique for staff development.",
+        "C": "A key concept in social group work practice",
+        "D": "An administrative procedure for case documentation."
+      },
+      "correctAnswer": "C",
+      "explanation": "Pre-group Activities a. Conceptualizing the Group Service refers to A key concept in social group work practice. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Pre-group Activities a. Conceptualizing the Group Service",
+      "examSetId": 4,
+      "questionNumber": 86
+    },
+    {
+      "id": "expanded_257",
+      "type": "concept",
+      "question": "How is \"Preparing Logistics\" best understood in the context of group practice?",
+      "options": {
+        "A": "An administrative procedure for case documentation.",
+        "B": "A key concept in social group work practice",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "B",
+      "explanation": "Preparing Logistics refers to A key concept in social group work practice. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Preparing Logistics",
+      "examSetId": 4,
+      "questionNumber": 87
+    },
+    {
+      "id": "expanded_258",
+      "type": "concept",
+      "question": "What is the significance of \"Enlisting Community Support\" in social work with groups?",
+      "options": {
+        "A": "An administrative procedure for case documentation.",
+        "B": "A key concept in social group work practice",
+        "C": "A supervisory technique for staff development.",
+        "D": "A method primarily used in individual counseling sessions."
+      },
+      "correctAnswer": "B",
+      "explanation": "Enlisting Community Support refers to A key concept in social group work practice. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Enlisting Community Support",
+      "examSetId": 4,
+      "questionNumber": 88
+    },
+    {
+      "id": "expanded_259",
+      "type": "concept",
+      "question": "When working with groups, how would you explain \"Individual-focused Assessment and\"?",
+      "options": {
+        "A": "Planning This activity involves gathering information as basis for analysis toward identification of the need or",
+        "B": "An administrative procedure for case documentation.",
+        "C": "A supervisory technique for staff development.",
+        "D": "A method primarily used in individual counseling sessions."
+      },
+      "correctAnswer": "A",
+      "explanation": "Individual-focused Assessment and refers to Planning This activity involves gathering information as basis for analysis toward identification of the need or. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Individual-focused Assessment and",
+      "examSetId": 4,
+      "questionNumber": 89
+    },
+    {
+      "id": "expanded_262",
+      "type": "concept",
+      "question": "In social group work, what does \"Group Formation\" refer to?",
+      "options": {
+        "A": "A method primarily used in individual counseling sessions.",
+        "B": "An administrative procedure for case documentation.",
+        "C": "A supervisory technique for staff development.",
+        "D": "A key concept in social group work practice"
+      },
+      "correctAnswer": "D",
+      "explanation": "Group Formation refers to A key concept in social group work practice. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Group Formation",
+      "examSetId": 4,
+      "questionNumber": 90
+    },
+    {
+      "id": "expanded_264",
+      "type": "concept",
+      "question": "When working with groups, how would you explain \"Group-focused Planning (Use of\"?",
+      "options": {
+        "A": "An administrative procedure for case documentation.",
+        "B": "A method primarily used in individual counseling sessions.",
+        "C": "A supervisory technique for staff development.",
+        "D": "Program Media) Program media - are tools used by the group worker in working with groups to achieve goals. These are"
+      },
+      "correctAnswer": "D",
+      "explanation": "Group-focused Planning (Use of refers to Program Media) Program media - are tools used by the group worker in working with groups to achieve goals. These are. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Group-focused Planning (Use of",
+      "examSetId": 4,
+      "questionNumber": 91
+    },
+    {
+      "id": "expanded_265",
+      "type": "concept",
+      "question": "What is the significance of \"Group goals\" in social work with groups?",
+      "options": {
+        "A": "An administrative procedure for case documentation.",
+        "B": "A method primarily used in individual counseling sessions.",
+        "C": "ii. Members' objectives for joining iii. Appropriate to time and space",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "C",
+      "explanation": "Group goals refers to ii. Members' objectives for joining iii. Appropriate to time and space. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Group goals",
+      "examSetId": 4,
+      "questionNumber": 92
+    },
+    {
+      "id": "expanded_267",
+      "type": "concept",
+      "question": "How is \"Worker's skills and capacities\" best understood in the context of group practice?",
+      "options": {
+        "A": "A method primarily used in individual counseling sessions.",
+        "B": "A key concept in social group work practice",
+        "C": "An administrative procedure for case documentation.",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "B",
+      "explanation": "Worker's skills and capacities refers to A key concept in social group work practice. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Worker's skills and capacities",
+      "examSetId": 4,
+      "questionNumber": 93
+    },
+    {
+      "id": "expanded_268",
+      "type": "concept",
+      "question": "When working with groups, how would you explain \"Plan Implementation\"?",
+      "options": {
+        "A": "A key concept in social group work practice",
+        "B": "A method primarily used in individual counseling sessions.",
+        "C": "A supervisory technique for staff development.",
+        "D": "An administrative procedure for case documentation."
+      },
+      "correctAnswer": "A",
+      "explanation": "Plan Implementation refers to A key concept in social group work practice. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Plan Implementation",
+      "examSetId": 4,
+      "questionNumber": 94
+    },
+    {
+      "id": "expanded_269",
+      "type": "concept",
+      "question": "What is the significance of \"Evaluation Two types of evaluation used in SW practice:\" in social work with groups?",
+      "options": {
+        "A": "A method primarily used in individual counseling sessions.",
+        "B": "An administrative procedure for case documentation.",
+        "C": "A key concept in social group work practice",
+        "D": "A supervisory technique for staff development."
+      },
+      "correctAnswer": "C",
+      "explanation": "Evaluation Two types of evaluation used in SW practice: refers to A key concept in social group work practice. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Evaluation Two types of evaluation used in SW practice:",
+      "examSetId": 4,
+      "questionNumber": 95
+    },
+    {
+      "id": "expanded_270",
+      "type": "concept",
+      "question": "How is \"Regular, periodic or formative evaluation provides feedback to the worker at designated period\" best understood in the context of group practice?",
+      "options": {
+        "A": "A supervisory technique for staff development.",
+        "B": "A method primarily used in individual counseling sessions.",
+        "C": "while implementation is ongoing.",
+        "D": "An administrative procedure for case documentation."
+      },
+      "correctAnswer": "C",
+      "explanation": "Regular, periodic or formative evaluation provides feedback to the worker at designated period refers to while implementation is ongoing.. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Regular, periodic or formative evaluation provides feedback to the worker at designated period",
+      "examSetId": 4,
+      "questionNumber": 96
+    },
+    {
+      "id": "expanded_272",
+      "type": "concept",
+      "question": "In social group work, what does \"Terminal or Summative Evaluation - Evaluation conducted at the end of implementation period\" refer to?",
+      "options": {
+        "A": "A method primarily used in individual counseling sessions.",
+        "B": "An administrative procedure for case documentation.",
+        "C": "A supervisory technique for staff development.",
+        "D": "with the results measured versus the goals and objectives. Assesses actual goal achievement. It measures program impact."
+      },
+      "correctAnswer": "D",
+      "explanation": "Terminal or Summative Evaluation - Evaluation conducted at the end of implementation period refers to with the results measured versus the goals and objectives. Assesses actual goal achievement. It measures program impact.. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Terminal or Summative Evaluation - Evaluation conducted at the end of implementation period",
+      "examSetId": 4,
+      "questionNumber": 97
+    },
+    {
+      "id": "expanded_273",
+      "type": "concept",
+      "question": "When working with groups, how would you explain \"Individual level – through a worker’s case summary, where the comprehensiveness depends on\"?",
+      "options": {
+        "A": "A supervisory technique for staff development.",
+        "B": "An administrative procedure for case documentation.",
+        "C": "A method primarily used in individual counseling sessions.",
+        "D": "type of group service provided. Case summary contains the stated problem, goals and objectives, results of periodic and terminal evaluation."
+      },
+      "correctAnswer": "D",
+      "explanation": "Individual level – through a worker’s case summary, where the comprehensiveness depends on refers to type of group service provided. Case summary contains the stated problem, goals and objectives, results of periodic and terminal evaluation.. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Social Work Practice",
+      "concept": "Individual level – through a worker’s case summary, where the comprehensiveness depends on",
+      "examSetId": 4,
+      "questionNumber": 98
+    },
+    {
+      "id": "expanded_274",
+      "type": "concept",
+      "question": "In social group work, what does \"Group level -  Worker summary contains group concern, group goals and objectives, periodic and\" refer to?",
+      "options": {
+        "A": "A supervisory technique for staff development.",
+        "B": "An administrative procedure for case documentation.",
+        "C": "terminal evaluation.",
+        "D": "A method primarily used in individual counseling sessions."
+      },
+      "correctAnswer": "C",
+      "explanation": "Group level -  Worker summary contains group concern, group goals and objectives, periodic and refers to terminal evaluation.. This concept is important for understanding effective group work practice.",
+      "source": "Phases of Group Development and Social Work Helping Process",
+      "difficulty": "medium",
+      "topic": "Group Dynamics",
+      "concept": "Group level -  Worker summary contains group concern, group goals and objectives, periodic and",
+      "examSetId": 4,
+      "questionNumber": 99
+    },
+    {
+      "id": "practice_group leadership_1",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for group leadership?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering group leadership",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective group leadership requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "group leadership",
+      "examSetId": 4,
+      "questionNumber": 100
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-04T06:25:40.931Z",
+    "version": "1.0",
+    "source": "Social Work Group Practice Materials"
+  }
+}

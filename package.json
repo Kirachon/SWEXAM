@@ -1,0 +1,28 @@
+{
+  "name": "swexam",
+  "version": "1.0.0",
+  "description": "Social Welfare Examination - Interactive Quiz Application",
+  "main": "index.js",
+  "scripts": {
+    "extract": "node scripts/extract-pdf-content.js",
+    "process": "node scripts/process-questions.js",
+    "dev": "cd quiz-app && npm run dev",
+    "build": "cd quiz-app && npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kirachon/SWEXAM.git"
+  },
+  "keywords": ["social-work", "examination", "quiz", "education", "assessment"],
+  "author": "",
+  "license": "GPL-3.0",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kirachon/SWEXAM/issues"
+  },
+  "homepage": "https://github.com/Kirachon/SWEXAM#readme",
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  }
+}

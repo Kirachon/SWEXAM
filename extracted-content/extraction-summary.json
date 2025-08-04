@@ -1,0 +1,45 @@
+{
+  "summary": {
+    "totalFiles": 4,
+    "successfulExtractions": 4,
+    "failedExtractions": 0,
+    "totalPages": 68,
+    "totalWords": 11522,
+    "totalCharacters": 78597,
+    "extractedAt": "2025-08-04T06:11:36.132Z"
+  },
+  "files": [
+    {
+      "filename": "Concepts Used and Key Historical Events in Social Groupwork Practice (1).pdf",
+      "success": true,
+      "pages": 10,
+      "wordCount": 3544,
+      "textLength": 24186,
+      "error": null
+    },
+    {
+      "filename": "Group structure and process in social work 4.pdf",
+      "success": true,
+      "pages": 27,
+      "wordCount": 1269,
+      "textLength": 8765,
+      "error": null
+    },
+    {
+      "filename": "Group Work Approaches and Models.pdf",
+      "success": true,
+      "pages": 13,
+      "wordCount": 2103,
+      "textLength": 14665,
+      "error": null
+    },
+    {
+      "filename": "Phases of Group Development and Social Work Helping Process.pdf",
+      "success": true,
+      "pages": 18,
+      "wordCount": 4606,
+      "textLength": 30981,
+      "error": null
+    }
+  ]
+}

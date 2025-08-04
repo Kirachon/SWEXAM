@@ -1,0 +1,1919 @@
+{
+  "setId": 9,
+  "title": "Social Work Group Practice Exam Set 9",
+  "description": "Comprehensive examination covering social group work concepts, practices, and applications. Set 9 of 10.",
+  "questionCount": 100,
+  "topics": [
+    "Professional Practice"
+  ],
+  "difficulty": "mixed",
+  "timeLimit": 120,
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "practice_ethical considerations_36",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 1
+    },
+    {
+      "id": "practice_ethical considerations_37",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 2
+    },
+    {
+      "id": "practice_ethical considerations_38",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 3
+    },
+    {
+      "id": "practice_ethical considerations_39",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 4
+    },
+    {
+      "id": "practice_ethical considerations_40",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 5
+    },
+    {
+      "id": "practice_ethical considerations_41",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 6
+    },
+    {
+      "id": "practice_ethical considerations_42",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 7
+    },
+    {
+      "id": "practice_ethical considerations_43",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 8
+    },
+    {
+      "id": "practice_ethical considerations_44",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 9
+    },
+    {
+      "id": "practice_ethical considerations_45",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 10
+    },
+    {
+      "id": "practice_ethical considerations_46",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 11
+    },
+    {
+      "id": "practice_ethical considerations_47",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 12
+    },
+    {
+      "id": "practice_ethical considerations_48",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 13
+    },
+    {
+      "id": "practice_ethical considerations_49",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 14
+    },
+    {
+      "id": "practice_ethical considerations_50",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 15
+    },
+    {
+      "id": "practice_ethical considerations_52",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 16
+    },
+    {
+      "id": "practice_ethical considerations_53",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 17
+    },
+    {
+      "id": "practice_ethical considerations_54",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 18
+    },
+    {
+      "id": "practice_ethical considerations_55",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 19
+    },
+    {
+      "id": "practice_ethical considerations_56",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 20
+    },
+    {
+      "id": "practice_ethical considerations_57",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 21
+    },
+    {
+      "id": "practice_ethical considerations_58",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 22
+    },
+    {
+      "id": "practice_ethical considerations_59",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 23
+    },
+    {
+      "id": "practice_ethical considerations_60",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 24
+    },
+    {
+      "id": "practice_ethical considerations_61",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 25
+    },
+    {
+      "id": "practice_ethical considerations_62",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 26
+    },
+    {
+      "id": "practice_ethical considerations_63",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 27
+    },
+    {
+      "id": "practice_ethical considerations_64",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 28
+    },
+    {
+      "id": "practice_ethical considerations_65",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 29
+    },
+    {
+      "id": "practice_ethical considerations_66",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 30
+    },
+    {
+      "id": "practice_ethical considerations_67",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 31
+    },
+    {
+      "id": "practice_ethical considerations_68",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 32
+    },
+    {
+      "id": "practice_ethical considerations_69",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 33
+    },
+    {
+      "id": "practice_ethical considerations_70",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 34
+    },
+    {
+      "id": "practice_ethical considerations_72",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 35
+    },
+    {
+      "id": "practice_ethical considerations_73",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 36
+    },
+    {
+      "id": "practice_ethical considerations_74",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 37
+    },
+    {
+      "id": "practice_ethical considerations_75",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 38
+    },
+    {
+      "id": "practice_ethical considerations_76",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 39
+    },
+    {
+      "id": "practice_ethical considerations_77",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 40
+    },
+    {
+      "id": "practice_ethical considerations_78",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 41
+    },
+    {
+      "id": "practice_ethical considerations_80",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 42
+    },
+    {
+      "id": "practice_ethical considerations_81",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 43
+    },
+    {
+      "id": "practice_ethical considerations_82",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 44
+    },
+    {
+      "id": "practice_ethical considerations_83",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 45
+    },
+    {
+      "id": "practice_ethical considerations_84",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 46
+    },
+    {
+      "id": "practice_ethical considerations_85",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 47
+    },
+    {
+      "id": "practice_ethical considerations_86",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 48
+    },
+    {
+      "id": "practice_ethical considerations_88",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 49
+    },
+    {
+      "id": "practice_ethical considerations_89",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 50
+    },
+    {
+      "id": "practice_ethical considerations_90",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 51
+    },
+    {
+      "id": "practice_ethical considerations_91",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 52
+    },
+    {
+      "id": "practice_ethical considerations_92",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 53
+    },
+    {
+      "id": "practice_ethical considerations_93",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 54
+    },
+    {
+      "id": "practice_ethical considerations_94",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 55
+    },
+    {
+      "id": "practice_ethical considerations_95",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 56
+    },
+    {
+      "id": "practice_ethical considerations_96",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 57
+    },
+    {
+      "id": "practice_ethical considerations_97",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 58
+    },
+    {
+      "id": "practice_ethical considerations_98",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 59
+    },
+    {
+      "id": "practice_ethical considerations_99",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 60
+    },
+    {
+      "id": "practice_ethical considerations_100",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 61
+    },
+    {
+      "id": "practice_ethical considerations_101",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 62
+    },
+    {
+      "id": "practice_ethical considerations_102",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 63
+    },
+    {
+      "id": "practice_ethical considerations_103",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 64
+    },
+    {
+      "id": "practice_ethical considerations_104",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 65
+    },
+    {
+      "id": "practice_ethical considerations_105",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 66
+    },
+    {
+      "id": "practice_ethical considerations_106",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 67
+    },
+    {
+      "id": "practice_ethical considerations_107",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 68
+    },
+    {
+      "id": "practice_ethical considerations_108",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 69
+    },
+    {
+      "id": "practice_ethical considerations_109",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 70
+    },
+    {
+      "id": "practice_ethical considerations_110",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 71
+    },
+    {
+      "id": "practice_ethical considerations_111",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 72
+    },
+    {
+      "id": "practice_ethical considerations_112",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 73
+    },
+    {
+      "id": "practice_ethical considerations_114",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 74
+    },
+    {
+      "id": "practice_ethical considerations_115",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 75
+    },
+    {
+      "id": "practice_ethical considerations_116",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 76
+    },
+    {
+      "id": "practice_ethical considerations_117",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 77
+    },
+    {
+      "id": "practice_ethical considerations_118",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 78
+    },
+    {
+      "id": "practice_ethical considerations_119",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 79
+    },
+    {
+      "id": "practice_ethical considerations_120",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 80
+    },
+    {
+      "id": "practice_ethical considerations_122",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 81
+    },
+    {
+      "id": "practice_ethical considerations_123",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 82
+    },
+    {
+      "id": "practice_ethical considerations_124",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 83
+    },
+    {
+      "id": "practice_ethical considerations_125",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 84
+    },
+    {
+      "id": "practice_ethical considerations_126",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for ethical considerations?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering ethical considerations",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective ethical considerations requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "ethical considerations",
+      "examSetId": 9,
+      "questionNumber": 85
+    },
+    {
+      "id": "practice_cultural competence_1",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for cultural competence?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering cultural competence",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective cultural competence requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "cultural competence",
+      "examSetId": 9,
+      "questionNumber": 86
+    },
+    {
+      "id": "practice_cultural competence_2",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for cultural competence?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering cultural competence",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective cultural competence requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "cultural competence",
+      "examSetId": 9,
+      "questionNumber": 87
+    },
+    {
+      "id": "practice_cultural competence_3",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for cultural competence?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering cultural competence",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective cultural competence requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "cultural competence",
+      "examSetId": 9,
+      "questionNumber": 88
+    },
+    {
+      "id": "practice_cultural competence_4",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for cultural competence?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering cultural competence",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective cultural competence requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "cultural competence",
+      "examSetId": 9,
+      "questionNumber": 89
+    },
+    {
+      "id": "practice_cultural competence_5",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for cultural competence?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering cultural competence",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective cultural competence requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "cultural competence",
+      "examSetId": 9,
+      "questionNumber": 90
+    },
+    {
+      "id": "practice_cultural competence_6",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for cultural competence?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering cultural competence",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective cultural competence requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "cultural competence",
+      "examSetId": 9,
+      "questionNumber": 91
+    },
+    {
+      "id": "practice_cultural competence_7",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for cultural competence?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering cultural competence",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective cultural competence requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "cultural competence",
+      "examSetId": 9,
+      "questionNumber": 92
+    },
+    {
+      "id": "practice_cultural competence_8",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for cultural competence?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering cultural competence",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective cultural competence requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "cultural competence",
+      "examSetId": 9,
+      "questionNumber": 93
+    },
+    {
+      "id": "practice_cultural competence_9",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for cultural competence?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering cultural competence",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective cultural competence requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "cultural competence",
+      "examSetId": 9,
+      "questionNumber": 94
+    },
+    {
+      "id": "practice_cultural competence_10",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for cultural competence?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering cultural competence",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective cultural competence requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "cultural competence",
+      "examSetId": 9,
+      "questionNumber": 95
+    },
+    {
+      "id": "practice_cultural competence_11",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for cultural competence?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering cultural competence",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective cultural competence requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "cultural competence",
+      "examSetId": 9,
+      "questionNumber": 96
+    },
+    {
+      "id": "practice_cultural competence_13",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for cultural competence?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering cultural competence",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective cultural competence requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "cultural competence",
+      "examSetId": 9,
+      "questionNumber": 97
+    },
+    {
+      "id": "practice_cultural competence_15",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for cultural competence?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering cultural competence",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective cultural competence requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "cultural competence",
+      "examSetId": 9,
+      "questionNumber": 98
+    },
+    {
+      "id": "practice_cultural competence_16",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for cultural competence?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering cultural competence",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective cultural competence requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "cultural competence",
+      "examSetId": 9,
+      "questionNumber": 99
+    },
+    {
+      "id": "practice_cultural competence_17",
+      "type": "practice",
+      "question": "In social group work, what is a key consideration for cultural competence?",
+      "options": {
+        "A": "Maintaining professional boundaries while fostering cultural competence",
+        "B": "Focusing solely on individual needs rather than group dynamics",
+        "C": "Avoiding any challenges that might create discomfort",
+        "D": "Prioritizing administrative requirements over client needs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Effective cultural competence requires balancing professional responsibilities with group needs and maintaining appropriate boundaries.",
+      "source": "Social Work Practice Principles",
+      "difficulty": "medium",
+      "topic": "Professional Practice",
+      "concept": "cultural competence",
+      "examSetId": 9,
+      "questionNumber": 100
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-08-04T06:25:40.936Z",
+    "version": "1.0",
+    "source": "Social Work Group Practice Materials"
+  }
+}

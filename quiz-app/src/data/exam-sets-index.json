@@ -1,0 +1,159 @@
+{
+  "metadata": {
+    "totalSets": 10,
+    "questionsPerSet": 100,
+    "totalQuestions": 1000,
+    "createdAt": "2025-08-04T06:25:40.954Z",
+    "version": "1.0"
+  },
+  "examSets": [
+    {
+      "setId": 1,
+      "title": "Social Work Group Practice Exam Set 1",
+      "description": "Comprehensive examination covering social group work concepts, practices, and applications. Set 1 of 10.",
+      "questionCount": 100,
+      "topics": [
+        "General Social Work",
+        "Professional Practice",
+        "Social Work Practice",
+        "Practice Approaches",
+        "Group Development",
+        "Group Dynamics",
+        "Application",
+        "Group Process",
+        "Group Structure",
+        "Practice Application",
+        "Conceptual Understanding"
+      ],
+      "difficulty": "mixed",
+      "timeLimit": 120,
+      "passingScore": 70,
+      "filename": "exam-set-1.json"
+    },
+    {
+      "setId": 2,
+      "title": "Social Work Group Practice Exam Set 2",
+      "description": "Comprehensive examination covering social group work concepts, practices, and applications. Set 2 of 10.",
+      "questionCount": 100,
+      "topics": [
+        "General Social Work",
+        "Professional Practice",
+        "Social Work Practice",
+        "Group Dynamics"
+      ],
+      "difficulty": "mixed",
+      "timeLimit": 120,
+      "passingScore": 70,
+      "filename": "exam-set-2.json"
+    },
+    {
+      "setId": 3,
+      "title": "Social Work Group Practice Exam Set 3",
+      "description": "Comprehensive examination covering social group work concepts, practices, and applications. Set 3 of 10.",
+      "questionCount": 100,
+      "topics": [
+        "General Social Work",
+        "Professional Practice",
+        "Social Work Practice",
+        "Group Dynamics"
+      ],
+      "difficulty": "mixed",
+      "timeLimit": 120,
+      "passingScore": 70,
+      "filename": "exam-set-3.json"
+    },
+    {
+      "setId": 4,
+      "title": "Social Work Group Practice Exam Set 4",
+      "description": "Comprehensive examination covering social group work concepts, practices, and applications. Set 4 of 10.",
+      "questionCount": 100,
+      "topics": [
+        "Professional Practice",
+        "Social Work Practice",
+        "Group Dynamics"
+      ],
+      "difficulty": "mixed",
+      "timeLimit": 120,
+      "passingScore": 70,
+      "filename": "exam-set-4.json"
+    },
+    {
+      "setId": 5,
+      "title": "Social Work Group Practice Exam Set 5",
+      "description": "Comprehensive examination covering social group work concepts, practices, and applications. Set 5 of 10.",
+      "questionCount": 100,
+      "topics": [
+        "Professional Practice"
+      ],
+      "difficulty": "mixed",
+      "timeLimit": 120,
+      "passingScore": 70,
+      "filename": "exam-set-5.json"
+    },
+    {
+      "setId": 6,
+      "title": "Social Work Group Practice Exam Set 6",
+      "description": "Comprehensive examination covering social group work concepts, practices, and applications. Set 6 of 10.",
+      "questionCount": 100,
+      "topics": [
+        "Professional Practice"
+      ],
+      "difficulty": "mixed",
+      "timeLimit": 120,
+      "passingScore": 70,
+      "filename": "exam-set-6.json"
+    },
+    {
+      "setId": 7,
+      "title": "Social Work Group Practice Exam Set 7",
+      "description": "Comprehensive examination covering social group work concepts, practices, and applications. Set 7 of 10.",
+      "questionCount": 100,
+      "topics": [
+        "Professional Practice"
+      ],
+      "difficulty": "mixed",
+      "timeLimit": 120,
+      "passingScore": 70,
+      "filename": "exam-set-7.json"
+    },
+    {
+      "setId": 8,
+      "title": "Social Work Group Practice Exam Set 8",
+      "description": "Comprehensive examination covering social group work concepts, practices, and applications. Set 8 of 10.",
+      "questionCount": 100,
+      "topics": [
+        "Professional Practice"
+      ],
+      "difficulty": "mixed",
+      "timeLimit": 120,
+      "passingScore": 70,
+      "filename": "exam-set-8.json"
+    },
+    {
+      "setId": 9,
+      "title": "Social Work Group Practice Exam Set 9",
+      "description": "Comprehensive examination covering social group work concepts, practices, and applications. Set 9 of 10.",
+      "questionCount": 100,
+      "topics": [
+        "Professional Practice"
+      ],
+      "difficulty": "mixed",
+      "timeLimit": 120,
+      "passingScore": 70,
+      "filename": "exam-set-9.json"
+    },
+    {
+      "setId": 10,
+      "title": "Social Work Group Practice Exam Set 10",
+      "description": "Comprehensive examination covering social group work concepts, practices, and applications. Set 10 of 10.",
+      "questionCount": 100,
+      "topics": [
+        "Professional Practice"
+      ],
+      "difficulty": "mixed",
+      "timeLimit": 120,
+      "passingScore": 70,
+      "filename": "exam-set-10.json"
+    }
+  ]
+}
