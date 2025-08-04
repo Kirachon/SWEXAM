@@ -1,23 +1,93 @@
 /* Social Work Examination Quiz App - Main Styles */
 
-/* CSS Variables for consistent theming */
+/* Enhanced CSS Variables for Modern Educational Design */
 :root {
-  --primary-color: #2563eb;
-  --primary-hover: #1d4ed8;
-  --secondary-color: #64748b;
+  /* Primary Colors - Professional Blue-Green Palette */
+  --primary-color: #0f766e;
+  --primary-hover: #0d5b52;
+  --primary-light: #5eead4;
+  --primary-gradient: linear-gradient(135deg, #0f766e 0%, #14b8a6 100%);
+
+  /* Secondary Colors - Warm Grays */
+  --secondary-color: #475569;
+  --secondary-hover: #334155;
+  --secondary-light: #94a3b8;
+
+  /* Status Colors - Enhanced for Better UX */
   --success-color: #059669;
+  --success-light: #a7f3d0;
+  --success-gradient: linear-gradient(135deg, #059669 0%, #10b981 100%);
+
   --warning-color: #d97706;
+  --warning-light: #fed7aa;
+  --warning-gradient: linear-gradient(135deg, #d97706 0%, #f59e0b 100%);
+
   --error-color: #dc2626;
-  --background-color: #f8fafc;
+  --error-light: #fecaca;
+  --error-gradient: linear-gradient(135deg, #dc2626 0%, #ef4444 100%);
+
+  --info-color: #0284c7;
+  --info-light: #bae6fd;
+  --info-gradient: linear-gradient(135deg, #0284c7 0%, #0ea5e9 100%);
+
+  /* Background Colors - Layered Design */
+  --background-color: #f1f5f9;
+  --background-gradient: linear-gradient(135deg, #f1f5f9 0%, #e2e8f0 100%);
   --surface-color: #ffffff;
-  --text-primary: #1e293b;
-  --text-secondary: #64748b;
+  --surface-elevated: #fefefe;
+  --surface-overlay: rgba(255, 255, 255, 0.95);
+
+  /* Text Colors - Enhanced Hierarchy */
+  --text-primary: #0f172a;
+  --text-secondary: #475569;
+  --text-tertiary: #64748b;
+  --text-muted: #94a3b8;
+  --text-inverse: #ffffff;
+
+  /* Border and Divider Colors */
   --border-color: #e2e8f0;
-  --border-radius: 8px;
-  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --border-light: #f1f5f9;
+  --border-strong: #cbd5e1;
+  --divider-color: #e2e8f0;
+
+  /* Interactive States */
+  --hover-overlay: rgba(15, 118, 110, 0.04);
+  --active-overlay: rgba(15, 118, 110, 0.08);
+  --focus-ring: 0 0 0 3px rgba(15, 118, 110, 0.1);
+
+  /* Spacing and Layout */
+  --border-radius: 12px;
+  --border-radius-sm: 8px;
+  --border-radius-lg: 16px;
+  --border-radius-xl: 24px;
+
+  /* Enhanced Shadows for Depth */
+  --shadow-xs: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow-sm: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
   --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
   --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
-  --transition: all 0.2s ease-in-out;
+  --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+  --shadow-2xl: 0 25px 50px -12px rgb(0 0 0 / 0.25);
+  --shadow-inner: inset 0 2px 4px 0 rgb(0 0 0 / 0.05);
+
+  /* Transitions and Animations */
+  --transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-fast: all 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* Typography Scale */
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-2xl: 1.5rem;
+  --font-size-3xl: 1.875rem;
+  --font-size-4xl: 2.25rem;
+
+  --line-height-tight: 1.25;
+  --line-height-normal: 1.5;
+  --line-height-relaxed: 1.75;
 }
 
 /* Reset and base styles */
@@ -33,9 +103,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: var(--background-color);
+  background: var(--background-gradient);
   color: var(--text-primary);
-  line-height: 1.6;
+  line-height: var(--line-height-normal);
+  font-size: var(--font-size-base);
+  min-height: 100vh;
 }
 
 /* Quiz App Container */
@@ -45,24 +117,47 @@ body {
   flex-direction: column;
 }
 
-/* Header Styles */
+/* Enhanced Header Styles */
 .app-header {
-  background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-hover) 100%);
-  color: white;
-  padding: 2rem 1rem;
+  background: var(--primary-gradient);
+  color: var(--text-inverse);
+  padding: 3rem 1rem;
   text-align: center;
-  box-shadow: var(--shadow-md);
+  box-shadow: var(--shadow-lg);
+  position: relative;
+  overflow: hidden;
+}
+
+.app-header::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="grid" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M 10 0 L 0 0 0 10" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="0.5"/></pattern></defs><rect width="100" height="100" fill="url(%23grid)"/></svg>');
+  pointer-events: none;
 }
 
 .app-header h1 {
-  font-size: 2.5rem;
-  font-weight: 700;
-  margin-bottom: 0.5rem;
+  font-size: var(--font-size-4xl);
+  font-weight: 800;
+  margin-bottom: 0.75rem;
+  position: relative;
+  z-index: 1;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  letter-spacing: -0.025em;
 }
 
 .app-header p {
-  font-size: 1.1rem;
-  opacity: 0.9;
+  font-size: var(--font-size-lg);
+  opacity: 0.95;
+  position: relative;
+  z-index: 1;
+  font-weight: 400;
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: var(--line-height-relaxed);
 }
 
 /* Main Content */
@@ -138,113 +233,173 @@ body {
   color: var(--text-secondary);
 }
 
-/* Button Styles */
+/* Enhanced Button Styles */
 .btn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  padding: 0.75rem 1.5rem;
-  font-size: 1rem;
-  font-weight: 500;
+  padding: 0.875rem 1.75rem;
+  font-size: var(--font-size-base);
+  font-weight: 600;
   border: none;
   border-radius: var(--border-radius);
   cursor: pointer;
   transition: var(--transition);
   text-decoration: none;
-  min-height: 44px; /* Accessibility: minimum touch target */
+  min-height: 48px; /* Enhanced accessibility */
+  position: relative;
+  overflow: hidden;
+  letter-spacing: 0.025em;
+}
+
+.btn::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+  transition: left 0.5s;
+}
+
+.btn:hover::before {
+  left: 100%;
 }
 
 .btn-primary {
-  background-color: var(--primary-color);
-  color: white;
+  background: var(--primary-gradient);
+  color: var(--text-inverse);
+  box-shadow: var(--shadow-sm);
 }
 
 .btn-primary:hover {
-  background-color: var(--primary-hover);
-  transform: translateY(-1px);
-  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+  filter: brightness(1.05);
+}
+
+.btn-primary:active {
+  transform: translateY(0);
+  box-shadow: var(--shadow-sm);
 }
 
 .btn-secondary {
-  background-color: var(--secondary-color);
-  color: white;
+  background: linear-gradient(135deg, var(--secondary-color) 0%, var(--secondary-hover) 100%);
+  color: var(--text-inverse);
+  box-shadow: var(--shadow-sm);
 }
 
 .btn-secondary:hover {
-  background-color: #475569;
-  transform: translateY(-1px);
-  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+  filter: brightness(1.05);
 }
 
 .btn-success {
-  background-color: var(--success-color);
-  color: white;
+  background: var(--success-gradient);
+  color: var(--text-inverse);
+  box-shadow: var(--shadow-sm);
 }
 
 .btn-success:hover {
-  background-color: #047857;
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+  filter: brightness(1.05);
 }
 
 .btn-warning {
-  background-color: var(--warning-color);
-  color: white;
+  background: var(--warning-gradient);
+  color: var(--text-inverse);
+  box-shadow: var(--shadow-sm);
 }
 
 .btn-warning:hover {
-  background-color: #b45309;
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+  filter: brightness(1.05);
 }
 
 .btn-outline {
-  background-color: transparent;
+  background-color: var(--surface-color);
   border: 2px solid var(--primary-color);
   color: var(--primary-color);
+  box-shadow: var(--shadow-sm);
 }
 
 .btn-outline:hover {
-  background-color: var(--primary-color);
-  color: white;
+  background: var(--primary-gradient);
+  color: var(--text-inverse);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
 }
 
 .btn:disabled {
-  opacity: 0.6;
+  opacity: 0.5;
   cursor: not-allowed;
   transform: none;
+  filter: grayscale(1);
 }
 
 .btn:disabled:hover {
   transform: none;
-  box-shadow: none;
+  box-shadow: var(--shadow-sm);
+  filter: grayscale(1);
 }
 
-/* Card Styles */
+.btn:disabled::before {
+  display: none;
+}
+
+/* Enhanced Card Styles */
 .card {
   background-color: var(--surface-color);
-  border-radius: var(--border-radius);
-  box-shadow: var(--shadow-sm);
-  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius-lg);
+  box-shadow: var(--shadow-md);
+  border: 1px solid var(--border-light);
   overflow: hidden;
+  transition: var(--transition);
+  position: relative;
+}
+
+.card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: var(--primary-gradient);
+  opacity: 0;
   transition: var(--transition);
 }
 
 .card:hover {
-  box-shadow: var(--shadow-md);
-  transform: translateY(-2px);
+  box-shadow: var(--shadow-xl);
+  transform: translateY(-4px);
+  border-color: var(--border-color);
+}
+
+.card:hover::before {
+  opacity: 1;
 }
 
 .card-header {
-  padding: 1.5rem;
-  border-bottom: 1px solid var(--border-color);
-  background-color: #f8fafc;
+  padding: 2rem;
+  border-bottom: 1px solid var(--border-light);
+  background: linear-gradient(135deg, var(--surface-color) 0%, var(--background-color) 100%);
+  position: relative;
 }
 
 .card-body {
-  padding: 1.5rem;
+  padding: 2rem;
+  background-color: var(--surface-color);
 }
 
 .card-footer {
-  padding: 1rem 1.5rem;
-  border-top: 1px solid var(--border-color);
-  background-color: #f8fafc;
+  padding: 1.5rem 2rem;
+  border-top: 1px solid var(--border-light);
+  background: linear-gradient(135deg, var(--background-color) 0%, var(--surface-color) 100%);
 }
 
 /* Grid System */
@@ -352,3 +507,111 @@ body {
 .shadow { box-shadow: var(--shadow-sm); }
 .shadow-md { box-shadow: var(--shadow-md); }
 .shadow-lg { box-shadow: var(--shadow-lg); }
+
+/* Modern Animations and Micro-interactions */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInScale {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes bounce {
+  0%, 20%, 53%, 80%, 100% {
+    transform: translate3d(0, 0, 0);
+  }
+  40%, 43% {
+    transform: translate3d(0, -8px, 0);
+  }
+  70% {
+    transform: translate3d(0, -4px, 0);
+  }
+  90% {
+    transform: translate3d(0, -2px, 0);
+  }
+}
+
+@keyframes glow {
+  0%, 100% {
+    box-shadow: 0 0 5px rgba(15, 118, 110, 0.2);
+  }
+  50% {
+    box-shadow: 0 0 20px rgba(15, 118, 110, 0.4), 0 0 30px rgba(15, 118, 110, 0.2);
+  }
+}
+
+/* Animation Classes */
+.animate-fadeInUp {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+.animate-fadeInScale {
+  animation: fadeInScale 0.4s ease-out;
+}
+
+.animate-slideInRight {
+  animation: slideInRight 0.5s ease-out;
+}
+
+.animate-bounce {
+  animation: bounce 1s ease-in-out;
+}
+
+.animate-glow {
+  animation: glow 2s ease-in-out infinite;
+}
+
+/* Staggered animations for lists */
+.stagger-children > * {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+.stagger-children > *:nth-child(1) { animation-delay: 0.1s; }
+.stagger-children > *:nth-child(2) { animation-delay: 0.2s; }
+.stagger-children > *:nth-child(3) { animation-delay: 0.3s; }
+.stagger-children > *:nth-child(4) { animation-delay: 0.4s; }
+.stagger-children > *:nth-child(5) { animation-delay: 0.5s; }
+.stagger-children > *:nth-child(6) { animation-delay: 0.6s; }
+
+/* Focus states for accessibility */
+*:focus {
+  outline: none;
+  box-shadow: var(--focus-ring);
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Selection styling */
+::selection {
+  background-color: rgba(15, 118, 110, 0.2);
+  color: var(--text-primary);
+}

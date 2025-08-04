@@ -31,7 +31,7 @@ const ExamSetSelector = ({ examSets, onSelectExamSet }) => {
         <p>Select from {examSets.length} comprehensive social work examination sets</p>
       </div>
 
-      <div className="exam-sets-grid">
+      <div className="exam-sets-grid stagger-children">
         {examSets.map((examSet) => (
           <div
             key={examSet.setId}

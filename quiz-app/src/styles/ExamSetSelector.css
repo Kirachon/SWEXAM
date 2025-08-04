@@ -1,24 +1,43 @@
-/* Exam Set Selector Styles */
+/* Enhanced Exam Set Selector Styles */
 
 .exam-set-selector {
-  max-width: 800px;
+  max-width: 1000px;
   margin: 0 auto;
+  padding: 2rem 1rem;
 }
 
 .selector-header {
   text-align: center;
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
+  position: relative;
+}
+
+.selector-header::after {
+  content: '';
+  position: absolute;
+  bottom: -1rem;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80px;
+  height: 4px;
+  background: var(--primary-gradient);
+  border-radius: 2px;
 }
 
 .selector-header h2 {
-  font-size: 2rem;
+  font-size: var(--font-size-3xl);
   color: var(--text-primary);
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
+  letter-spacing: -0.025em;
 }
 
 .selector-header p {
   color: var(--text-secondary);
-  font-size: 1.1rem;
+  font-size: var(--font-size-lg);
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: var(--line-height-relaxed);
 }
 
 .exam-sets-grid {
@@ -30,40 +49,83 @@
 
 .exam-set-card {
   background-color: var(--surface-color);
-  border-radius: var(--border-radius);
-  box-shadow: var(--shadow-sm);
-  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius-lg);
+  box-shadow: var(--shadow-md);
+  border: 2px solid var(--border-light);
   overflow: hidden;
   transition: var(--transition);
   cursor: pointer;
+  position: relative;
+}
+
+.exam-set-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 6px;
+  background: var(--primary-gradient);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.3s ease;
 }
 
 .exam-set-card:hover {
-  box-shadow: var(--shadow-md);
-  transform: translateY(-2px);
+  box-shadow: var(--shadow-xl);
+  transform: translateY(-6px);
   border-color: var(--primary-color);
+}
+
+.exam-set-card:hover::before {
+  transform: scaleX(1);
 }
 
 .exam-set-card.selected {
   border-color: var(--primary-color);
-  box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.2);
+  box-shadow: var(--shadow-xl), 0 0 0 3px rgba(15, 118, 110, 0.1);
+  transform: translateY(-4px);
+}
+
+.exam-set-card.selected::before {
+  transform: scaleX(1);
 }
 
 .exam-set-header {
-  padding: 1.5rem;
-  background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-hover) 100%);
-  color: white;
+  padding: 2rem;
+  background: var(--primary-gradient);
+  color: var(--text-inverse);
+  position: relative;
+  overflow: hidden;
+}
+
+.exam-set-header::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: -50px;
+  width: 100px;
+  height: 100px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 50%;
+  transform: translate(25%, -25%);
 }
 
 .exam-set-title {
-  font-size: 1.25rem;
-  font-weight: 600;
-  margin-bottom: 0.5rem;
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+  position: relative;
+  z-index: 1;
+  letter-spacing: -0.025em;
 }
 
 .exam-set-subtitle {
-  font-size: 0.9rem;
-  opacity: 0.9;
+  font-size: var(--font-size-sm);
+  opacity: 0.95;
+  position: relative;
+  z-index: 1;
+  font-weight: 500;
 }
 
 .exam-set-body {
